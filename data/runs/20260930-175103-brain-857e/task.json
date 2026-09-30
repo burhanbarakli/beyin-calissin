@@ -1,0 +1,135 @@
+{
+ "student": "Alper",
+ "teacher_note": "",
+ "exams": [
+  {
+   "id": "Branş/Mat/BSBD1",
+   "folder": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1",
+   "name": "BSBD1",
+   "date": "",
+   "type": "TYT",
+   "group": "Branş",
+   "result_pdf": "",
+   "booklet_pdfs": [],
+   "images": [
+    {
+     "file": "BSBD1_Mat_Bölme_Yapamadı_14_C.jpeg",
+     "code": "BSBD1",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Bölme",
+     "status": "Yapamadı",
+     "no": 14,
+     "answer": "C",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1\\BSBD1_Mat_Bölme_Yapamadı_14_C.jpeg"
+    },
+    {
+     "file": "BSBD1_Mat_Eşitsizlik_Yapamadı_13_A.jpeg",
+     "code": "BSBD1",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Eşitsizlik",
+     "status": "Yapamadı",
+     "no": 13,
+     "answer": "A",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1\\BSBD1_Mat_Eşitsizlik_Yapamadı_13_A.jpeg"
+    },
+    {
+     "file": "BSBD1_Mat_KarePrizma_Yapamadı_39_C.jpeg",
+     "code": "BSBD1",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "KarePrizma",
+     "status": "Yapamadı",
+     "no": 39,
+     "answer": "C",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1\\BSBD1_Mat_KarePrizma_Yapamadı_39_C.jpeg"
+    },
+    {
+     "file": "BSBD1_Mat_Mantık_Yapamadı_11_E.jpeg",
+     "code": "BSBD1",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Mantık",
+     "status": "Yapamadı",
+     "no": 11,
+     "answer": "E",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1\\BSBD1_Mat_Mantık_Yapamadı_11_E.jpeg"
+    },
+    {
+     "file": "BSBD1_Mat_Olasılık_Yapamadı_30_C.jpeg",
+     "code": "BSBD1",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Olasılık",
+     "status": "Yapamadı",
+     "no": 30,
+     "answer": "C",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1\\BSBD1_Mat_Olasılık_Yapamadı_30_C.jpeg"
+    },
+    {
+     "file": "BSBD1_Mat_UcgenBenzerlik_Yapamadı_33_C.jpeg",
+     "code": "BSBD1",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "UcgenBenzerlik",
+     "status": "Yapamadı",
+     "no": 33,
+     "answer": "C",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1\\BSBD1_Mat_UcgenBenzerlik_Yapamadı_33_C.jpeg"
+    },
+    {
+     "file": "BSBD1_Mat_UcgenBenzerlik_Yapamadı_34_B.jpeg",
+     "code": "BSBD1",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "UcgenBenzerlik",
+     "status": "Yapamadı",
+     "no": 34,
+     "answer": "B",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1\\BSBD1_Mat_UcgenBenzerlik_Yapamadı_34_B.jpeg"
+    },
+    {
+     "file": "BSBD1_Mat_ÖzelDörtgen_Yapamadı_36_C.jpeg",
+     "code": "BSBD1",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "ÖzelDörtgen",
+     "status": "Yapamadı",
+     "no": 36,
+     "answer": "C",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1\\BSBD1_Mat_ÖzelDörtgen_Yapamadı_36_C.jpeg"
+    }
+   ],
+   "analysis": null,
+   "notes": ""
+  }
+ ],
+ "images": [],
+ "subjects": [
+  "mat"
+ ],
+ "counts": {
+  "hatirlatici": 3,
+  "pekistirme": 4,
+  "zorlayici": 2
+ },
+ "max_topics": 4,
+ "exclude_qids": [
+  "tyt_mat_4_4|p361|q10",
+  "tyt_mat_4_4|p341|q9",
+  "tyt_mat_4_4|p372|q9",
+  "tyt_mat_4_4|p375|q5",
+  "tyt_mat_3Adm|p126|q12",
+  "tyt_mat_3Adm|p126|q14",
+  "tyt_mat_4_4|p327|q9",
+  "tyt_mat_3Adm|p117|q1",
+  "tyt_mat_3Adm|p117|q5",
+  "tyt_mat_3Adm|p117|q8",
+  "tyt_mat_3Adm|p121|q1",
+  "tyt_mat_3Adm|p21|q1",
+  "tyt_mat_3Adm|p15|q5",
+  "tyt_mat_3Adm|p17|q3",
+  "tyt_mat_3Adm|p23|q4"
+ ]
+}

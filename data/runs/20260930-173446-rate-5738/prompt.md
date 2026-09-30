@@ -1,0 +1,1 @@
+brain/RATE.md dosyasındaki talimatları uygula. BOOK = tyt_mat_tarama. LIMIT = 15. RUN_DIR = data/runs/20260930-173446-rate-5738. Türkçe çalış.

@@ -1,0 +1,16 @@
+{
+  "id": "20260930-173446-rate-5738",
+  "kind": "rate",
+  "title": "Zorluk puanlama: tyt_mat_tarama (15 soru)",
+  "params": {
+    "book": "tyt_mat_tarama"
+  },
+  "status": "done",
+  "created": "2026-09-30T17:34:46",
+  "run_dir": "C:\\Users\\burha\\OneDrive\\Belgeler\\WORKS\\irfan hoca\\data\\runs\\20260930-173446-rate-5738",
+  "pid": 24824,
+  "result_text": "`tyt_mat_tarama` kitabından 15 soruyu puanladım ve soru bankasına kaydettim. Soruların metinleri çoğunlukla okunaklıydı. Yalnızca şekil içeren iki soruya (p6-q12 ve p7-q15) görsel üretip ayrıca baktım.\n\n**Puan dağılımı:**\n\n| Puan | Soru sayısı |\n|---|---|\n| 1 | 0 |\n| 2 | 1 |\n| 3 | 7 |\n| 4 | 7 |\n| 5 | 0 |\n\n**Genel değerlendirme:** Bu tarama kitabının ilk sayfaları (sayılar, tek-çift, işaret incelemesi, basamak çözümlemesi, tanımlı işlemler) TYT ortalamasının biraz üzerinde. Sorular genellikle birkaç durumu tek tek denemeyi ve \"kesinlikle, daima\" türü ifadelere dikkat etmeyi gerektiriyor. Doğrudan tanım sorusu yok, ÖSYM'nin en zor sorusu düzeyinde de soru yok. Bu nedenle kitap orta-iyi seviyedeki öğrenciye uygun görünüyor.\n\nKitaptaki 568 sorudan 553'ü hâlâ puansız. Puanlar ve kısa gerekçeler `data/runs/20260930-173446-rate-5738/ratings.json` dosyasında.",
+  "cost_usd": 0.24602059999999998,
+  "duration_s": 35.17,
+  "finished": "2026-09-30T17:35:24"
+}

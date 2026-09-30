@@ -1,0 +1,5721 @@
+{
+ "book": {
+  "id": "tyt_fizik_tarama",
+  "path": "D:\\Alper_irfanhoca\\MEB_TYT_Soru\\tyt_fizik_tarama.pdf",
+  "exam": "TYT",
+  "subject": "fizik",
+  "subject_name": "Fizik",
+  "kind": "tarama",
+  "kind_name": "Tarama"
+ },
+ "pages": 72,
+ "offset": 0,
+ "toc": [
+  [
+   9,
+   "TYT TARAMA TESTİ-1"
+  ],
+  [
+   15,
+   "TYT TARAMA TESTİ-2"
+  ],
+  [
+   21,
+   "TYT TARAMA TESTİ-3"
+  ],
+  [
+   26,
+   "TYT TARAMA TESTİ-4"
+  ],
+  [
+   36,
+   "TYT TARAMA TESTİ-5"
+  ],
+  [
+   42,
+   "TYT TARAMA TESTİ-6"
+  ],
+  [
+   49,
+   "TYT TARAMA TESTİ-7"
+  ],
+  [
+   57,
+   "TYT TARAMA TESTİ-8"
+  ],
+  [
+   67,
+   "TYT TARAMA TESTİ-9"
+  ],
+  [
+   76,
+   "CEVAP ANAHTARI"
+  ]
+ ],
+ "key_pages": [
+  70,
+  71,
+  72
+ ],
+ "questions": [
+  {
+   "qid": "tyt_fizik_tarama|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    321.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    44.5,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "1. Evrenin sırlarını anlamak amacıyla kurulan CERN’de “Biz buraya nasıl geldik?” “Büyük patlamadan sonra antimaddeden daha fazla madde nasıl oluştu?” ve “Kütle nasıl oluştu?” gibi sorulara cevap aranıyor. Aslında amaç, evrenin en küçük yapıtaşlarının evrenin şekillenmesine nasıl katkıda bulunduğunu öğrenmek. Bunun için Higgs parçacığı ve karanlık madde üzerine çalışılıyor. Yukarıdaki metinde CERN’deki çalışmaların fiziğin alt dallarından hangisi ile daha fazla ilgili olduğu çıkarılabilir? A) Katı Hâl Fiziği B) Nükleer Fizik C) Termodinamik D) Yüksek Enerji ve Plazma Fiziği E) Atom Fiziği",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    30.0,
+    427.2,
+    272.4,
+    592.1
+   ],
+   "num": [
+    36.0,
+    425.9,
+    44.5,
+    439.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "2. Ezgi, deniz kenarında yürüyüş yapmaya karar verir. Başlangıçta sabit bir hızla yürüyerek belirli bir mesafe kateder. Ancak deniz kıyısındaki kumluk bölgeye geldiğinde yavaşladığını fark eder. Bu süreçte, daha fazla efor sarf ettiğini ve buna bağlı olarak da harcadığı enerjinin arttığını hisseder. Yürüyüşü sırasında geçen süreyi kol saatinden ölçerek ortalama süratini hesaplar. Buna göre verilen birimlerden hangisi, metinde yer alan fiziksel büyüklüklerden birine ait değildir? A) m B) J C) s D) m/s E) N",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    402.8
+   ],
+   "num": [
+    287.7,
+    79.0,
+    296.2,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "3. Aşağıda bazı teknolojik ürünler verilmiştir. Ürün Güneş panelleri Termos Elektrik motoru Bu ürünlerin geliştirilmesinde mekanik, termodinamik, elektromanyetizma, optik, katı hâl fiziği, atom fiziği ve nükleer fizik alt dallarından biri veya birkaçı etkili olabilir. Buna göre I. Güneş paneli ile elektrik üretimi, katı hâl fiziği ve elektromanyetizmanın ortak ürünüdür. II. Termos, ısı yalıtımına dayandığı için termodinamik yasalarına göre tasarımı yapılmıştır. III. Elektrik motoru, yalnızca mekanik bilimiyle açıklanabilir, elektromanyetizmayla ilgisi yoktur. yargılarından hangileri doğru olur",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    462.8
+   ],
+   "num": [
+    36.0,
+    79.0,
+    44.5,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "4. Şekildeki eşit kollu terazinin sol kefesine 5 kg kütleli bir cisim, sağ kefeye ise tabloda kütleleri verilen cisimlerden bazıları eklenmektedir. S T 5 kg X Y Z Kütle S 5 • 10 -3 ton T 4 kg X 300 g Y 2 • 10 4 g Z 1 • 10 6 mg Buna göre sağ kefeye I. Yalnız S, II. X ve Y, III. T ve Z cisimlerinden hangileri eklenirse terazinin dengesi bozulmaz? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p4|q5",
+   "page": 4,
+   "n": 5,
+   "bbox": [
+    30.0,
+    503.6,
+    272.4,
+    726.0
+   ],
+   "num": [
+    36.0,
+    505.7,
+    44.5,
+    519.5
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "Kare prizma şeklindeki X cismi, yarıçapı r 5. 2 olan silindir şeklindeki Y cismi ve yarıçapı r olan küre şeklindeki Z cismi şekilde verilmiştir. X Y Z 2r r arasındaki büyüklük ilişkisi nasıldır? ( π = 3 alınız.) Buna göre cisimlerin hacimleri V X , V Y ve V Z A) V X < V Y < V Z B) V Y < V X < V Z C) V Y < V Z < V X D) V Z < V Y < V X E) V X < V Z < V Y",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p4|q6",
+   "page": 4,
+   "n": 6,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    325.6
+   ],
+   "num": [
+    287.7,
+    79.0,
+    296.2,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "6. Düşey kesiti şekilde verilen, taşma seviyesi 300 ml olan taşırma kabında 255 ml sıvı bulunmaktadır. Bu sıvıya Şekil II’de verilen yarıçapı 2 cm ve yüksekliği 5 cm olan silindir yavaşça bırakılınca silindirin tamamı sıvı içerisinde kalacak şekilde dengeye geliyor ve bir miktar sıvı taşıyor. 300 ml 255 ml sıvı Şekil I Şekil II sıvının hacmi kaç ml’dir? ( π = 3 alınız.) 1 dm 3 , 1 litreye eşit olduğuna göre kaptan taşan A) 5 B) 15 C) 25 D) 35 E) 45",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p4|q7",
+   "page": 4,
+   "n": 7,
+   "bbox": [
+    281.7,
+    390.2,
+    532.8,
+    654.8
+   ],
+   "num": [
+    287.7,
+    389.1,
+    296.2,
+    402.9
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "7. Düşey kesiti verilen Şekil I’deki 2A taban alanına sahip kapta 4h yüksekliğinde m kütleli, Şekil II’deki 4A taban alanına sahip kapta 3h yüksekliğinde sıvılar bulunmaktadır. Bu sıvılar Şekil III’te bulunan 5A taban alanına sahip kap içerisine dökülünce kaptaki sıvının kütlesi m 3 , sıvı yüksekliği h 3 oluyor. 4h m 3h 2A 5A 4A Şekil I Şekil II Şekil III Sıvılar aynı cins, kaplar dikdörtgenler prizması şeklinde ve Şekil III’teki kaptan sıvı taşmadığına göre m 3 ve h 3 nedir? A) 1,5m; 3h B) 1,5m; 4h C) 2,5m; 3h D) 2,5m, 4h E) 2,5m; 5h",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p5|q8",
+   "page": 5,
+   "n": 8,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    322.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    44.5,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "8. K cismi Şekil I’deki gibi X sıvısı içinde yüzerken, Şekil II’deki Y sıvısında askıda kalıyor ve Şeki lII’teki Z sıvısında ise dibe batıyor. K Z sıvısı K K X sıvısı Y sıvısı Şekil I Şekil II Şekil III Buna göre K cismi I. X ve Z sıvılarının karışımında askıda kalabilir. II. Y ve Z sıvılarının karışımında kesinlikle batar. III. X ve Y sıvılarının karışımında kesinlikle yüzer. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p5|q9",
+   "page": 5,
+   "n": 9,
+   "bbox": [
+    30.0,
+    426.2,
+    272.4,
+    613.5
+   ],
+   "num": [
+    36.0,
+    426.7,
+    44.5,
+    440.5
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "Bir zeytinyağı üreticisinin elinde, özkütlesi 0,9 g/cm 3 9. olan 45 kg zeytinyağı bulunmaktadır. Üretici bu yağı, farklı hacimlerdeki şişelere koyarak satış yapmayı planlamaktadır. Elindeki yağı tamamen şişelemek isteyen üretici I. hacmi 500 cm 3 olan şişelerden 100 adet, II. hacmi 1 L olan şişelerden 50 adet, III. hacmi 500 mL olan şişelerden 100 adet miktarlarından hangilerini kullanmalıdır? A) Yalnız I B) Yalnız II C) I ya da II D) I ya da III E) I ya da II ya da III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p5|q10",
+   "page": 5,
+   "n": 10,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    382.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.2,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "10. Hâl değiştirme sıcaklığında bulunan K, L ve M katı maddelerine ait kütle–hacim grafiği verilmiştir. Bu maddelerin hâl değiştirme sıcaklığında sıvı hâle geçmeleri durumunda; K maddesinin hacmi artmakta, L maddesinin hacmi değişmemekte ve M maddesinin hacmi ise azalmaktadır. Kütle K L M Hacim Buna göre hâl değiştirme sıcaklığında bulunan K, L, M maddeleri için I. L katısı K sıvısında yüzebilir. II. M katısı L sıvısının içinde askıda kalabilir. III. K sıvısı ile M sıvısının özkütle değerleri aynı olabilir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) I,",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p5|q11",
+   "page": 5,
+   "n": 11,
+   "bbox": [
+    281.7,
+    426.3,
+    532.8,
+    726.0
+   ],
+   "num": [
+    287.7,
+    425.2,
+    301.2,
+    438.9
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "11. Saf bir cismin özkütle – kütle grafiği verilmiştir. Özkütle II I Kütle Buna göre cismin kütle – hacim grafiği I ve II bölgelerinde nasıl olmalıdır? Kütle Kütle A) B) II II I I Hacim Hacim Kütle Kütle C) D) II II I I Hacim Hacim Kütle E) II I Hacim",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p6|q12",
+   "page": 6,
+   "n": 12,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    340.3
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.5,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "12. Aşağıdaki tabloda sabit basınç altında K, L ve M sıvılarına ait sıcaklık, kütle ve hacim değerleri verilmiştir. Madde Sıcaklık (°C) Kütle (g) Hacim (cm 3 ) K 15 30 10 L 10 20 5 M 10 15 5 Buna göre aşağıda verilen ifadelerden hangisi yanlıştır? (Buharlaşma ihmal edilecektir.) A) K ve M farklı cins sıvılardır. B) K ve L aynı cins sıvılar olabilir. C) L ve M farklı cins sıvılardır. D) 20 ° C sıcaklıkta K ve M sıvılarının hacimleri farklı olabilir. E) 15 ° C sıcaklıkta L ve M sıvılarının kütleleri eşit olabilir.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p6|q13",
+   "page": 6,
+   "n": 13,
+   "bbox": [
+    30.0,
+    386.2,
+    272.4,
+    703.0
+   ],
+   "num": [
+    36.0,
+    384.9,
+    49.5,
+    398.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "13. Maddelerin kendi ağırlıklarına ve dışarıdan etki eden başka kuvvetlere karşı şeklinin bozulmadan kalabilmesi için gösterdiği dirence dayanıklılık denir. Bir cismin dayanıklılığı, genellikle iki farklı bağlamda ele alınır ve birbirleriyle sıkça karıştırılır: • Kendi ağırlığına karşı dayanıklılık: Bir cismin kendi ağırlığını taşıyabilme kapasitesidir. Özellikle büyük yapılarda, malzemenin kendi ağırlığını destekleyebilmesi önemli bir kriterdir. • Üzerine uygulanan dış kuvvete karşı dayanıklılık: Dışarıdan gelen kuvvetlere karşı cismin gösterdiği dirençtir. Buna göre dayanıklılık ile ilgili I",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p6|q14",
+   "page": 6,
+   "n": 14,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    346.3
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.2,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "14. Taban alanı A, yüksekliği h olan dikdörtgenler prizması şeklindeki cisim şekilde verilmiştir. A h Buna göre cismin şekli aynı kalacak şekilde I. cismin yapıldığı maddenin cinsi, II. taban alanı (A), III. yüksekliği (h) niceliklerinden hangilerinin tek başına değiştirilmesi cismin kendi ağırlığına karşı dayanıklılığını değiştirir? A) Yalnız I B) Yalnız II C) I ya da III D) II ya da III E) I ya da II ya da III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p6|q15",
+   "page": 6,
+   "n": 15,
+   "bbox": [
+    281.7,
+    388.8,
+    532.8,
+    704.5
+   ],
+   "num": [
+    287.7,
+    389.2,
+    301.2,
+    402.9
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "15. Özdeş ve türdeş K, L, M dikdörtgen prizma şeklindeki katı cisimler, aşağıda kesikli çizgiler ile verilen doğrultularda kesilip A, B, C cisimlerine dönüştürülüyor. Düşey Yatay A B C K L M Buna göre kesilen parçalardan I. A’nın dayanıklılığı K’nin dayanıklılığından küçüktür. II. B’nin dayanıklılığı L’nin dayanıklılığından büyüktür. III. C’nin dayanıklılığı M’nin dayanıklılığına eşittir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p7|q16",
+   "page": 7,
+   "n": 16,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    358.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.5,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "16. Şekilde verilen aynı sıcaklıktaki, içleri dolu, türdeş X, Y, Z dik silindirlerinin kesit alanları sırasıyla A, 2A ve A’dır. Y ve Z silindirlerinin kendi ağırlıklarına karşı dayanıklılıkları eşit olup bunlar X’inkinden farklıdır. Yatay Z X Y Yatay zemin A 2A A Buna göre I. Y ve Z silindirleri aynı maddeden yapılmıştır. II. X ve Y silindirleri aynı maddeden yapılmıştır. III. Y ve Z silindirlerinin kütleleri eşittir. yargılarından hangileri doğru olabilir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p7|q17",
+   "page": 7,
+   "n": 17,
+   "bbox": [
+    30.0,
+    400.8,
+    272.4,
+    692.5
+   ],
+   "num": [
+    36.0,
+    401.2,
+    49.5,
+    414.9
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "17. Özdeş kılcal borular farklı K, L ve M sıvılarına batırıldığında K sıvısı L sıvısına göre daha fazla yükselirken M sıvısı boru içinde alçalmaktadır. K L M Buna göre I. K sıvısı kılcal borunun yapıldığı malzemeden yapılan bir yüzeyi L sıvısına göre daha iyi ıslatır. II. K sıvısı saf su ise, L sıvısı sabunlu su, M sıvısı cıva olabilir. III. Eşit hacimlerde birer damla aynı yatay zemine konulursa M sıvısı daha küresel olur. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p7|q18",
+   "page": 7,
+   "n": 18,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    297.6
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.2,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "18. Aynı sıcaklıktaki saf K, L, M sıvılarından L sıvısının yüzey gerilimi, M sıvısının yüzey geriliminden küçük; K sıvısının yüzey geriliminden ise büyüktür. Buna göre aşağıdaki işlemlerden hangisinin yapılması durumunda tüm s ıvıların yüzey gerilimleri eşit olabilir? A) L sıvısının sıcaklığını artırıp, M sıvısının sıcaklığını azaltmak B) M sıvısının sıcaklığını artırıp, K sıvısına tuz ilave etmek C) K ve L sıvılarının sıcaklıklarını artırmak D) K ve M sıvılarının sıcaklıklarını artırmak E) M sıvısına sabun ilave edip, K sıvısının sıcaklığını artırmak",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p7|q19",
+   "page": 7,
+   "n": 19,
+   "bbox": [
+    281.7,
+    381.1,
+    532.8,
+    648.7
+   ],
+   "num": [
+    287.7,
+    381.4,
+    301.2,
+    395.2
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "19. İki ucu açık cam boru, bir kaptaki sıvıya daldırıldığında şekildeki durum gözlemleniyor. Buna göre I. Kılcal borunun çapı küçültülürse sıvı boruda daha fazla alçalabilir. II. Kaptaki sıvının cinsi değiştirilirse borudaki alçalma miktarı değişebilir. III. Kapta adezyon kuvveti kohezyon kuvvetinden büyüktür. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p8|q20",
+   "page": 8,
+   "n": 20,
+   "bbox": [
+    30.0,
+    80.1,
+    532.8,
+    344.0
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.5,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "20. Günlük hayatta karşılaştığımız kılcallık ve yüzey gerilimi ile ilgili bazı örnekler aşağıda verilmiştir. I. Yağmur damlasının küresel şekil alması II. Gaz lambasının fitilinde gazın yükselmesi III. Spor kıyafetlerinin teri çekmesi IV. Bazı böceklerin suya batmadan su üzerinde yürümesi Buna göre verilen örneklerin kılcallık ve yüzey gerilimi açısından sınıflandırılması aşağıdakilerden hangisinde doğru olarak verilmiştir? Kılcallık Yüzey Gerilimi A) II ve III I ve IV B) I ve IV II ve III C) I ve II III ve IV D) II ve IV I ve III E) I ve III II ve IV",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p8|q21",
+   "page": 8,
+   "n": 21,
+   "bbox": [
+    30.0,
+    386.7,
+    532.8,
+    714.2
+   ],
+   "num": [
+    36.0,
+    387.0,
+    49.5,
+    400.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "21. İki ucu açık, eşit kalınlıkta fakat farklı cins S ve T kılcal borularında sıvıların yükselme miktarları şekilde verilmiştir. S T Buna göre I. S ve T kılcal boruları ile sıvı arasındaki adezyon kuvveti, sıvı molekülleri arasındaki kohezyon kuvvetinden büyüktür. II. T kılcal borusu ile sıvı arasındaki adezyon kuvveti, S kılcal borusu ile sıvı arasındaki adezyon kuvvetinden büyüktür. III. Kaptaki sıvının sıcaklığı azaltılırsa borulardaki sıvılar alçalır. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p9|q1",
+   "page": 9,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    442.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. Serkan yatay düzlemde durmakta olan bir takoza bağladığı dinamometreyi düzleme paralel olacak şekilde çekiyor. Dinamometrede okuduğu değerleri ve takozun hareket durumu ile ilgili gözlemlerini aşağıdaki tabloya yazıyor. Okunan Değer (N) Hareket Durumu 0 Hareket etmiyor. 3 Hareket etmiyor. 5 Hareket etmiyor. 8 Hareket etmiyor. 10 Hızlanıyor. 8 Sabit hızlı. Serkan bu verilere göre I. Cismi harekete zorlayan bir kuvvet yoksa sürtünme kuvveti oluşmuyor. II. Cisim harekete geçene kadar sürtünme kuvvetinin büyüklüğü, harekete zorlayan kuvvetin büyüklüğüne eşit oluyor. III. Cisim harekete geçtiği ",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p9|q2",
+   "page": 9,
+   "n": 2,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    253.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. Aşağıda verilen cisimlerin hareketleri öteleme veya titreşim olarak sınıflandırıldığında hangi seçenekteki hareket bu sınıflandırmanın dışında kalır? A) Çalışan sarkaçlı saatin sarkacı B) Balkondan aşağı düşen çamaşır mandalı C) Durakta harekete geçtiğini gördüğü otobüsü yakalamak için koşan öğrenci D) Olduğu yerde dönen topaç E) Gergin saz teline ses çıkarmak için dokunulduğunda telin hareketi",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p9|q3",
+   "page": 9,
+   "n": 3,
+   "bbox": [
+    281.7,
+    399.5,
+    532.8,
+    552.7
+   ],
+   "num": [
+    287.7,
+    398.4,
+    295.4,
+    412.2
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "3. Anne ve babası ile parkta vakit geçiren bir çocuğun hareketine ait I. konum, II. ortalama hız, III. yer değiştirme niceliklerinden hangileri anne ve babaya göre farklı ifade edilir? A) Yalnız I B) I ve II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p10|q4",
+   "page": 10,
+   "n": 4,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    538.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "hareket eden K ve L hareketlilerinden K’nin hızı θ K 4. Aynı doğrusal yörüngede sabit büyüklükte hızlarla L’nin hızı θ L olup θ K > θ L ’dir. Araçlar t anında yan yana olduğuna göre Hız θ K θ L t Zaman Şekil I Hız θ K - θ L t Zaman Şekil II Hız θ L - θ K t Zaman Şekil III yukarıda verilen hız - zaman grafiklerinden hangileri cisimlere ait olabilir? A) Yalnız I B) I ve II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p10|q5",
+   "page": 10,
+   "n": 5,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    289.6
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "5. Aynı doğrusal yörüngede hareket eden K ve L araçlarına ait konum – zaman grafiği aşağıda verilmiştir. Konum (m) 10 K 0 5 Zaman (s) L -30 Buna göre 7. saniyede araçlar arasındaki mesafe kaç metredir? A) 16 B) 14 C) 12 D) 10 E) 8",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p10|q6",
+   "page": 10,
+   "n": 6,
+   "bbox": [
+    281.7,
+    374.8,
+    532.8,
+    632.4
+   ],
+   "num": [
+    287.7,
+    373.6,
+    296.2,
+    387.4
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "6. Bir cismin tüm noktaları aynı yönde ve aynı miktarda yer değiştiriyorsa cisim öteleme hareketi, cismin tüm noktaları sabit bir eksene olan uzaklıklarını koruyarak hareket ediyorsa cisim dönme hareketi, cismin bir denge noktası etrafında ileri geri hareket etmesi durumunda ise cisim titreşim hareketi yapmış olur. Buna göre hareket türleriyle ilgili I. Vantilatör çalıştırıldığında pervanesinin yaptığı hareket dönme hareketidir. II. Duvarı delen matkap ucunun yaptığı hareket hem dönme hem de öteleme hareketidir. III. Bozuk yolda ilerleyen bir arabanın yaptığı hareket hem titreşim hem de ötelem",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p11|q7",
+   "page": 11,
+   "n": 7,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    346.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "7. Yatay düzlem üzerinde bulunan X ve Y hareketlileri sırasıyla A ve C noktalarından aynı anda sabit süratle geçiyorlar. X hareketlisi A’dan B’ye, Y hareketlisi C’den B’ye şekilde gösterilen 1 ve 2 yörüngeleri izleyerek aynı anda ulaşıyor. 2 X Y 1 d A d C B Buna göre hareketliler B noktasına ulaşana kadar geçen süre için I. X hareketlisinin sürati Y’ninkinden küçüktür. II. X ve Y hareketlilerinin ortalama hızları eşittir. III. Her iki hareketli de sabit hızlı hareket yapmıştır. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p11|q8",
+   "page": 11,
+   "n": 8,
+   "bbox": [
+    30.0,
+    451.9,
+    272.4,
+    613.5
+   ],
+   "num": [
+    36.0,
+    450.7,
+    43.7,
+    464.5
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "8. Birim zamandaki hız değişimine ivme denir. A cismi: Bir noktaya göre uzaklığı zamanla artıyor. B cismi: Bir noktaya göre uzaklığı zamanla değişmiyor. C cismi: Bir noktaya göre uzaklığı zamanla azalıyor. Buna göre A, B ve C cisimlerin hangisinin ivmesi olabilir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p11|q9",
+   "page": 11,
+   "n": 9,
+   "bbox": [
+    281.7,
+    78.6,
+    532.8,
+    394.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "9. Haritadaki Üsküdar’da bulunan kargo şirketinden S ve T gönderi araçları aynı anda yola çıkarak şekilde verilen yolları izliyorlar ve Beşiktaş’taki bir binaya aynı anda ulaşıyorlar. Beşiktaş T Üsküdar S T aracı S aracından daha fazla yol aldığına göre I. Araçların ortalama süratleri eşittir. II. Araçların yer değiştirmeleri eşittir. III. T aracının ortalama hızı S aracına göre büyüktür. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p11|q10",
+   "page": 11,
+   "n": 10,
+   "bbox": [
+    281.7,
+    479.4,
+    532.8,
+    665.0
+   ],
+   "num": [
+    287.7,
+    478.2,
+    300.0,
+    492.0
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "10. Kuvvetler etki durumuna göre temas gerektiren ve temas gerektirmeyen kuvvetler olmak üzere iki gruba ayrılır. Buna göre I. dalda duran elmanın yere düşmesi, II. havada rüzgâr etkisi ile bir yaprağın uçması, III. duran futbol topuna vurularak hareket ettirilmesi olaylarından hangilerinde etkili olan kuvvet, temas gerektirmeyen kuvvettir? A)Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p12|q11",
+   "page": 12,
+   "n": 11,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    209.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "11. Evrendeki dört temel kuvvet ile ilgili verilen I. Dördü de alan kuvvetidir. II. Evrendeki tüm kuvvetlerin kaynağıdırlar. III. Etkileşimlerinde temas gereksinimi yoktur. yargılarından hangileri doğrudur? A)Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p12|q12",
+   "page": 12,
+   "n": 12,
+   "bbox": [
+    30.0,
+    376.4,
+    272.4,
+    574.0
+   ],
+   "num": [
+    36.0,
+    375.2,
+    48.3,
+    389.0
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "12. Varlığı Newton tarafından ortaya konulan, kütlesi olan tüm cisimlerin birbirine uygulamış olduğu kütle kaynaklı kuvvete kütle çekim kuvveti denir. Buna göre kütle çekim kuvveti ile ilgili I. Şiddeti cisimlerin kütleleri çarpımı ile doğru orantılıdır. II. Şiddeti cisimler arasındaki uzaklığın karesi ile ters orantılıdır. III. Kısa menzilli bir kuvvettir. yargılarından hangileri doğrudur? A)Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p12|q13",
+   "page": 12,
+   "n": 13,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    289.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "13. Cisimler üzerine etki eden net kuvvet sıfır ise bu durum için cisimler dengelenmiş kuvvetlerin etkisindedir denilir. Buna göre I. doğrusal raylarda sabit hızla ilerleyen tren, II. bulunduğu pist üzerinde 3 saniye içerisinde hızını 270 km/h değerine ulaştıran savaş uçağı, III. sabit süratle çembersel bir yörüngede dolanan gösteri motosikleti hareketlilerinden hangileri dengelenmiş kuvvetlerin etkisindedir? A)Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p12|q14",
+   "page": 12,
+   "n": 14,
+   "bbox": [
+    281.7,
+    333.8,
+    532.8,
+    691.8
+   ],
+   "num": [
+    287.7,
+    332.7,
+    300.0,
+    346.4
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "14. Baskı makinesinde, baskı yapılacak kâğıdın düzgün bir şekilde ilerlemesi için üst kısımdaki makaralar motor yardımıyla dönerken, kâğıt serbest halde bulunan alt makaralar üzerinde hareket eder. Her iki makara arasındaki uyum, kâğıdın sorunsuz bir şekilde ilerlemesini sağlar. Bu sistem, kâğıdın baskı silindirlerine düzgün bir şekilde ulaşmasını sağlar. Üst makaralar -x +x Kağıt Alt makaralar Üst makaralar ok yönünde döndüğüne göre aşağıdaki yargılardan hangisi doğrudur? A) Kâğıt +x yönünde hareket eder. B) Alt makaralar ok yönünde döner. C) Kâğıdın alt kısmına etki eden sürtünme kuvveti –x ",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p13|q15",
+   "page": 13,
+   "n": 15,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    289.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.5,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "15. Kütlesi 2 kg olan K cismine 50 N büyüklüğünde kuvvet uygulanarak, cisim şekildeki gibi düşey düzlemde dengelenmiştir. F = 50 N K K cismi ve düşey düzlem arasındaki statik sürtünme katsayısı 0,5 olduğuna göre K cismine etki eden sürtünme kuvveti kaç Newton’dur? (Yer çekimi ivmesi g = 10 N/kg’dır.) A) 10 B) 15 C) 20 D) 25 E) 30",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p13|q16",
+   "page": 13,
+   "n": 16,
+   "bbox": [
+    30.0,
+    354.3,
+    272.4,
+    680.4
+   ],
+   "num": [
+    36.0,
+    353.1,
+    49.5,
+    366.9
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "16. Yatay sürtünmeli bir düzlem üzerinde durmakta olan cisme yola paralel uygulanan kuvvetin cisme etki eden sürtünme kuvvetine bağlı değişim grafiği şekildeki gibidir. F sürtünme (N) 12 10 F (N) Buna göre I. Cisme 11 N kuvvet uygulandığında cisim hareket etmez. II. Cisme 15 N kuvvet uygulandığında cisme etki eden net kuvvet 5 N olur. III. Cisme etki eden kuvvet 14 N ise cisim 2 N net kuvvet etkisinde hareket eder. yargılarından hangileri doğrudur? A)Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p13|q17",
+   "page": 13,
+   "n": 17,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    406.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "17. Yatay düzlemde duran 5 kg kütleli bir cisme, düzleme paralel kuvvet uygulandığında cisme ait sürtünme kuvveti-uygulanan kuvvet grafiği şekildeki gibi olmaktadır. Sürtünme kuvveti (N) 7 Uygulanan kuvvet (N) 8 10 Buna göre I. Cisme uygulanan kuvvetin büyüklüğü 5 N iken cisim, dengelenmiş kuvvetlerin etkisindedir. II. Cisme etki eden statik sürtünme kuvvetinin en büyük değeri 8 N’dur. III. Cisme 12 N kuvvet uygulanırsa cismin ivmesi 1 m/s 2 olur. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p13|q18",
+   "page": 13,
+   "n": 18,
+   "bbox": [
+    281.7,
+    429.8,
+    532.8,
+    719.9
+   ],
+   "num": [
+    287.7,
+    428.7,
+    301.2,
+    442.4
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "18. Sadece L ve M noktaları arasının sürtünmeli olduğu bilinen yatay zeminde aynı maddeden yapılmış X ve Y cisimleri aynı yatay konumda şekildeki gibi durmaktadır. Cisimlere yatay doğrultuda ve sabit F 1 ve F 2 kuvvetleri aynı anda uygulanarak M noktasına ulaştıkları anda bu kuvvetler kaldırılmaktadır. X m Y F 1 2m F 2 K L M N Cisimler L noktasına aynı anda ulaşıp N noktasından da geçtikleri bilindiğine göre I. F 2 kuvvetinin büyüklüğü F 1 ’den fazladır. II. Cisimler L-M arasında ivmeli hareket yapmışlardır. III. Cisimler M ve N noktalarından aynı hızlarla geçerler. yargılarından hangileri kes",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p14|q19",
+   "page": 14,
+   "n": 19,
+   "bbox": [
+    30.0,
+    80.2,
+    532.8,
+    323.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.5,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "19. Yatay sürtünmesiz ortamda K cismi, zemine paralel F¶ 1 , F¶ 2 ve F¶ 3 kuvvetlerinin etkisinde sabit hızla ok yönünde hareket etmektedir. ok 1 K 3 2 Buna göre I. F 2 > F 3 ’tür. II. Cisim dengelenmiş kuvvetlerin etkisindedir. III. F 1 kuvvetinin büyüklüğü azaltılırsa cisim ivmeli hareket yapar. yargılarından hangileri kesinlikle doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p14|q20",
+   "page": 14,
+   "n": 20,
+   "bbox": [
+    30.0,
+    387.8,
+    532.8,
+    676.4
+   ],
+   "num": [
+    36.0,
+    386.7,
+    49.5,
+    400.5
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "20. Bir cisim üzerine etki eden bileşke kuvvet sıfır ise cisim dengelenmiş kuvvetlerin etkisindedir. İstasyona yaklaştığında Hızlanan bisiklet fren yapan tren II I Sabit hızla uçan uçak III Buna göre yukarıdaki görsellerde verilen araçlardan hangileri dengelenmiş kuvvetlerin etkisindedir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p15|q1",
+   "page": 15,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    346.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. Sürtünmelerin ihmal edildiği yatay bir düzlemde durmakta olan tahta bir sandık, bir iple yola paralel olarak sabit büyüklükteki F kuvvetiyle şekildeki gibi çekilmeye başlanıyor. Sandığın hareketi incelendiğinde, 0-t zaman aralığı ile t-2t zaman aralığı kıyaslanırsa I. kuvvetin yaptığı iş, II. sandığın kazandığı hız miktarı, III. ortalama güç niceliklerinden hangileri her iki zaman aralığında da birbirine eşittir? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p15|q2",
+   "page": 15,
+   "n": 2,
+   "bbox": [
+    30.0,
+    388.9,
+    272.4,
+    721.2
+   ],
+   "num": [
+    36.0,
+    389.2,
+    43.7,
+    402.9
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. İş: Yol doğrultusuna paralel kuvvet ile yol uzunluğu çarpımı ile hesaplanır. Güç: Yapılan işin, bu işi yapmak için geçen zamana oranıdır. Kısaca birim zamanda yapılan işe denir. Sürtünmesi ihmal edilen şekildeki yüzeyde t = 0 anında K noktasında durmakta olan cisim, daima yol doğrultusuna paralel olacak biçimde uygulanan sabit büyüklükteki F kuvveti yardımı ile t anında L noktasından, ardından da 2t anında M noktasından geçiyor. M θ 0 =0 K L L ve M noktalarından aynı büyüklükte hızla geçen cisme, kuvvetin K-L aralığında aktardığı güç P KL , L-M aralığında aktardığı güç P LM ise bu P değerle",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p15|q3",
+   "page": 15,
+   "n": 3,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    241.6
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": " (ek)",
+   "osym": "",
+   "text": "3. Sabit sürtünmeli yatay düzlemde birbirlerine şekildeki gibi bağlanmış başlangıçta hareketsiz olan 2m ve 3m kütleli X ve Y cisimleri yatay F¶ kuvveti ile 5 metre çekildiğinde ipte oluşan T gerilme kuvveti 100 Joule iş yapmaktadır. Y X T 3m 2m Buna göre F¶ kuvvetinin büyüklüğü kaç Newton’dur? A) 30 B) 45 C) 50 D) 60 E) 90",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p15|q4",
+   "page": 15,
+   "n": 4,
+   "bbox": [
+    281.7,
+    367.8,
+    532.8,
+    609.1
+   ],
+   "num": [
+    287.7,
+    366.6,
+    295.4,
+    380.4
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": " (ek)",
+   "osym": "",
+   "text": "4. Aşağıda iş ve güç kavramlarının günlük yaşantıdaki kullanımlarından bir takım örnekler verilmiştir. I. Henüz anlamadım ama kesinlikle bu işin içinde başka bir iş var. II. Koşullar çok ağırlaştı gücüm yetmiyor artık! III. İşlerden fırsat bulsam tatile çıkacağım. IV. Aynı kütleye sahip iki aracın duruştan aynı hıza ulaşması için geçen sürenin kısa mı yoksa uzun mu olacağını belirleyen en önemli etken motor gücüdür. V. Ev işleri tüm gücümü tüketiyor bu yüzden spor yapmaya enerjim kalmıyor. Bu örneklerden hangisinde iş veya güç kavramı fizik dersinde öğrendiğiniz anlamda kullanılmıştır? A) I B)",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p16|q5",
+   "page": 16,
+   "n": 5,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    342.0
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "5. Fizikte iş kavramı aslında cisme etki eden kuvvetin cismin enerjisinde bir değişim oluşturma çabası olarak tanımlanır. Bu bağlamda bir çocuğun I. yerdeki çantasını sırtına kaldırması sırasında, II. çanta sırtında iken belli bir hıza ulaşıncaya kadar geçen sürede, III. sabit bir hızla yatay bir yol boyunca yürüdüğü sırada, IV. aynı yatay yolda otobüse yetişmek için artan bir hızla otobüse doğru koşarken, V. otobüsün kapısına ulaşacağını anlayıp yavaşlamaya başladığı sırada yukarıda sayılan eylemlerinden hangisinde fiziksel anlamda çanta üzerine herhangi bir iş yapmadığı söylenebilir? A) I B)",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p16|q6",
+   "page": 16,
+   "n": 6,
+   "bbox": [
+    30.0,
+    386.2,
+    272.4,
+    683.7
+   ],
+   "num": [
+    36.0,
+    384.9,
+    43.7,
+    398.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "6. Barış, yatay sürtünmesi ihmal edilen düzlemde durmakta olan şekildeki sandığa yatay düzleme paralel 15 N kuvvet uygulayarak 1 metre, sonra 10 N kuvvet uygulayarak 3 metre, daha sonrada 20 N kuvvet uygulayarak 2 metre itiyor. Sandık Barış’ın 15 N kuvvet uyguladığında yaptığı iş W 1 , 10 N kuvvet uyguladığında yaptığı iş W 2 ve 20 N kuvvet uyguladığında yaptığı iş W 3 olduğuna göre bu işler arasındaki büyüklük ilişkisi aşağıdakilerden hangisinde doğru olarak verilmiştir? A) W 1 > W 2 > W 3 B) W 2 > W 1 > W 3 C) W 3 > W 2 > W 1 D) W 1 > W 3 > W 2 E) W 2 > W 3 > W 1",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p16|q7",
+   "page": 16,
+   "n": 7,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    386.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "7. Kütlesi m olan K cismi, Şekil I’de yola paralel 3F kuvveti etkisinde 2x kadar çekiliyor. Kütlesi 2m olan L cismi ise Şekil II’de yola paralel F kuvveti ile 3x kadar çekiliyor. F 1 = 3F m 2x Şekil I 2m F 1 = F L 3x Şekil II Şekil I’de 3F kuvvetinin yaptığı iş W 1 , Şekil II’de W F kuvvetinin yaptığı iş W 2 olduğuna göre 1 W oranı kaçtır? 2 A) 1 B) 1 C) 1 D) 2 E) 3 3 2",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p16|q8",
+   "page": 16,
+   "n": 8,
+   "bbox": [
+    281.7,
+    442.8,
+    532.8,
+    680.4
+   ],
+   "num": [
+    287.7,
+    441.6,
+    295.4,
+    455.4
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "8. Bir evde kullanılan elektrikli cihazların tükettiği elektrik enerjileri ve çalıştırılma süreleri aşağıdaki tabloda verilmiştir. Elektriksel Kullanma Elektrikli Cihaz Enerjisi (J) Süresi (saat) Fırın 5000 2 Buzdolabı 1200 8 Televizyon 325 5 Fırın, buzdolabı ve televizyonun elektriksel gücü sırasıyla P 1 , P 2 ve P 3 olduğuna göre bunlar arasındaki büyüklük ilişkisi aşağıdakilerden hangisinde doğru olarak verilmiştir? A) P 1 > P 2 > P 3 B) P 1 > P 3 > P 2 C) P 2 > P 1 > P 3 D) P 3 > P 2 > P 1 E) P 2 > P 3 > P 1",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p17|q9",
+   "page": 17,
+   "n": 9,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    289.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "9. Günlük hayatta kullanılan K, L, M, N ve P elektrikli cihazlarına verilen ve cihazlarından alınan enerjilerin sütun grafiği aşağıda verilmiştir. Enerji verilen enerji alınan enerji 5E 4E 3E 2E E 0 K L M N P Cihaz Buna göre hangi elektrikli cihazın verimi daha yüksektir? A) K B) L C) M D) N E) P",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p17|q10",
+   "page": 17,
+   "n": 10,
+   "bbox": [
+    30.0,
+    354.2,
+    272.4,
+    668.4
+   ],
+   "num": [
+    36.0,
+    353.1,
+    48.3,
+    366.9
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "10. Cisimlerin hızlarından dolayı sahip oldukları enerji kinetik enerji olarak tanımlanmaktadır. Bir öğrenci kinetik enerjinin bağlı olduğu değişkenleri analiz etmek için m ve 2m kütleli cisimleri farklı hız değerlerinde hareket ettirerek aşağıdaki yorumları yapmaktadır. Buna göre I. m kütleli cisim yatay yolda v hızı ile hareket ettirildiğinde sahip olduğu kinetik enerjisi E ise 2v hızıyla hareket ettirildiğinde kinetik enerjisi 2E olur. II. m kütleli cisim v hızıyla hareket ettirildiğinde sahip olduğu kinetik enerji E ise 2m kütleli cisim v hızıyla hareket ettirildiğinde kinetik enerjisi 2E ",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p17|q11",
+   "page": 17,
+   "n": 11,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    245.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "11. Yenilenemez enerji kaynaklarıyla ilgili I. kaynakların zamanla tükenmesi, II. küresel ısınmaya neden olan gazların atmosfere salınması, III. kaynaklardan bazılarının üretim maliyetinin düşük olması durumlarından hangileri bu kaynakların dezavantajlarındandır? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p17|q12",
+   "page": 17,
+   "n": 12,
+   "bbox": [
+    281.7,
+    330.4,
+    532.8,
+    644.5
+   ],
+   "num": [
+    287.7,
+    329.2,
+    300.0,
+    342.9
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "12. Aynı ortamda bulunan K, L ve M cisimleri esnemesi ihmal edilen sağlam iplerle şekildeki gibi asıldığında cisimlerin sahip olduğu kütle çekim potansiyel enerjileri eşit olmaktadır.İplerde oluşan gerilme kuvvetleri sırası ile T K , T L ve T M olmaktadır. T K T M K T L M 3h L 2h h Buna göre ip gerilmeleri ile ilgili I. T L ip gerilmesi T K ip gerilmesinin 3 katıdır. II. T M ip gerilmesi T L ip gerilmesinin 2 katıdır. III. T M ip gerilmesi T L ip gerilmesinin yarısı kadardır. yargılarından hangileri doğrudur? A)Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p18|q13",
+   "page": 18,
+   "n": 13,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    370.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "13. K noktasından serbest bırakılan m kütleli noktasal cisim N noktasına kadar çıkabilmektedir. Yatay K N Yatay L M Yer O Buna göre I. Cismin mekanik enerjisi korunmuştur. II. Cisim K’den O’ya doğru giderken yere göre kütle çekim potansiyel enerjisi kinetik enerjiye dönüşmüştür. III. Cismin O’daki mekanik enerjisinin tamamı kinetik enerjidir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p18|q14",
+   "page": 18,
+   "n": 14,
+   "bbox": [
+    30.0,
+    414.3,
+    272.4,
+    716.5
+   ],
+   "num": [
+    36.0,
+    413.2,
+    48.3,
+    426.9
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "14. Sürtünmelerin önemsenmediği platformun h 1 yüksekliğindeki K noktasından m kütleli cisim serbest bırakılıyor. Cisim; h 2 yüksekliğinde bulunan yatay zemine paralel olacak şekilde L noktasına bağlanmış, yay sabiti k olan yayın uç kısmına yapışarak yayı en fazla x kadar sıkıştırmaktadır. k L K x h 1 h 2 Yatay Buna göre x sıkışma miktarının artması için I. yay sabiti k’den küçük bir yay kullanmak, II. h 2 yüksekliğini azaltmak, III. m kütlesini azaltmak işlemlerinden hangileri tek başına yapılabilir? A) Yalnız I B) Yalnız II C) I ya da II D) II ya da III E) I ya da II ya da III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p18|q15",
+   "page": 18,
+   "n": 15,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    221.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.9,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "15. Esnek bir yayda depo edilen esneklik potansiyel enerjisi I. yayın cinsine, II. yayı geren kuvvete, III. yayın sıkışma veya uzama miktarına niceliklerinden hangilerine bağlıdır? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p18|q16",
+   "page": 18,
+   "n": 16,
+   "bbox": [
+    281.7,
+    262.9,
+    532.8,
+    726.0
+   ],
+   "num": [
+    287.7,
+    261.7,
+    300.0,
+    275.4
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "16. Tüketilen yiyeceklerin içerdiği enerji miktarının tamamı vücudun hareketi için kullanılamaz. Enerjinin bir kısmı sindirim ve emilim işlemleri için kullanılırken, bir kısmı da sindirim sonucu vücuttan dışarı atılır. Aşağıdaki tabloda, bazı yiyeceklerin 100 gramında bulan toplam enerji miktarları, sindirim için gerekli enerji ve sindirim sonrası oluşan atıkların enerji değerleri gösterilmektedir. 100 g’da Sindirim Sindirim bulunan için gerekli atıklarının Yiyecek enerji enerji enerjisi (kcal) (kcal) (kcal) Sebze 40 5 5 çorbası Tavuk 155 10 5 (Haşlama) Kırmızı et 250 50 20 (Sığır eti) Tatlı 1",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p19|q17",
+   "page": 19,
+   "n": 17,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    373.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "17. Bir bisiklet, yatay bir yolda hareket etmektedir. Bisikletin ön tekerleğinin yan yüzeyine yapıştırılan reklam kağıdı, tekerleğin bisiklete bağlandığı çubuğa sürterek yavaşlamasına neden olmaktadır. Tekerleğin çevresi 12x ve kağıdın uzunluğu 3x’tir. Her sürtünmede reklam kağıdında 3E kadar ısı enerjisi açığa çıkmaktadır. Sporcu pedal çevirmeyi bıraktığı anda reklam kağıdının tamamı şekildeki gibi bağlantı çubuğundan geçmektedir. Reklam kağıdı Bağlantı çubuğu Bu konumdayken bisikletin kinetik enerjisi 11E olduğuna göre bisiklet duruncaya kadar kaç x yol alır? (Yol ile bisiklet tekerleği aras",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p19|q18",
+   "page": 19,
+   "n": 18,
+   "bbox": [
+    30.0,
+    417.8,
+    272.4,
+    719.9
+   ],
+   "num": [
+    36.0,
+    416.6,
+    48.3,
+    430.3
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "18. Mehmet, odasındaki peluş oyuncakları bir kutunun içine topladıktan sonra, bu kutuyu kaydırağın belirli bir yüksekliğinden serbest bırakıyor. Kutu, kaydıraktan aşağı hızla kayarak yatay düzleme ulaşıyor ve bir süre ilerledikten sonra yavaşlayarak duruyor. Kutunun yatay düzlemde daha fazla ilerleyebilmesi için I. kutunun içindeki oyuncakları azaltmak, II. kutuyu daha yüksek bir yerden serbest bırakmak, III. kutunun içindeki oyuncakları artırmak işlemlerinden hangisi tek başına yapabilir? A) Yalnız I B) Yalnız II C) I ya da II D) II ya da III E) I ya da II ya da III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p19|q19",
+   "page": 19,
+   "n": 19,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    414.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "19. Barajlarda biriken su, yüksek bir konumda olduğu için kapaklar açıldığında hızlanarak aşağıya akar ve türbinleri döndürerek elektrik akımı oluşturur. Oluşan enerji iletim hatlarıyla şehirlere taşınır. Enerji evlere ulaştığında, bir bölümü lambaların yanmasını sağlamak için kullanılır. Verilen enerji dönüşümlerinin sırasını doğru şekilde gösteren seçenek aşağıdakilerden A) Kimyasal enerji → Kinetik enerji → Elektrik hangisidir? enerjisi → Isı ve ışık enerjisi B) Kütle çekim potansiyel enerji → Kinetik enerji → Elektrik enerjisi → Isı ve ışık enerjisi C) Kinetik enerji → Kütle çekim potansiy",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p19|q20",
+   "page": 19,
+   "n": 20,
+   "bbox": [
+    281.7,
+    455.7,
+    532.8,
+    726.0
+   ],
+   "num": [
+    287.7,
+    456.9,
+    300.0,
+    470.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "20. Çocuk, hareketsiz Anne, market arabasını bir şekilde uyuyor. itiyor. Mühendis, yatay yolda sabit hızla çantasını sallamadan taşıyor. Görsellerde verilen kişilerden hangileri fiziksel anlamda iş yapmadığı halde enerji harcar? A) Yalnız çocuk B) Yalnız mühendis C) Çocuk ve anne D) Çocuk ve mühendis E) Çocuk, anne ve mühendis",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p20|q1",
+   "page": 20,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    265.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. Aynı maddeden yapılmış, eşit kütleli X, Y ve Z cisimlerinin sıcaklıkları sırasıyla T X > T Y > T Z şeklindedir. Buna göre I. İç enerjisi en büyük olan X cismidir. II. Isısı en küçük olan Z cismidir. III. Y cisminin taneciklerinin ortalama kinetik enerjisi Z’ninkinden büyüktür. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p20|q2",
+   "page": 20,
+   "n": 2,
+   "bbox": [
+    30.0,
+    330.3,
+    272.4,
+    646.8
+   ],
+   "num": [
+    36.0,
+    329.2,
+    43.7,
+    342.9
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. Termometreler, kullanım amaçlarına göre farklılık gösterirler. Bunlar; I. Oda sıcaklığına yakın sıcaklıkları ölçmek için kullanılır. II. Fırınlarda çok yüksek sıcaklıkları ölçmek için kullanılır. III. Laboratuvar ortamında çok hassas sıcaklık ölçümleri yapmak için kullanılır. Verilen kullanım amaçlarına göre aşağıdaki seçeneklerin hangisinde doğru termometreler seçilmiştir? I II III Gazlı Dijital Metal A) termometre termometre termometre Metal Sıvılı Gazlı B) termometre termometre termometre Sıvılı Metal Gazlı C) termometre termometre termometre Sıvılı Gazlı Metal D) termometre termometre t",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p20|q3",
+   "page": 20,
+   "n": 3,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    222.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "3. Bir öğrenci Fahrenheit ve Celsius termometrelerini gözlemlediğinde öğle vaktinde Fahrenheit termometresinin 95 °F değerini gösterdiğini fark ediyor. Akşam vakti tekrar termometrelere bakan öğrenci Celsius termometresindeki değerin öğle vaktine göre 10 °C düştüğünü görüyor ise o an Fahrenheit termometresi kaç °F değerini gösterir? A) 77 B) 78 C) 79 D) 82 E) 85",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p20|q4",
+   "page": 20,
+   "n": 4,
+   "bbox": [
+    281.7,
+    348.3,
+    532.8,
+    593.9
+   ],
+   "num": [
+    287.7,
+    347.1,
+    295.4,
+    360.9
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "4. Zeynep, ailesiyle birlikte Amerika’ya taşınmıştır. Türkiye’de sıcaklıkları Celcius (°C) cinsinden takip etmeye alışkın olan Zeynep, yeni yaşadığı yerde bir gün telefonundan hava durumuna baktığında ertesi gün için sıcaklığın 30 °F olacağını görür. Bu bilgiyi görünce önce kafası karışır, ardından çevresindekilere danışarak bazı kararlar alır. Zeynep bu bilgiye göre I. Okula gitmeden önce mont, bere ve eldiven giymesi gerektiğine karar vermiştir. II. Sabah yürüyerek değil, toplu taşıma ile gitmenin daha iyi olacağını düşünmüştür. III. Sıcak havaya uygun ince kıyafetler hazırlamıştır. verilenl",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p21|q5",
+   "page": 21,
+   "n": 5,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    346.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "5. Isıca yalıtılmış bir kap içerisine kütleleri m ve 2m, ilk sıcaklıkları 20 ̊C ve 30 ̊C olan A ve B demir blokları şekildeki gibi bırakılıyor ve bir süre bekleniyor. Isıca yalıtılmış kap 30 ° C 20 ° C 2m m B A Beklenen bu süre sonunda I. sıcaklık, II. sıcaklık değişimleri, III. iç enerji niceliklerinden hangileri iki cisim için de eşit olabilir? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p21|q6",
+   "page": 21,
+   "n": 6,
+   "bbox": [
+    30.0,
+    410.8,
+    272.4,
+    689.0
+   ],
+   "num": [
+    36.0,
+    409.7,
+    43.7,
+    423.5
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "6. 20 °C sıcaklığa sahip ısıca yalıtılmış ortama 30 °C sıcaklığa sahip X cismi bırakılıyor ve bir süre bekleniyor. 20 ° C X 30 ° C Isıca yalıtılmış ortam Buna göre bu süreç sonunda I. Ortamdaki hava taneciklerinin ısısı artar. II. X cisminin taneciklerinin ortalama kinetik enerjisi artar. III. X cisminin iç enerjisi azalır. yargılarından hangileri kesinlikle doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p21|q7",
+   "page": 21,
+   "n": 7,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    277.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "7. Kütleleri eşit olan nikel ve demir kürelere eşit miktarda ısı verildiğinde nikel kürenin sıcaklık artışı, demirin sıcaklık artışından fazla oluyor. Buna göre I. Nikelin öz ısısı, demirin öz ısısından büyüktür. II. Demirin ısı sığası, nikelin ısı sığasından büyüktür. III. Nikelin ilk sıcaklığı, demirin ilk sıcaklığından büyüktür. yargılarından hangileri kesinlikle doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p21|q8",
+   "page": 21,
+   "n": 8,
+   "bbox": [
+    281.7,
+    444.8,
+    532.8,
+    569.8
+   ],
+   "num": [
+    287.7,
+    443.7,
+    295.4,
+    457.5
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "8. Aralarında ısı aktarımı olan iki madde için ısı aktarımının yönü her zaman hangi yönde olur? A) Kütlesi fazla olandan kütlesi az olana doğru B) Isı sığası fazla olandan ısı sığası az olana doğru C) Isı sığası az olandan ısı sığası fazla olana doğru D) Sıcaklığı fazla olandan sıcaklığı az olana doğru E) Sıcaklığı az olandan sıcaklığı fazla olana doğru",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p22|q9",
+   "page": 22,
+   "n": 9,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    346.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "9. Kütleleri m S ve m T , öz ısıları c S ve c T olan S ve T saf sıvılarına ait sıcaklık-ısı grafiği şekilde verilmiştir. Sıcaklık S T Isı 0 Buna göre I. m S > m T ise c T > c S ’ dir. II. m T > m S ise c T > c S ’ dir. III. m S = m T ise c T > c S ’ dir. yargılarından hangileri doğru olabilir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p22|q10",
+   "page": 22,
+   "n": 10,
+   "bbox": [
+    30.0,
+    410.8,
+    272.4,
+    681.4
+   ],
+   "num": [
+    36.0,
+    409.7,
+    48.3,
+    423.5
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "10. Can, laboratuvarda aynı maddeden yapılmış ve aynı miktarda aynı cins sıvı içeren üç farklı bardağı incelemektedir.Her bir bardağa özdeş ısıtıcılarla farklı sürelerde ısı verilmiştir. Gözlemler şu şekildedir: • Bardak A: 2 dakika ısıtılmış → sıcaklık 10°C artmış • Bardak B: 4 dakika ısıtılmış → sıcaklık 20°C artmış • Bardak C: 3 dakika ısıtılmış → sıcaklık değişmemiş Can, bu verilerden yola çıkarak aşağıdaki sonuçlardan hangisine ulaşabilir? A) Sıcaklık değişimi, ısıtma süresi ile doğru orantılıdır. B) Sıcaklığı değişmeyen madde en fazla ısı almıştır. C) Sıvının cinsi sıcaklık değişimini et",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p22|q11",
+   "page": 22,
+   "n": 11,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    285.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "11. Bir araştırma kurumu farklı ortamlardaki sıcaklıkları ölçmek için yeni bir cihaz geliştirmekte ve bu sıvılı termometrede alkol kullanmayı tercih etmektedir. Buna göre bu cihazla aşağıdaki ölçümlerden hangisinin yapılması daha uygun olur? (Alkolün kaynama sıcaklığı 78 °C, donma sıcaklığı -114 °C’dir.) A) Demir eritme fırınlarının sıcaklığını ölçmek B) Kuzey Kutbu’ndaki hava sıcaklığını ölçmek C) Bir fabrikada erimiş camın sıcaklığını ölçmek D) Hararet yapmış bir otomobilin motor sıcaklığını ölçmek E) Deniz seviyesine yakın bölgelerde suyun kaynama sıcaklığını ölçmek",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p22|q12",
+   "page": 22,
+   "n": 12,
+   "bbox": [
+    281.7,
+    370.7,
+    532.8,
+    624.1
+   ],
+   "num": [
+    287.7,
+    369.4,
+    300.0,
+    383.2
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "12. Esen, buzdolabından bir elma ve bir şişe su çıkararak mutfak tezgahına koyar. Bir süre sonra elmayı alıp yemeye başlar ve elmanın oda sıcaklığına ulaştığını fark eder. Elmayı bitirdikten sonra suyu içtiğinde, suyun hala oda sıcaklığının çok altında olduğunu hisseder. Suyun elmaya göre daha az sıcaklık değişimine uğramasının temel sebebi aşağıdakilerden hangisidir? A) Suyun yoğunluğunun elmanınkinden daha fazla olması B) Suyun ısı iletim katsayısının elmanınkinden düşük olması C) Suyun ısı sığasının elmanınkinden yüksek olması D) Suyun, bulunduğu kabın şeklini alması E) Su yüzeyinde buharla",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p23|q13",
+   "page": 23,
+   "n": 13,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    449.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "13. Düşey kesiti verilen kaplarda Şekil I’de T sıcaklığına sahip m kütleli zeytinyağı, Şekil II’de T sıcaklığına sahip m kütleli su bulunmaktadır. Bu sıvıların üzerine 3T sıcaklığına sahip m kütleli demir parçaları yavaşça bırakılıyor. Bir süre bekledikten sonra zeytinyağı ve demir parçası T 1 sıcaklığında, su ve demir parçası T 2 sıcaklığında ısıl dengeye geliyor. Demir Demir m m 3T 3T T m T m Zeytinyağı Su Şekil I Şekil II Kaplardan sıvı taşmadığına ve ısı alışverişi sadece kap içerisindeki sıvı ile demir parçası arasında olduğuna göre 2T sıcaklığı, T 1 ve T 2 arasındaki büyüklük ilişkisi na",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p23|q14",
+   "page": 23,
+   "n": 14,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    458.6
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "14. Hafta sonu etkinliği olarak yüksek bir dağa eşiyle birlikte tırmanmayı planlayan Çağrı, kahve yapmak için özdeş termoslardan birine su, diğerine süt doldurur. Başlangıçta su ve sütün sıcaklık değerleri aynıdır. Saatler sonra tırmanışını tamamlayan Çağrı, termosları açarak kendisine sütlü kahve, eşine sade kahve hazırlar. Kahveyi ikram etmeden önce sade kahvenin sütlü kahveden daha sıcak olduğunu fark eder. Süt Su Bu durumun temel sebebi verilenlerden hangisidir? (Suya ve süte karıştırılan kahve miktarları eşittir.) A) Suyun öz ısısının sütten daha yüksek olması B) Sütün ısı iletim katsayıs",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p23|q15",
+   "page": 23,
+   "n": 15,
+   "bbox": [
+    281.7,
+    502.7,
+    532.8,
+    726.0
+   ],
+   "num": [
+    287.7,
+    501.4,
+    300.0,
+    515.2
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "15. Kütle ve öz ısı değerleri tabloda verilen K, L, M sıvıları eşit zaman aralıklarında eşit ısı veren özdeş ısıtıcılarla ısıtılmaktadır. Bu sıvılara eşit sıcaklık değişimi yaptırabilmek için ısıtıcılarda ısıtılma süreleri sırasıyla t K , t L , t M ’dir. Kütle Öz ısı K m 4c L 2m 2c M m 2c Buna göre t K , t L , t M arasındaki büyüklük ilişkisi nasıldır? A) t K > t L > t M B) t M > t K > t L C) t L > t K > t M D) t M > t K = t L E) t K = t L > t M",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p24|q16",
+   "page": 24,
+   "n": 16,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    253.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "16. Bir maddeye ısı verildiğinde sıcaklığı değişmiyorsa o madde hâl değiştirme sıcaklığındadır. Buna göre I. donma sıcaklığındaki sıvı, II. kaynama sıcaklığındaki sıvı, III. erime sıcaklığındaki katı maddelerinden hangilerine ısı verildiğinde sıcaklığı değişmez? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p24|q17",
+   "page": 24,
+   "n": 17,
+   "bbox": [
+    30.0,
+    318.3,
+    272.4,
+    459.4
+   ],
+   "num": [
+    36.0,
+    317.2,
+    48.3,
+    330.9
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "17. 0 °C’de bir buzun sabit bir ısıtıcı ile ısıtılıp tamamının erimesi için gereken süre I. kütle, II. hâl değişim ısısı, III. sıcaklık değişimi niceliklerinden hangilerine bağlıdır? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p24|q18",
+   "page": 24,
+   "n": 18,
+   "bbox": [
+    30.0,
+    503.5,
+    272.4,
+    677.1
+   ],
+   "num": [
+    36.0,
+    502.4,
+    48.3,
+    516.1
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "18. Saf bir maddenin (0 – t) zaman aralığında sıcaklığının değişmediği fakat iç enerjisinin azaldığı gözleniyor. Buna göre t = 0 anında madde I. Donma sıcaklığında bir sıvıdır. II. Kaynama sıcaklığında bir sıvıdır. III. Erime sıcaklığında bir katıdır. yargılarından hangileri doğru olabilir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p24|q19",
+   "page": 24,
+   "n": 19,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    332.8
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "19. Bir bilim fuarında deney yapan öğrenciler, erime sıcaklığındaki katı K, L ve M maddelerini küp biçimindeki kalıplar şeklinde hazırlamışlardır. Maddeler eşit kütlededir ve özdeş cam kaplara yerleştirilmiştir. Maddeler aynı güçteki ısıtıcılarla eşit süre ısıtıldıklarında, • K maddesi tamamen erimiş, • L maddesinin yarısı erimiş, • M maddesinin ise üçte biri erimiştir. Bu gözleme göre K, L ve M maddelerinin erime ısıları arasındaki ilişki aşağıdakilerden hangisi gibi olur? A) K > L > M B) M > L > K C) L > M > K D) K > M > L E) L > K > M",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p24|q20",
+   "page": 24,
+   "n": 20,
+   "bbox": [
+    281.7,
+    376.9,
+    532.8,
+    691.0
+   ],
+   "num": [
+    287.7,
+    375.8,
+    300.0,
+    389.5
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "20. Bir öğrenci hâl değiştirme sıcaklığındaki saf maddelerin hâl değiştirme ısısının bağlı olduğu değişkenleri belirlemek için iki deney yapıyor. Deneyler sonucunda elde ettiği veriler aşağıdaki tablodaki gibidir. Aldığı ısı Madde cinsi Kütle (g) (kcal) X 100 20 Deney 1 X 200 40 X 100 20 Deney 2 Y 100 30 Buna göre I. Deney 1’i hâl değiştirme ısısının kütle ile olan ilişkisini anlamak için yapmıştır. II. Deney 2’yi hâl değiştirme ısısının maddenin cinsi ile olan ilişkisini anlamak için yapmıştır. III. Kütle arttıkça hâl değiştirme ısısı da artar. yargılarından hangileri doğrudur? A) Yalnız I B)",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p25|q21",
+   "page": 25,
+   "n": 21,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    449.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "21. Isıca yalıtılmış özdeş kaplara eşit kütledeki K, L ve M sıvıları konulup özdeş ısıtıcılarla ısı verildiğinde sıvıların sıcaklık- zaman grafikleri sırasıyla Şekil I, Şekil II ve Şekil III’teki gibi olmuştur. Sıcaklık Sıcaklık K L 3T 2T T Zaman Zaman 0 0 2t 4t t 2t Şekil I Şekil II Sıcaklık M 4T 2T Zaman 0 3t 6t Şekil III Buna göre K, L ve M sıvılarının hâl değiştirme ısıları sırasıyla L K , L L ve L M ise aralarındaki ilişki nedir? A) L K > L L > L M B) L L = L K > L M C) L L > L K > L M D) L M > L K > L L E) L M > L K = L L",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p25|q22",
+   "page": 25,
+   "n": 22,
+   "bbox": [
+    30.0,
+    512.5,
+    272.4,
+    686.0
+   ],
+   "num": [
+    36.0,
+    511.3,
+    48.3,
+    525.0
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "22. K ve L cisimleri ısıca yalıtılmış bir ortama konuluyor. Isıl denge sağlanıncaya kadar K’nin sıcaklığı azalırken L’nin sıcaklığı değişmiyor. Buna göre I. Isı akışı K cisminden L cismine doğrudur. II. L cisminin ısısı artmıştır. III. L cismi hâl değiştirmiştir. yargılardan hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p25|q23",
+   "page": 25,
+   "n": 23,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    241.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "23. Farklı sıcaklıklardaki iki madde bir süre sonra ısıl dengeye ulaşıyor. Isıl dengeye ulaşana kadar geçen süre I. madde miktarı, II. ısı alışveriş hızı, III. maddelerin ilk sıcaklığı niceliklerinden hangilerine bağlıdır? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p25|q24",
+   "page": 25,
+   "n": 24,
+   "bbox": [
+    281.7,
+    306.4,
+    532.8,
+    675.8
+   ],
+   "num": [
+    287.7,
+    305.2,
+    300.0,
+    318.9
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "24. Isıca yalıtılmış özdeş kaplara aynı cins K, L ve M sıvıları konulup özdeş ısıtıcılarla ısı verildiğinde sıvıların sıcaklık-zaman grafikleri sırasıyla Şekil I, Şekil II ve Şekil III’teki gibi olmuştur. Sıcaklık Sıcaklık K L T 1 Zaman Zaman 0 t 4t 0 2t 3t Şekil I Şekil II Sıcaklık M T 2 Zaman 0 2t 4t Şekil III T 1 > T 2 olduğuna göre K, L ve M sıvılarının kütleleri m K , m L ve m M arasındaki ilişki nedir? A) m L > m M > m K B) m L = m K > m M C) m L > m K > m M D) m M > m K > m L E) m M > m K = m L",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p26|q25",
+   "page": 26,
+   "n": 25,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    301.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "25. Kütleleri ve ilk sıcaklıkları farklı olan aynı maddeden yapılmış iki adet katı cisim ısıca yalıtılmış ortamda birbirine temas ettiriliyor. Hâl değişimi olmadığına göre I. Aynı maddeden yapıldıkları için aralarında ısı alışverişi olmaz. II. Kütlesi büyük olandan küçük olana doğru ısı akışı olur. III. Isıl denge sağlandığında denge sıcaklığı, kütlesi büyük olan maddenin sıcaklığına daha yakın olur. yargılarından hangileri kesinlikle doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p26|q26",
+   "page": 26,
+   "n": 26,
+   "bbox": [
+    30.0,
+    366.3,
+    272.4,
+    652.4
+   ],
+   "num": [
+    36.0,
+    365.2,
+    48.3,
+    378.9
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "26. Elif, laboratuvarda sıcaklıkları sırasıyla T 1 , T 2 , T 3 olan X, Y ve Z sıvılarını taşmayacak şekilde bir kaba dökerek karıştırır. Bir süre sonra karışımın denge sıcaklığının hem T 1 hem de T 2 ’den büyük olduğunu ölçer. Bu duruma göre aşağıdaki ifadelerden hangisi yanlıştır? A) X sıvısı ısı vermiştir. B) Z sıvısı ısı vermiştir. C) X sıvısının iç enerjisi artmıştır. D) Y sıvısı ısı almıştır. E) Z sıvısının iç enerjisi azalmıştır.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p26|q27",
+   "page": 26,
+   "n": 27,
+   "bbox": [
+    281.7,
+    81.6,
+    532.8,
+    395.7
+   ],
+   "num": [
+    287.7,
+    80.4,
+    300.0,
+    94.2
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "27. Deniz seviyesinde ısıca yalıtılmış bir ortamda T 1 sıcaklığındaki bir miktar suya T 2 sıcaklığında bir miktar buz atıldığında su ve buzun sıcaklığının zamana göre değişim grafiği şekildeki gibi oluyor. Sıcaklık ( ̊C) T 1 Su t 1 Zaman 0 t 2 Buz T 2 Isı alışverişi sadece su ve buz arasında olduğuna göre I. t 1 – t 2 aralığında buz sudan ısı almamıştır. II. 0 – t 1 aralığında buzun iç enerjisi artmıştır. III. Sistem ısıl dengeye ulaştığında kapta hiç buz kalmamıştır. yargılarından hangileri kesinlikle doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p26|q28",
+   "page": 26,
+   "n": 28,
+   "bbox": [
+    281.7,
+    439.9,
+    532.8,
+    726.0
+   ],
+   "num": [
+    287.7,
+    438.6,
+    300.0,
+    452.4
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "28. T sıcaklığındaki odaya bırakılan 3T sıcaklığındaki bir bardak suyun sıcaklığının zamana göre değişim grafiği verilmiştir. Sıcaklık 3T T Zaman 0 t 1 t 2 Buharlaşma ihmal edildiğine göre I. Suyun 0 – t 1 aralığında ısısı azalmıştır. II. t 1 – t 2 aralığında ısıl denge sağlanmıştır. III. Suyun t 1 – t 2 aralığında özkütlesi başlangıçtaki özkütlesinden büyüktür. yargılarından hangileri doğrudur? (T sıcaklığının 4 °C'nin üstünde olduğu kabul edilecektir.) A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p27|q29",
+   "page": 27,
+   "n": 29,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    370.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "29. Isıca yalıtılmış bir ortamda bulunan m kütleli 4T sıcaklığındaki K cismi ile 5m kütleli T sıcaklığındaki L cismi şekildeki gibi yerleştirildiğinde 3T 2 sıcaklığında ısıl dengeye geldikleri gözlemleniyor. K L Hâl değişimi olmadığına göre öğrenci I. Son durumda cisimlerin ısıları birbirine eşittir. II. K cisminden L cismine ısı transferi olmuştur. III. K'nin ısı sığası L'ninkinden küçüktür. yargılarından hangilerine bu deney sonucunda ulaşabilir? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p27|q30",
+   "page": 27,
+   "n": 30,
+   "bbox": [
+    30.0,
+    455.4,
+    272.4,
+    653.0
+   ],
+   "num": [
+    36.0,
+    454.2,
+    48.3,
+    468.0
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "30. Bir kış günü otobüs durağındaki banka oturan Ali, bankın plastik ve metal kısımlarına dokunduğunda metal kısmı plastik kısımdan daha soğuk hissediyor. Buna göre I. Plastiğin ısısı, metalin ısısından büyüktür. II. Metalin sıcaklığı, plastiğin sıcaklığından büyüktür. III. Metalin ısı iletkenliği plastiğin ısı iletkenliğinden büyüktür. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p27|q31",
+   "page": 27,
+   "n": 31,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    550.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "31. Şekil I’deki gibi ısıca yalıtılmış bir ortamda aynı maddeden yapılmış T 1 sıcaklığındaki m X kütleli X cismi ile T 2 sıcaklığındaki m Y kütleli Y cismi T D sıcaklığında ısıl dengeye ulaşıyor. Cisimlerin sıcaklık - zaman grafiği eşit karelere bölünmüş düzlemde Şekil II’deki gibi olmaktadır. 1 X Y 2 Şekil I Sıcaklık ( ̊C) T 1 X T D Y T 2 Zaman 0 t Şekil II Buna göre I. m x < m y II. Isı akışı 2 yönünde olmuştur. III. X’in verdiği ısı miktarı Y’nin aldığı ısı miktarına eşittir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p27|q32",
+   "page": 27,
+   "n": 32,
+   "bbox": [
+    281.7,
+    594.3,
+    532.8,
+    719.3
+   ],
+   "num": [
+    287.7,
+    593.2,
+    301.9,
+    606.9
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "32. Aşağıdakilerden hangisi küresel ısınmaya karşı alınacak önlemlerden değildir? A) Hidroelektrik santrallerinin artırılması B) Yeşil alanların artırılması C) Fosil yakıtların kullanımı D) Tasarruflu ampullerin kullanılması E) Binalarda ısı yalıtımının yapılması",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p28|q33",
+   "page": 28,
+   "n": 33,
+   "bbox": [
+    30.0,
+    78.7,
+    272.4,
+    466.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "33. İlk sıcaklığı 80 °C olan bir madde soğuk bir ortamda kalınlıkları 3 cm olan S ve T maddeleri ile kaplanarak düzgün aralıklarla sıcaklığı ölçülüp değerler kaydediliyor. Ardından aynı işlem 2 cm kalınlığındaki S ve T maddeleri ile tekrarlanarak kaydedilen sıcaklık değerleri ile aşağıdaki tablo oluşturuluyor. S T S T (3 cm) (3 cm) (2 cm) (2 cm) İlk sıcaklık 80 °C 80 °C 80 °C 80 °C t anındaki 72 °C 70 °C 68 °C 66 °C sıcaklık 2t anındaki 65 °C 63 °C 59 °C 57 °C sıcaklık 3t anındaki 60 °C 58 °C 52 °C 50 °C sıcaklık Buna göre I. S maddesinin ısı iletkenlik katsayısı T’ninkinden büyüktür. II. Kapl",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p28|q34",
+   "page": 28,
+   "n": 34,
+   "bbox": [
+    30.0,
+    510.7,
+    272.4,
+    723.4
+   ],
+   "num": [
+    36.0,
+    509.6,
+    48.3,
+    523.4
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "34. Aralarında bir duvar bulunan S ve T odalarının sıcaklıkları 10 °C iken T odasındaki kalorifer peteği açılıyor, S odasındaki ise kapalı tutuluyor. T odası için ulaşılması istenen sıcaklık 20 °C’dir. Buna göre I. T odasının sıcaklığı 20 °C olduğunda S odası ile arasında ısı iletimi durur. II. Betondan yapılmış duvar daha ince olsaydı S ve T odaları arasındaki ısı iletim hızı artardı. III. T odasının ısınmasında konveksiyon etkilidir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p28|q35",
+   "page": 28,
+   "n": 35,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    378.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "35. Ayşe, kışın soba yanan bir odada yere uzanarak kitap okumaktadır. Bir elini okuduğu kitabın üzerine, diğer elini ise yakınındaki mermer yüzeye koyar. Bir süre sonra, her iki yüzeyin de aynı ortamda bulunmasına rağmen, mermerin elini daha fazla üşüttüğünü fark eder. Ayşe’nin bu gözlemine göre aşağıdaki yorumlardan hangisi doğrudur? A) Mermerin sıcaklığı kitaptan daha düşüktür. B) Mermer, ısıyı daha yavaş ilettiği için eli daha geç soğutur. C) Kitap, mermerden daha iletken olduğu için sıcak hissedilir. D) Mermer, daha iyi ısı iletkeni olduğu için ısıyı elden daha hızlı çeker. E) Isı iletim h",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p28|q36",
+   "page": 28,
+   "n": 36,
+   "bbox": [
+    281.7,
+    422.2,
+    532.8,
+    688.2
+   ],
+   "num": [
+    287.7,
+    420.9,
+    300.0,
+    434.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "36. Eşit uzunluk ve kalınlıktaki X, Y, Z metallerinden Y metalinin ısı iletkenliği Z’ninkinden büyük, X’inkinden küçüktür. Bu metallerin bağlantı noktalarına ve uçlarına özdeş K, L, M, N balmumları yapıştırılıp metallerin arasındaki boşluğun ortasından ısıtılmaya başlanıyor. K L M N X Y Z Y Buna göre I. K balmumu N’den önce erir. II. L balmumu M’den önce erir. III. K ile M balmumları aynı anda eriyebilir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p29|q37",
+   "page": 29,
+   "n": 37,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    333.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "37. Soğuk bir günde boş cam bardağa sıcak su doldurulduğunda cam bardağın çatladığı gözlemleniyor. Boş cam bardağa metal bir kaşık konulup aynı sıcak su doldurulduğunda ise cam bardak çatlamıyor. Bu durumun oluşmasının temel nedeni aşağıdakilerden hangisinde verilmiştir? A) Cam bardağın ısısının metal kaşığın ısısından büyük olması B) Cam bardağın ısı iletim hızının metal kaşığınkinden büyük olması C) Cam bardağın ısı sığasının metal kaşığınkinden büyük olması D) Metal kaşığın ısı iletim hızının cam bardağınkinden büyük olması E) Metal kaşığın genleşme katsayısının cam bardağınkinden büyük olm",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p29|q38",
+   "page": 29,
+   "n": 38,
+   "bbox": [
+    30.0,
+    418.5,
+    272.4,
+    656.2
+   ],
+   "num": [
+    36.0,
+    417.4,
+    48.3,
+    431.2
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "38. Genleşmesi ihmal edilen bir çubuğun boyu 20 °C sıcaklıkta eşit boydaki S ve T metal cetvelleri ile aynı değerde ölçülüyor. Sıcaklık 25 °C’ye getirildiğinde S cetveli ile ölçülen değerin T cetveli ile ölçülen değerden büyük olduğu gözlemleniyor. Buna göre I. 25 °C sıcaklıkta ölçülen değerler, 20 °C sıcaklıkta ölçülen değerden büyüktür. II. S cetvelinin boyca uzama katsayısı, T cetvelinin boyca uzama katsayısından büyüktür. III. Sıcaklık 15 °C’ye düşürülürse T cetveli ile ölçülen değer daha büyük olur. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) II ",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p29|q39",
+   "page": 29,
+   "n": 39,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    414.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "39. Bir uçlarından yere sabitlenmiş S ve T metallerinden yapılan çubukların uçları arasındaki uzaklıklar şekilde verilmiştir. T z S y S x T Bütün çubukların sıcaklıkları eşit miktarda artırıldığında x uzaklığı değişmediğine göre y ve z uzaklıkları nasıl değişir? A) y ve z artar. B) y ve z azalır. C) y artar, z azalır. D) y azalır, z artar. E) y değişmez, z azalır.",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p29|q40",
+   "page": 29,
+   "n": 40,
+   "bbox": [
+    281.7,
+    477.1,
+    532.8,
+    676.2
+   ],
+   "num": [
+    287.7,
+    477.4,
+    300.0,
+    491.2
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "40. İlk sıcaklıkları ve ilk boyları birbirinden farklı olan S ve T metal çubukları ısıca yalıtılmış ortamda birbirine temas ettirildiğinde S çubuğunun iç enerjisi azalmakta ve çubukların boyları eşitlenmektedir. Buna göre I. Çubukların boyca genleşme miktarları eşit olur. II. T çubuğunun ilk boyu, S çubuğunun ilk boyundan büyüktür. III. Olay sonunda S çubuğunun yoğunluğu artmıştır. yargılarından hangileri doğru olabilir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p30|q1",
+   "page": 30,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    346.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. Şekilde K elektroskobu artı yüklü, L elektroskobu yüksüz olup topuzları arasında iletken tel ve A anahtarı bulunmaktadır. K L A + + + + + A anahtarı kapatılınca I. K’den L’ye artı yük geçer. II. L’den K’ye eksi yük geçer. III. K’nin yaprakları biraz kapanır. olaylarından hangileri gerçekleşir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p30|q2",
+   "page": 30,
+   "n": 2,
+   "bbox": [
+    30.0,
+    410.8,
+    272.4,
+    677.0
+   ],
+   "num": [
+    36.0,
+    409.7,
+    43.7,
+    423.5
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. Şekildeki yüklü L elektroskobuna iletken K küresi yaklaştırıldığında yapraklar biraz kapanıyor. L K K küresi L elektroskobunun topuzuna dokundurulursa I. Yapraklarda bir değişiklik olmaz. II. Yapraklar biraz açılır. III. Yapraklar biraz kapanır. durumlarından hangileri gerçekleşebilir? A) Yalnız II B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p30|q3",
+   "page": 30,
+   "n": 3,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    377.8
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "3. Şekildeki elektroskoplar ve L küresi yüklüdür. Yüklü L küresi sistemden uzaklaştırıldığında K elektroskobunun yaprakları daha çok açılırken M elekroskobunun yaprakları biraz kapanıyor. K L M Buna göre K ve M elektroskobu ile L küresinin yüklerinin cinsleri hangi seçenekteki gibi olabilir? (K ve M arasındaki etkileşimler dikkate alınmayacaktır.) K L M A) + - + B) - + - C) + - - D) - - + E) + + +",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p30|q4",
+   "page": 30,
+   "n": 4,
+   "bbox": [
+    281.7,
+    462.9,
+    532.8,
+    640.0
+   ],
+   "num": [
+    287.7,
+    461.8,
+    295.4,
+    475.5
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "4. Elektriksel olarak yüklü cisimlerle ilgili I. Negatif (-) yüklü cisimlerde, pozitif (+) yük bulunmaz. II. Cisimler yüklerinden dolayı birbirlerine elektromanyetik kuvvet uygular. III. Maddelerin elektriksel yükü, proton sayısının nötron sayısından fazla veya az olması ile ilgilidir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p31|q5",
+   "page": 31,
+   "n": 5,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    385.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "5. Zeynep, laboratuvarda plastik bir çubuğu yün kazağına hızlıca sürttü. Ardından çubuğu küçük kâğıt parçalarına yaklaştırdığında, kâğıtlar havalanarak çubuğa yapıştı. Bu durumu gören sınıf arkadaşı Efe, dikkat kesildi. Zeynep daha sonra yüklü çubuğu Efe'nin eline kısa süre dokundurdu. Efe hafifçe irkildi ve elinde garip bir his oluştuğunu söyledi. Ardından, masanın üzerindeki ipe asılı alüminyum topa yöneldiler. Zeynep, yüklü çubuğu topa yaklaştırdı fakat dokundurmadı. Top bir anda çubuğa doğru hareket etti. Çubuğu uzaklaştırınca, top yavaşça eski konumuna döndü. Efe şaşkındı: “Çubuğa değmedi",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p31|q6",
+   "page": 31,
+   "n": 6,
+   "bbox": [
+    30.0,
+    428.4,
+    272.4,
+    714.0
+   ],
+   "num": [
+    36.0,
+    428.7,
+    43.7,
+    442.4
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "6. İletken tellere bağlı X, Y, Z iletken kürelerinin yarıçapları sırasıyla r, 2r, r olup X ve Y küreleri pozitif (+), Z küresi ise negatif (-) elektrik yüküne sahiptir. Y X Z 1 2 r r 2r Buna göre önce 1, sonra 2 anahtarı kapatılıp açılırsa kürelerin son yükleri ile ilgili aşağıda verilen ifadelerden hangisi yanlış olur? A) X ve Z küreleri zıt işaretli olabilir. B) Y ve Z küreleri zıt işaretli olabilir. C) X ve Y küreleri zıt işaretli olabilir. D) Y küresinin yük miktarı Z küresinin yük miktarından fazla olabilir. E) X küresinin yük miktarı Z küresinin yük miktarından fazla olabilir.",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p31|q7",
+   "page": 31,
+   "n": 7,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    478.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "7. Fizik öğretmeni Sadullah bey, önce pozitif yüklü metal bir çubuğu, nötr bir metal bilyeye dokundurur. Daha sonra bu bilyeyi, nötr başka bir metal bilyeye temas ettirir. Sonra sınıfa şu yorumlarda bulunur: 1. İlk temasta, metal çubuktan bilyeye pozitif yük geçişi olur. 2. İkinci temasta, yük paylaşımı gerçekleşir, ancak sistemin toplam yükü değişmez. 3. Bu deneyler, yüklerin yoktan var edilip yok edilebildiğini göstermektedir. Öğretmen yaptığı yorumların doğru olup olmadığını, doğru değilse doğru yorumun ne olması gerektiğini sınıfa sorduğunda öğrencilerden; Tuğba: 1. yorum yanlıştır. Çünkü ",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p31|q8",
+   "page": 31,
+   "n": 8,
+   "bbox": [
+    281.7,
+    522.4,
+    532.8,
+    696.0
+   ],
+   "num": [
+    287.7,
+    521.3,
+    295.4,
+    535.0
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "8. Cisimler bazı işlemler yapılarak elektrikle yüklenebilir. Buna göre I. cam çubuğun ipek kumaşa sürtülmesi, II. nötr metal küreye negatif yüklü çubuğun dokundurulması, III. iki nötr cismin birbirine dokundurulması olaylarından hangileri elektrikle yüklenmeye örnek gösterilebilir? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p32|q9",
+   "page": 32,
+   "n": 9,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    261.3
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "9. r yarıçaplı yalıtkan nötr S küresi, 2r yarıçaplı yalıtkan nötr T küresine sürtüldüğünde S küresinden T küresine elektronlar geçmektedir. Buna göre sürtünme ile elektriklenme sonucunda S ve T kürelerinin yükleri aşağıdakilerden hangisinde doğru verilmiş olabilir? S küresi T küresi A) +q +2q B) +q -2q C) -q +2q D) +2q -2q E) -2q +2q",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p32|q10",
+   "page": 32,
+   "n": 10,
+   "bbox": [
+    30.0,
+    346.4,
+    272.4,
+    632.1
+   ],
+   "num": [
+    36.0,
+    345.3,
+    48.3,
+    359.0
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "10. Yarıçapları 3r ve r olan iletken, nötr S ve T küreleri X cismi dokunduruluyor, Şekil II’de ise negatif ( − ) birbirine dokunmakta iken Şekil I’de pozitif (+) yüklü yüklü Y iletken cismi yaklaştırılıyor. S S T T Y X + + + - - - r r 3r 3r Şekil I Şekil II Küreler birbirinden ayrıldığında her iki şekilde de T küresinin son yükü +q olduğuna göre S küresinin son yükü Şekil I ve Şekil II’de ne olur? Şekil I’de Şekil II’de A) +3q +3q B) +3q -3q C) +3q -q D) +q -q E) -3q -q",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p32|q11",
+   "page": 32,
+   "n": 11,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    284.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "11. Küresel iletken bir cismin kesiti şekildeki gibidir. Küre yüzeyinden küçük bir delik açıldıktan sonra küre pozitif yükle yüklenmektedir. + + + + + II + + I III + + IV + + + + + + Buna göre kürenin merkezine konan (+) yüklü bir cisim hangi yönde hareket eder? (Cismin ağırlığı ihmal edilecektir.) A) I B) II C) III D) IV E) Hareket etmez.",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p32|q12",
+   "page": 32,
+   "n": 12,
+   "bbox": [
+    281.7,
+    328.8,
+    532.8,
+    722.5
+   ],
+   "num": [
+    287.7,
+    327.7,
+    300.0,
+    341.4
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "12. Yere toprak kablosuyla bağlı Şekil I'deki iletken A küresine, K küresi yaklaştırıldığında, topraktan elektron akışı A küresine doğru oluyor. Şekil II'deki iletken B küresine, iletken L küresi dokundurulduğunda, bu kez elektronlar küreden toprağa doğru akıyor. K A Toprak Şekil I L B Toprak Şekil II Buna göre K ve L kürelerinin başlangıçtaki yük işaretleri hangi seçenekte doğru verilmiştir? K L A) + - B) + + C) - + D) - - E) Nötr +",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p33|q13",
+   "page": 33,
+   "n": 13,
+   "bbox": [
+    30.0,
+    78.7,
+    272.4,
+    248.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "13. İletken veya yalıtkan olan nötr X, Y ve Z cisimlerinin üzerindeki yük dağılımları şekilde verilmiştir. - -- + + + -- + - -- + - + + + + X iletkeni Y iletkeni Z yalıtkanı İletkenlerin üzerinde elektrik yükleri kolayca hareket edebildiğine göre hangilerinin üzerindeki yük dağılımları kesinlikle yanlıştır? A) Yalnız X B) Yalnız Y C) X ve Y D) Y ve Z E) X, Y ve Z",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p33|q14",
+   "page": 33,
+   "n": 14,
+   "bbox": [
+    30.0,
+    292.9,
+    272.4,
+    514.4
+   ],
+   "num": [
+    36.0,
+    291.7,
+    48.3,
+    305.4
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "14. Mehmet, bilgisayarı çalıştırdıktan kısa bir süre sonra kasanın metal kısmına dokundu. O anda elinde hafif bir elektrik çarpması gibi bir karıncalanma hissetti ve irkildi. Durumu önemseyip arkadaşına anlattığında, arkadaşı birkaç tahminde bulundu. Buna göre Mehmet’in arkadaşının bu olay ile ilgili I. Kullanılan prizde topraklama bağlantısı bulunmuyor olabilir. II. Binada topraklama tesisatı eksik olabilir. III. Statik elektrik boşalması yaşanmış olabilir. tahminlerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p33|q15",
+   "page": 33,
+   "n": 15,
+   "bbox": [
+    30.0,
+    558.5,
+    272.4,
+    723.6
+   ],
+   "num": [
+    36.0,
+    557.4,
+    50.2,
+    571.1
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "15. Günlük hayatta karşılaşılan I. uçaklara yıldırım çarpsa bile yolcuların zarar görmemesi, II. mikrodalga fırının kapağında metal örgü olması, III. laboratuvarlarda hassas elektronik ölçüm cihazlarının özel kutularda saklanması olaylarından hangileri Faraday kafesinin kullanımına örnek olarak gösterilebilir? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p33|q16",
+   "page": 33,
+   "n": 16,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    349.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "16. Bir öğrenci, evdeki çamaşır makinesinin üzerinde \"Topraklı prizle kullanılmalıdır.\" yazısını fark eder. Bunun nedenini öğretmenine sorduğunda ona, cihazın dış gövdesinde oluşabilecek fazla elektrik yüklerinin toprağa aktarılması gerektiğini ve bu sayede insanların elektrik çarpılmasının önlendiğini açıklar. Buna göre I. Topraklama sayesinde elektrikli cihazların gövdelerindeki iletken kısımlar yük taşımaz hâle gelir. II. Topraklama, iletken bir yol aracılığıyla fazla yükleri güvenli bir şekilde toprağa aktarır. III. Elektrikli cihazların yalıtkan kısımlarına da topraklama yapılmalıdır. yar",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p33|q17",
+   "page": 33,
+   "n": 17,
+   "bbox": [
+    281.7,
+    414.4,
+    532.8,
+    654.9
+   ],
+   "num": [
+    287.7,
+    413.2,
+    300.0,
+    426.9
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "17. Bir eşkenar üçgenin köşelerine q 1 , q 2 ve q 3 yükleri yerleştirilerek aşağıdaki sistemler hazırlanıyor. Şekil I’de q 1 ve q 2 yüklerinin q 3 yüküne uyguladıkları bileşke kuvvet (F) gösterilmiştir. α q 2 q 3 F 1 3 2 α α q 1 q 2 q 1 q 3 Şekil I Şekil II q 2 ve q 3 yükleri Şekil II ’ deki gibi kendi aralarında yer değiştirirse bu defa q 2 yüküne etki eden bileşke kuvvetin yönü hangileri olabilir? A) Yalnız 1 B) Yalnız 2 C) Yalnız 3 D) 2 ve 3 E) 1, 2 ve 3",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p34|q18",
+   "page": 34,
+   "n": 18,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    368.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "18. Kütleleri eşit, yükleri +q ve +2q olan r ve 2r yarıçaplı arasındaki açı α ’dır. kürelerin bağlandığı aynı boydaki ipek iplikler α +q +2q r 2r Küreler birbirine dokundurulup serbest bırakıldığında aşağıdakilerden hangisi doğru A) Toplam yük azalır, α açısı azalır. olur? B) Toplam yük değişmez, α açısı değişmez. C) Toplam yük azalır, α açısı artar. D) Toplam yük değişmez, α açısı artar. E) Toplam yük azalır, α açısı değişmez.",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p34|q19",
+   "page": 34,
+   "n": 19,
+   "bbox": [
+    30.0,
+    453.0,
+    272.4,
+    664.8
+   ],
+   "num": [
+    36.0,
+    451.9,
+    48.3,
+    465.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "19. Şekil I’deki noktasal q 1 = q ve q 2 = -q olan yüklerin birbirine uyguladığı elektriksel kuvvetin şiddeti F 1 , Şekil II’deki noktasal q 3 = 5q ve q 4 = q olan yüklerin birbirine uyguladığı elektriksel kuvvetin şiddeti F 2 ’dir. q 1 =5q 3 q 1 =q q 2 =-q q 2 =q 4 Şekil I Şekil II F Buna göre 1 oranı kaçtır? (Bölmeler eşit aralıklıdır.) F 2 A) 3 D) 9 E) 1 B) 5 C) 5 5 9 5 5 3",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p34|q20",
+   "page": 34,
+   "n": 20,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    370.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "20. Yalıtkan ayak üzerinde bulunan şekildeki içi boş iletken S küresi ile T iletken küresi nötr olup S küresinin içine sarkıtılan X küresi pozitif (+) elektrikle yüklüdür. X A T S Buna göre S ve T kürelerini birbirine bağlayan iletken tel üzerindeki A anahtarı kapatılırsa II. T küresinden S küresine negatif ( − ) yükler I. S küresinden T küresine pozitif (+) yükler geçer. III. S küresinin içi negatif ( − ) elektrikle yüklenir. geçer. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p34|q21",
+   "page": 34,
+   "n": 21,
+   "bbox": [
+    281.7,
+    414.4,
+    532.8,
+    693.8
+   ],
+   "num": [
+    287.7,
+    413.2,
+    300.0,
+    426.9
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "21. Elektrikle yüklü ve boyutları önemsenmeyen iletken X, Y ve Z küreleri sürtünmelerin önemsenmediği düzlemde şekillerdeki konumlarına sabitleniyor. Y küresi şekildeki konumundayken serbest bırakılınca Z cismine doğru harekete başlıyor. Z X Y d 2d Y küresinin elektrik yükünün pozitif (+) işaretli olduğu bilindiğine göre X ve Z kürelerinin elektriksel yükleri X Z I. +q +2q II. +2q -q III. -2q -8q değerlerinden hangileri olabilir? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p35|q22",
+   "page": 35,
+   "n": 22,
+   "bbox": [
+    30.0,
+    78.7,
+    272.4,
+    490.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "Şekil I’de − q yüküne sahip S küresi yaklaştırılıp 22. İletken telle toprağa bağlı iletken nötr T çubuğuna Şekil II’deki negatif ( − ) elektrik yüklü E toprak bağlantısı kesiliyor. Ardından T çubuğu elektroskobunun topuzuna yaklaştırılıyor. S T -q Toprak Şekil I T E Şekil II Buna göre elektroskobun yapraklarında I. tamamen kapanma, II. biraz kapanma, III. biraz daha açılma durumlarından hangileri gerçekleşebilir? A) Yalnız II B) I ve II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p35|q23",
+   "page": 35,
+   "n": 23,
+   "bbox": [
+    30.0,
+    534.4,
+    272.4,
+    690.9
+   ],
+   "num": [
+    36.0,
+    533.2,
+    48.3,
+    546.9
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "23. Yük miktarları − 2q ve +3q olan iletken küreler şekildeki S ve T noktalarına sabitleniyor. -2q +3q X Y Z S T Buna göre X, Y, Z bölgelerinden hangilerinde bulunan bir noktada elektrik alan sıfır olabilir? A) Yalnız X B) Yalnız Y C) Yalnız Z D) X ve Y E) X ve Z",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p35|q24",
+   "page": 35,
+   "n": 24,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    418.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "24. Sürtünmesiz yalıtkan yatay bir yüzey üzerine sabitlenen pozitif yüklü X cismine pozitif yüklü küçük bir metal bilye Şekil I’deki gibi v süratiyle fırlatıldığında bilye şekildeki yörüngeyi izliyor. Aynı deney negatif yüklü bir bilye ile tekrarlandığında ise Şekil II’deki yörüngeyi izliyor. X X v v Pozitif yüklü bilye Negatif yüklü bilye Buna göre I. Yüklü cisimlerin çevresinde başka yüklü cisimleri etkileyen görünmez bir alan vardır. II. Elektriksel kuvvet yalnızca temas yoluyla gerçekleşir. III. Yüklü cisimlerin oluşturduğu alanın yönü, farklı cinsteki yüklere uygulanan kuvvetin yönünü etk",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p35|q25",
+   "page": 35,
+   "n": 25,
+   "bbox": [
+    281.7,
+    460.8,
+    532.8,
+    714.9
+   ],
+   "num": [
+    287.7,
+    461.2,
+    300.0,
+    474.9
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "25. Özdeş, iletken, nötr Y, Z, T küreleri Şekil I’de birbirine dokunmakta iken yüklü X küresi yalıtkan sapından tutularak Y küresine yaklaştırılıyor ve etki ile elektriklenme gerçekleştikten sonra küreler birbirinden ayrılıyor. T 1 2 Z X Y X Y Z T 3 Şekil I Şekil II Küreler yüklerini kaybetmeden Şekil II’deki konumlarına sabitlenip Z küresi serbest bırakıldığında ilk hareket yönü 1, 2, 3 ile verilenlerden hangileri olabilir? A) Yalnız 1 B) Yalnız 2 C) Yalnız 3 D) 1 ve 2 E) 1 ve 3",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p36|q1",
+   "page": 36,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    224.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "1. I. Birim yük başına üretilen enerji, II. Bir iletkenin herhangi bir kesitinden birim zamanda geçen yük miktarı, III. Birim yükün iletken hat üzerinde herhangi iki nokta arasında harcadığı enerji Yukarıda verilen ölçümlerin hangileri voltmetre yardımı ile yapılır? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p36|q2",
+   "page": 36,
+   "n": 2,
+   "bbox": [
+    30.0,
+    349.4,
+    272.4,
+    612.5
+   ],
+   "num": [
+    36.0,
+    349.7,
+    43.7,
+    363.5
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "2. İç direnci önemsiz üreteç ve özdeş dirençlerle şekildeki devre kurulmuştur. V A + - Devredeki ideal voltmetre ve ampermetrenin yerlerinin değiştirilmesi durumunda gösterdikleri değerler nasıl değişir? Voltmetre Ampermetre A) Artar Artar B) Azalır Azalır C) Değişmez Değişmez D) Artar Değişmez E) Artar Azalır",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p36|q3",
+   "page": 36,
+   "n": 3,
+   "bbox": [
+    281.7,
+    81.7,
+    532.8,
+    267.2
+   ],
+   "num": [
+    287.7,
+    80.5,
+    295.4,
+    94.3
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "3. K-L noktaları arasına 2 Ω ve 6 Ω ’luk dirençler şekildeki gibi bağlanarak bir elektrik devresi kurulmuştur. 6 Ω 6 Ω 2 Ω 6 Ω K 6 Ω L Buna göre K-L noktaları arasındaki eşdeğer direnç kaç ohm ( Ω ) olur? A) 1 B) 3 C) 4 D) 6 E) 9",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p36|q4",
+   "page": 36,
+   "n": 4,
+   "bbox": [
+    281.7,
+    311.3,
+    532.8,
+    508.8
+   ],
+   "num": [
+    287.7,
+    310.1,
+    295.4,
+    323.9
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "4. 2R ve 3R dirençleri ile ideal ampermetre ve voltmetre kullanılarak şekildeki elektrik devresi kuruluyor. Ayarlı üreteç 10 V gerilim oluşturduğunda ampermetre ve voltmetre aynı değeri göstermektedir. 2R 3R V A + - Buna göre ampermetrede okunan değer kaç amperdir? A) 2 B) 3 C) 4 D) 6 E) 9",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p36|q5",
+   "page": 36,
+   "n": 5,
+   "bbox": [
+    281.7,
+    552.8,
+    532.8,
+    718.0
+   ],
+   "num": [
+    287.7,
+    551.7,
+    295.4,
+    565.5
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "5. Bir iletkenin uçları arasına uygulanan potansiyel farkın artması I. bu uçlar arasındaki direncin büyümesi, II. uçlar arasında birim zamanda harcanan enerjinin artması, III. birim zamanda bu iki uç arasından geçen yük miktarının artması durumlarından hangilerine neden olur? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p37|q6",
+   "page": 37,
+   "n": 6,
+   "bbox": [
+    30.0,
+    78.7,
+    272.4,
+    536.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "6. İç direnci önemsiz üreteç ve dirençleri ihmal edilebilecek kadar küçük telleri kullanarak Şekil I’de verilen basit elektrik devresini kuran Dide, ayarlı üretecin voltajını artırarak ideal ampermetre ve voltmetrede okuduğu değerleri kaydediyor. Kaydettiği verileri grafiğe aktardığında ise Şekil II’de verilen grafiği elde ediyor. R A V I + - Şekil I V (Volt) V α I (Amper) I Şekil II Dide elde ettiği bu verilerle I. grafiğin eğiminin tan α = V = R’yi verdiği, I II. grafiğin görünen taralı alanı = V I ⋅ ’nin ortalama 2 gücü verdiği, III. kullandığı ampermetrenin bir direnci olmadığı sonuçlarınd",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p37|q7",
+   "page": 37,
+   "n": 7,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    470.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "7. Şekilde sonsuz uzun düz bir telden geçen doğru akımın telin etrafında oluşturduğu manyetik alanın yönünün sağ el kuralı ile nasıl bulunduğu gösterilmiştir. Sağ el kuralına ve manyetik alanın bağlı olduğu değişkenlere göre I. Tel, sağ elin baş parmağı akım yönünü gösterecek şekilde avuç içine alınır. II. Sağ elin baş parmağı akım yönünü gösterecek biçimde tutulduğunda, diğer dört parmağın kıvrılma yönü manyetik alanın yönünü gösterir. III. Telden geçen akımın oluşturduğu manyetik alanın yönü, her noktada tel doğrultusuna diktir. IV. İletkenden geçen akım şiddeti arttıkça, telin çevresinde ol",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p38|q8",
+   "page": 38,
+   "n": 8,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    373.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "8. Elektromıknatıslar günlük hayatta birçok alanda kullanılmaktadır. Hurda demir mıknatısı İndüksiyon ocağı Elektrik motoru Kulaklık Kapı zili Buna göre yukarıda verilen alanların kaçında elektromıknatıs kullanımı vardır? A) 1 B) 2 C) 3 D) 4 E) 5",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p38|q9",
+   "page": 38,
+   "n": 9,
+   "bbox": [
+    30.0,
+    417.8,
+    272.4,
+    719.9
+   ],
+   "num": [
+    36.0,
+    416.6,
+    43.7,
+    430.3
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "9. Yeterince uzun K telinden belirtilen yönde i akımı geçtiğinde A noktasında oluşturduğu manyetik alan şiddeti B olmaktadır. K i A Buna göre I. Ortamın manyetik geçirgenliği artırılırsa manyetik alan şiddeti artar. II. A noktasının tele olan dik uzaklığı azaltılırsa manyetik alan şiddeti artar. III. Telden geçen akımın yönü değişirse A noktasındaki manyetik alanın yönü de değişir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p38|q10",
+   "page": 38,
+   "n": 10,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    442.3
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "10. Plastikten imal edilmiş bir silindir üzerine dışı yalıtılmış iletken tel ile oluşturulmuş sarım sayısı N, sarım boyu L olan bir bobin, iç direnci önemsiz bir pil ve bir adet direnç kullanılarak şekildeki elektromıknatıs yapılmıştır. Sarım boyu L N - Sarım sayısı K â ğıt silindir Plastik silindir R Buna göre I. plastik silindir yerine demir silindir kullanmak, II. sarım boyunu (L) değiştirmeden sarım sayısını (N) artırmak, III. değeri daha küçük olan bir direnç kullanmak işlemlerinden hangileri tek başına yapıldığında elektromıknatısın kutup şiddeti kesinlikle artar? A) Yalnız I B) Yalnız I",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p38|q11",
+   "page": 38,
+   "n": 11,
+   "bbox": [
+    281.7,
+    527.3,
+    532.8,
+    656.5
+   ],
+   "num": [
+    287.7,
+    526.2,
+    301.1,
+    540.0
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "11. Bir elektrik motoruna verilen elektrik enerjisi I. kinetik enerji, II. ısı, III. ses niceliklerinden hangilerine dönüşebilir? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p39|q12",
+   "page": 39,
+   "n": 12,
+   "bbox": [
+    30.0,
+    78.6,
+    272.4,
+    394.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "12. Özdeş K, L ve M dirençleri ile iç direnci ihmal edilen üreteç kullanılarak şekildeki elektrik devresi oluşturuluyor. K M L V Buna göre aynı sürede I. K direncinde açığa çıkan ısı, L direncinde açığa çıkan ısıya eşittir. II. M direncinde açığa çıkan ısı, K direncinde açığa çıkan ısının iki katıdır. III. K ve L dirençlerinin toplam elektriksel gücü, M direncindeki elektriksel güce eşittir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p39|q13",
+   "page": 39,
+   "n": 13,
+   "bbox": [
+    30.0,
+    436.8,
+    272.4,
+    726.0
+   ],
+   "num": [
+    36.0,
+    437.2,
+    48.3,
+    450.9
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "13. Özdeş K, L, M lambaları, reosta ve iç direnci ihmal edilen üreteç ile şekildeki elektrik devresi kuruluyor. ok K L M V Buna göre reosta sürgüsü ok yönüne çekilirse I. M lambasının parlaklığı değişmez. II. K lambasının parlaklığı azalır. III. L lambasının parlaklığı değişmez. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p39|q14",
+   "page": 39,
+   "n": 14,
+   "bbox": [
+    281.7,
+    81.3,
+    532.8,
+    455.6
+   ],
+   "num": [
+    287.7,
+    80.3,
+    300.0,
+    94.1
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "14. Direnç değerleri sırasıyla 3 Ω , 6 Ω ve 2 Ω olan K, L ve M dirençleri ile potansiyel farkı 24 volt olan iç direnci ihmal edilmiş üreteç kullanılarak şekildeki elektrik devresi kuruluyor. R K = 3 Ω R M = 2 Ω R L = 6 Ω 24 Volt Buna göre I. K direncinde birim zamanda harcanan enerji, L direncinde birim zamanda harcanan enerjinin iki katıdır. II. Aynı sürede K ve L dirençlerinde açığa çıkan toplam elektriksel güç, M direncinde açığa çıkan toplam elektriksel güce eşittir. III. Pilin uçları arasındaki potansiyel fark yarıya düşürülürse M direncinde açığa çıkan elektriksel güç yarıya düşer. yargı",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p39|q15",
+   "page": 39,
+   "n": 15,
+   "bbox": [
+    281.7,
+    520.1,
+    532.8,
+    685.3
+   ],
+   "num": [
+    287.7,
+    519.0,
+    301.6,
+    532.8
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "15. Evlerde elektrik güvenliğini sağlamak için I. eski yıpranmış elektrik kablolarını onarmak veya yenilemek, II. çocukların güvenliği için kapaklı prizler kullanmak, III. topraklama sistemini düzenli olarak kontrol etmek işlemlerinden hangilerinin yapılması doğru olur? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p40|q16",
+   "page": 40,
+   "n": 16,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    358.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "16. Tabloda bazı ev aletlerinin güçleri ve günlük çalışma süreleri verilmiştir Çalışma Elektrikli Ev Aleti Gücü (watt) Süresi (saat) Buz dolabı 200 24 Fırın 2400 2 Çamaşır makinesi 1000 2 Elektrikli şofben 4000 2 Buna göre aylık elektrik faturasındaki I. En yüksek tüketimi elektrikli şofben yapmaktadır. II. En düşük tüketimi çamaşır makinesi yapmaktadır. III. Buzdolabının tüketimi, fırının tüketimine eşittir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p40|q17",
+   "page": 40,
+   "n": 17,
+   "bbox": [
+    30.0,
+    402.4,
+    272.4,
+    704.5
+   ],
+   "num": [
+    36.0,
+    401.2,
+    48.3,
+    414.9
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "17. Umut arkadaşlarıyla beraber doğa gezisine çıkıyor. Umut doğa gezisinde yönünü bulmak için yanında getirdiği pusulayı yatay bir yere koyduğunda pusula ibresi şekildeki gibi dengeye geliyor. d N W E S Buna göre I. Pusula ibresi mıknatıstır. II. Umut d yönünde giderse kuzeydoğu yönünde ilerlemiş olabilir. III. Pusula ibresinin şekildeki gibi dengelenmesinin sebebi Dünya’nın manyetik alanıdır. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p40|q18",
+   "page": 40,
+   "n": 18,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    430.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "18. Bir öğrenci, ortası delik silindir şeklindeki özdeş üç mıknatısı, uçları sabitlenmiş ve sürtünmelerin ihmal edildiği ipe, şekilde gösterildiği gibi sırayla geçirir. Her bir mıknatıs denge konumuna geldikten sonra bir sonraki mıknatıs ipe yerleştirilir. 3 2 1 Yatay (yer) Mıknatıslar, birbirine temas etmeden dengeye geldiklerine göre I. 1. ve 2. mıknatısın birbirine yakın olan kutupları aynı işaretlidir. II. 2. ve 3. mıknatısın birbirine yakın olan kutupları zıt işaretlidir. III. 1. ve 3. mıknatısın birbirine uzak olan kutupları zıt işaretlidir. yargılarından hangileri doğrudur? A) Yalnız I ",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p41|q19",
+   "page": 41,
+   "n": 19,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    437.9
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "19. Yatay düzlemde bulunan çubuk mıknatısın her iki tarafında, eşit uzaklıklarda, özdeş K ve L pusulaların ibreleri şekildeki gibi sabit tutulmaktadır. İbreler serbest bırakıldığında, şekilde gösterilen yönlerde dönmektedir. Çubuk mıknatıs K L Buna göre başlangıçta çubuk mıknatısın ve pusula ibrelerinin görünümleri aşağıdakilerden hangisi gibi olabilir? A) B) N S N S S N N S S N S N C) D) N S N N S N S N S N S S E) S S S N N N",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p41|q20",
+   "page": 41,
+   "n": 20,
+   "bbox": [
+    30.0,
+    492.0,
+    272.4,
+    713.5
+   ],
+   "num": [
+    36.0,
+    490.8,
+    48.3,
+    504.5
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "20. Dünya’nın çekirdeğindeki sıvı demir ve nikel, Dünya’nın kendi ekseni etrafındaki dönüşü nedeniyle sürekli hareket halindedir. Çekirdekteki elektrik yüklü sıvı haldeki demir ve nikelin bu hareketiyle oluşan elektrik akımları Dünya’nın manyetik alanını oluşturmaktadır. Buna göre I. Dünya’nın zararlı radyasyondan korunması, II. küresel ısınma, III. kuşların göç ederken yönlerini bulması ifadelerinden hangileri Dünya’nın manyetik alanının sonuçlarındandır? A) Yalnız I B) I ve II C) II ve III D) I ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p41|q21",
+   "page": 41,
+   "n": 21,
+   "bbox": [
+    281.7,
+    78.6,
+    532.8,
+    382.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "21. Özdeş X ve Y lambaları, özdeş ve iç direnci önemsiz üreteçler ve ideal ampermetrelerle şekildeki elektrik devreleri kuruluyor. X Y A 3 - + A 2 - + - + A 1 - + Buna göre I. A 1 ampermetresinin gösterdiği değer A 3 ampermetresinin gösterdiği değerden küçüktür. II. A 1 ve A 2 ampermetrelerinin gösterdiği değerler eşittir. III. Y lambası X lambasından daha uzun süre ışık verir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p41|q22",
+   "page": 41,
+   "n": 22,
+   "bbox": [
+    281.7,
+    445.3,
+    532.8,
+    664.8
+   ],
+   "num": [
+    287.7,
+    445.7,
+    300.0,
+    459.5
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "22. Özdeş dirençler, ideal ampermetreler ve iç direnci önemsiz özdeş üreteçlerle kurulmuş şekildeki devrelerde A 1 ampermetresinin gösterdiği değer 2 amperdir. R R V A 1 A 2 + - + - + - + - V V V Buna göre A 2 ampermetresinin gösterdiği değer kaç amperdir? A) 1 B) 1 C) 2 D) 3 E) 4 2",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p42|q23",
+   "page": 42,
+   "n": 23,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    433.1
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "23. Bir öğrenci özdeş lambalar ve iç direnci önemsiz özdeş 1,5 V’luk üreteçler ile şekildeki devreleri kuruyor. Yaptığı deney sonucunda L lambasının K lambasından daha parlak yandığını ve K lambasının L lambasına göre daha uzun süre ışık verdiğini gözlemliyor. L K 1,5 V - + - + - + - + 1,5 V 1,5 V 1,5 V Şekil I Şekil II Buna göre öğrenci I. K lambasından geçen akım şiddeti L lambasından geçen akım şiddetinden büyüktür. II. Pillerin paralel bağlanması lambanın ışık verme süresini artırır. III. K lambasının uçları arasındaki gerilim L lambasının uçları arasındaki gerilimden küçüktür. çıkarımları",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p42|q24",
+   "page": 42,
+   "n": 24,
+   "bbox": [
+    30.0,
+    477.3,
+    272.4,
+    686.7
+   ],
+   "num": [
+    36.0,
+    476.0,
+    48.3,
+    489.8
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "24. Lamba, ideal voltmetre ve iç direnci önemsiz gerilimi 6 V ve 3 V olan üreteçlerle şekildeki elektrik devresi kuruluyor. Lamba V Voltmetre + - + - - + 6V 6V 3V Buna göre voltmetrenin ölçtüğü değer kaç volttur? A) 3 B) 6 C) 9 D) 12 E) 15",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p42|q25",
+   "page": 42,
+   "n": 25,
+   "bbox": [
+    281.7,
+    78.6,
+    532.8,
+    310.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "25. Özdeş dirençler, ideal voltmetreler ve iç direnci önemsiz potansiyel farkları V, 2V olan üreteçlerle şekildeki elektrik devreleri kuruluyor. R R V 1 V 2 V 2V + - + - V V + - + - + - V + - 2V Buna göre ideal V 1 voltmetresinin gösterdiği değerin ideal V 2 voltmetresinin gösterdiği değere oranı kaçtır? 3 A) 1 B) 1 C) D) 2 E) 3 2 2",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p42|q26",
+   "page": 42,
+   "n": 26,
+   "bbox": [
+    281.7,
+    405.7,
+    532.8,
+    632.7
+   ],
+   "num": [
+    287.7,
+    406.1,
+    300.0,
+    419.9
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "26. Özdeş X, Y, Z lambaları ve iç direnci önemsiz özdeş üreteçlerle şekildeki elektrik devreleri kuruluyor. X Y Z + - M + - + - + - + - K L K, L ve M üreteçlerinin tükenme süreleri sırasıyla t K , t L ve t M olduğuna göre bunlar arasındaki büyüklük ilişkisi aşağıdakilerden hangisinde doğru olarak verilmiştir? A) t K > t L > t M B) t K > t M > t L C) t L > t K > t M D) t M > t L > t K E) t M > t K > t L",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p43|q1",
+   "page": 43,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    394.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "1. Yatay bir masada, servis tabağının üzerinde içerisinde çorba bulunan bir kase bulunmaktadır. Başlangıçta elinde kaşık bulunan Ahmet, çorbadan bir miktar içtikten sonra kaşığı servis tabağının üzerine koyuyor. Kase Servis tabağı Buna göre son durumda I. servis tabağının masa yüzeyine uyguladığı basınç kuvveti, II. kasenin servis tabağına uyguladığı basınç, III. servis tabağının masa yüzeyine uyguladığı basınç niceliklerinden hangileri kesinlikle azalır? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p43|q2",
+   "page": 43,
+   "n": 2,
+   "bbox": [
+    30.0,
+    438.4,
+    272.4,
+    726.0
+   ],
+   "num": [
+    36.0,
+    437.2,
+    43.7,
+    450.9
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "2. Bir marangoz, küp şeklindeki tahta bloğu L yüzeyi üstte kalacak şekilde tezgahın üzerine bıraktığında, tahtanın tezgaha uyguladığı basınç P olmaktadır. Daha sonra marangoz, tahtanın L yüzeyinden başlayarak tabanına kadar daralan koni şeklinde bir parçayı oyarak çıkarır. L K Bu işlemden sonra; • Tahtayı L yüzeyi üzerine bıraktığında, tezgaha uygulan basınç P L • K yüzeyi üzerine bıraktığında P K olmaktadır. Buna göre P, P K ve P L arasındaki ilişki nasıl olur? A) P > P L > P K B) P L > P > P K C) P K > P L > P D) P K = P L > P E) P > P K = P L",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p43|q3",
+   "page": 43,
+   "n": 3,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    672.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "3. Spor salonuna giden üç arkadaş, kendi aralarında türdeş ve yarıçapları ağırlıkları ile orantılı olan 25 kg, 10 kg ve 5 kg ağırlık plakalarını kullanarak spor yapmaktadır. Ağırlıklar düz çubuğa merkezlerindeki deliklerden geçirilerek kullanılmaktadır. • Ahmet, 25 kg olan ağırlık çiftlerini, • Mehmet, 25 kg ve 10 kg olan ağırlık çiftlerini, • Ömer ise 25 kg, 10 kg ve 5 kg ağırlık çiftlerini özdeş düz barlara simetrik takarak halter oluşturur, sonra bu halterleri yatay düzleme bırakır. 5 kg 15 kg 25 kg Yatay Ahmet’in halteri Yatay Mehmet’in halteri Yatay Ömer’in halteri Buna göre aşağıdaki yar",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p44|q4",
+   "page": 44,
+   "n": 4,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    413.8
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "4. Sabit makaralar, kuvvetten kazanç sağlamayan ancak kuvvetin yönünü değiştirerek iş kolaylığı sağlayan düzeneklerdir. Bir çocuk, sabit makara ve ağırlıksız ipten oluşan bir düzenek yardımıyla, bir yükü yukarıya sabit bir kuvvetle çekmeye çalışmaktadır. Çocuk ipi çektiğinde yükün konumu değişmediğine göre yükün yere yaptığı basınç ile çocuğun yere uyguladığı basınç kuvveti nasıl değişir? Basınç Basınç Kuvveti A) Azalır Artar B) Artar Artar C) Değişmez Değişmez D) Artar Azalır E) Azalır Azalır",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p44|q5",
+   "page": 44,
+   "n": 5,
+   "bbox": [
+    30.0,
+    458.0,
+    272.4,
+    724.0
+   ],
+   "num": [
+    36.0,
+    456.8,
+    43.7,
+    470.5
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "5. Düşey kesiti verilen aynı taban alanına sahip X ve Y kaplarında bulunan kendi içinde türdeş sıvıların kap tabanlarına yaptıkları sıvı basınçları eşittir. X Y Buna göre I. X kabındaki sıvı ağırlığı Y kabındaki sıvıya göre daha büyüktür. II. Sıvılar aynı yüksekliktedir. III. Kap tabanlarındaki sıvı basınç kuvvetleri eşittir. yargılarından hangileri kesinlikle doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) I ve III E) II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p44|q6",
+   "page": 44,
+   "n": 6,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    471.4
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "6. Katı basıncının nelere bağlı olduğunu gözlemlemek isteyen üç öğrenci, zemini homojen olan kumsalda oluşturdukları iz derinliklerini gözlemleyerek deneyler gerçekleştirmek üzere ikili gruplar halinde yürümeye karar verir. Öğrencilerin ağırlıkları ve ayakkabı numaraları aşağıdaki tabloda verilmiştir. Öğrenciler aşağıdaki deneyleri gerçekleştirmek istemektedir; • Deney I: Basıncın yüzeye uygulanan kuvvet ile ilişkisini gözlemlemek • Deney II: Basıncın yüzey alanı ile (ayakkabı taban alanı) ilişkisini gözlemlemek • Deney III: İz derinlikleri en büyük ve en küçük olan öğrencileri karşılaştırmak ",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p44|q7",
+   "page": 44,
+   "n": 7,
+   "bbox": [
+    281.7,
+    511.0,
+    532.8,
+    726.0
+   ],
+   "num": [
+    287.7,
+    509.8,
+    295.4,
+    523.6
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "7. Düşey kesiti verilen kabın yarı yüksekliğini dolduran d özkütleli sıvının kap tabanına yaptığı sıvı basıncı P kadardır. Kabın kalanı bu sıvı ile karışmayan özkütlesi sıvınınkinden daha büyük X sıvısı ile doldurulduğunda X sıvısının üst yüzeyindeki sıvı basıncı P/2 olurken kap tabanındaki sıvı basıncı 5P olmaktadır. p Buna göre kaba eklenen X sıvısının özkütlesi kaç d’dir? B) 5 E) 9 A) 2 C) 3 D) 4 2 2",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p45|q8",
+   "page": 45,
+   "n": 8,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    358.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "8. Düşey kesiti verilen kaplarda, dolu olan K kabındaki sıvının tamamı boş olan L kabına taşmayacak şekilde aktarılıyor. K L Buna göre L kabına gelen sıvı için I. Kap tabanına yaptığı sıvı basıncı artmıştır. II. Sıvının yere göre potansiyel enerjisi azalmıştır. III. Kap tabanına yaptığı sıvı basınç kuvveti artmıştır. yukarıda verilen ifadelerden hangisi kesinlikle doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p45|q9",
+   "page": 45,
+   "n": 9,
+   "bbox": [
+    30.0,
+    462.2,
+    272.4,
+    645.2
+   ],
+   "num": [
+    36.0,
+    462.7,
+    43.7,
+    476.5
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "9. İçerisine bir bardak su konulan herhangi bir kaba aynı bardakla bir bardak daha su eklenirse I. Kap tabanındaki sıvı basıncı II. Kap tabanındaki sıvı basınç kuvveti III. Kabın yere uyguladığı basınç IV. Kabın yere uyguladığı basınç kuvveti V. Kabın tüm yüzeylerine etki eden sıvı basınç kuvvetlerinin bileşkesi niceliklerinden hangisi kesinlikle iki katına çıkar? A) I B) II C) III D) IV E) V",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p45|q10",
+   "page": 45,
+   "n": 10,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    281.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "10. Sıvı basıncı ile ilgili olarak I. Durgun sıvılar, sıvı yüzeyinin altında değdikleri her yüzeye dik olacak şekilde basınç kuvveti uygular. II. Sıvılar sıkışmaz ve akışkan olduklarından kapalı bir kapta yüzeylerine uygulanan basıncı kap içinde temas ettikleri her noktaya aynen iletirler. III. Bir kaptaki durgun sıvının kap içinde herhangi bir noktaya yaptığı basınç kabın şekline veya kabı dolduran sıvı miktarına bağlı değildir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p45|q11",
+   "page": 45,
+   "n": 11,
+   "bbox": [
+    281.7,
+    366.4,
+    532.8,
+    655.2
+   ],
+   "num": [
+    287.7,
+    365.2,
+    300.0,
+    378.9
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "11. Bir grup dağcı, deniz seviyesinden 3000 metre yüksekliğe tırmanmaktadır. Tırmanış sırasında, çantalarında bulunan yarı dolu plastik su şişelerinin hacimlerinde değişiklikler gözlemlerler. Deniz seviyesinde normal olan şişeler, yüksek irtifada şişmiş gibi görünmektedir. Dağcılar, bu durumu açık hava basıncının etkisiyle ilişkilendirmeye çalışır. Grup üyeleri bu durumun sebebini aşağıdaki cümlelerle ifade etmişlerdir. • Ahmet: Şişelerdeki suyun sıcaklığı artmış dolayısıyla da hacmi artmış • Ayşe: Rakım artıkça açık hava basıncı azalır. • Selin: Yükseğe çıkıldıkça havanın özkütlesi azalır bu ",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p46|q12",
+   "page": 46,
+   "n": 12,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    383.1
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "12. Bir grup lise öğrencisi, fizik dersinde basınç ölçüm aletleri üzerine bir proje hazırlamaktadır. Proje kapsamında, farklı meslek gruplarının hangi basınç ölçüm aletlerini, hangi amaçlarla kullandığını araştırmaları gerekmektedir. Öğrenciler, çalışmalarını aşağıdaki cümleler ile ifade etmektedirler. Buna göre • Nisa: Meteoroloji uzmanları, atmosfer basıncını ölçmek için barometre kullanırlar. • Bahadır: Pilotlar, uçuş sırasında yükseklik bilgisine ulaşmak için batimetre kullanırlar. • Zeynep: Denizaltı mürettebatı, bulundukları derinliği belirlemek için altimetre kullanırlar. öğrenci açıkla",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p46|q13",
+   "page": 46,
+   "n": 13,
+   "bbox": [
+    30.0,
+    427.2,
+    272.4,
+    725.0
+   ],
+   "num": [
+    36.0,
+    425.9,
+    48.3,
+    439.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "13. Açık hava basıncını ölçmek için hazırlanmış bir Torricelli deneyi düzeneğinde cıva dolu cam tüp cıva dolu kaba batırılarak Şekil I'deki durumu aldığında, tüp içindeki civanın dik yüksekliği h, K noktasındaki cıvanın uyguladığı basınç P olmaktadır. Boşluk Boşluk h h ı Cıva Cıva K K Şekil I Şekil II Hiçbir değişiklik yapılmadan cam tüp cıva dolu kap içerisinde Şekil II'deki gibi konumlandırıldığında h yüksekliği ve P basıncı nasıl değişir? P h A) Artar Artar B) Azalır Değişmez C) Değişmez Artar D) Değişmez Değişmez E) Değişmez Azalır",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p46|q14",
+   "page": 46,
+   "n": 14,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    269.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.8,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "14. Gazların oluşturdukları basınç ile ilgili I. Kapalı bir kaptaki gaz tanecikleri hareketinden dolayı kap yüzeylerine ve birbirlerine etkide bulunarak basınca sebep olurlar. II. Kapalı bir kaptaki gaz moleküllerinin özkütlesi azalınca hareket kabiliyetleri artar, kap yüzeylerinde oluşturdukları basınç artar. III. Açık hava basıncı gazların ağırlıkları ve hareketlerinden kaynaklanır. yargılarından hangileri doğrudur? A) Yalnız I B) I ve II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p46|q15",
+   "page": 46,
+   "n": 15,
+   "bbox": [
+    281.7,
+    354.4,
+    532.8,
+    641.6
+   ],
+   "num": [
+    287.7,
+    353.2,
+    300.0,
+    366.9
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "15. Düşey kesiti şekildeki gibi olan sistemde sürtünmesiz ve sızdırmaz piston, sıvı ve gaz ile oluşturulan sistem dengedeyken kap tabanındaki toplam basınç P, gaz basıncı ise P gaz ’dır. F Sıvı I. Konum Piston II. Konum Gaz Hiçbir değişiklik yapılmadan piston kuvvet etkisiyle I. konumdan II. konuma getirildiğinde P ve P gaz nasıl değişir? P P gaz A) Artar Artar B) Azalır Değişmez C) Değişmez Artar D) Değişmez Değişmez E) Değişmez Azalır",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p47|q16",
+   "page": 47,
+   "n": 16,
+   "bbox": [
+    30.0,
+    78.7,
+    272.4,
+    265.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "16. Bernoulli İlkesi'ne göre akışkanların sürati arttığında akışkanın temas ettiği yüzeye yaptığı basınç azalır. Buna göre I. fırtınalı havalarda çatıların uçması, II. sprey püskürtücülerin çalışma prensibi, III. uçağın tonlarca kütlesine rağmen havada uçabilmesi olaylarından hangilerinin açıklanmasında Bernoulli İ lkesi kullanılır? A) Yalnız I B) I ve II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p47|q17",
+   "page": 47,
+   "n": 17,
+   "bbox": [
+    30.0,
+    310.0,
+    272.4,
+    673.9
+   ],
+   "num": [
+    36.0,
+    308.7,
+    48.3,
+    322.4
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "17. Kışın rüzgârlı günlerde Musluktan akan suyun evlerin bacasından çıkan aşağı doğru indikçe dumanların rüzgarsız incelmesi günlere göre bacadan daha hızlı yükselmesi Saça sürtülen bir tarağın kâğıt parçalarını çekmesi Yukarıdaki görsellerde verilen olaylardan hangilerinin açıklanmasında Bernoulli İlkesi’nden yararlanılır ? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p47|q18",
+   "page": 47,
+   "n": 18,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    454.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "18. Rüzgârlı bir günde şemsiye kullanılırken şemsiyenin ters dönmesi olayı ile sıklıkla karşılaşılır. Buna göre I. Şemsiyenin üst yüzeyi bombeli olduğundan üzerinden geçen havanın sürati arttığından, şemsiyenin üst yüzeyine uyguladığı basınç artar. II. Şemsiyenin alt yüzeyindeki hava üst yüzeyine göre daha yavaş hareket ettiği için şemsiyenin alt yüzeyine daha düşük basınç uygular. III. Şemsiyenin alt ve üst yüzey arasında oluşan basınç kuvveti farkından dolayı şemsiyeye kaldırma kuvveti etki eder. verilen ifadelerden hangileri şemsiyenin ters dönmesini açıklamak için kullanılabilir? A) Yalnız",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p47|q19",
+   "page": 47,
+   "n": 19,
+   "bbox": [
+    281.7,
+    498.4,
+    532.8,
+    711.9
+   ],
+   "num": [
+    287.7,
+    497.2,
+    300.0,
+    510.9
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "19. Düşey kesit alanları arasındaki ilişki K > M > L olan şekildeki borunun içinden akan sıvının K, L ve M bölgelerindeki sürati sırasıyla v 1 , v 2 ve v 3 ’tür. K M L v 1 v 2 v 3 Buna göre v 1 , v 2 ve v 3 arasındaki büyüklük ilişkisi nasıldır? A) v 1 > v 2 > v 3 B) v 2 > v 1 > v 3 C) v 1 > v 3 > v 2 D) v 2 > v 3 > v 1 E) v 3 > v 1 > v 2",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p48|q20",
+   "page": 48,
+   "n": 20,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    502.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "20. Şekil I’de rüzgarlı havada çatının iç ve dış kısmındaki K ve L noktalarında hava basınçları P K ve P L ’dir. Şekil II’de havalanan uçağın kanadının üst ve alt kısmındaki M ve N noktalarında hava basınçları P M ve P N ’dir. Şekil III’te ise saç kurutma makinesi çalıştırıldığında balonların arasında ve dışındaki R ve S noktalarında hava basınçları P R ve P S ’dir. M N Şekil I Şekil II Şekil III Buna göre I. P K > P L ’dir. II. P N > P M ’dir. III. P R > P S ’dir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p48|q21",
+   "page": 48,
+   "n": 21,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    574.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "21. Düşey kesiti şekildeki gibi olan, camdan yapılmış, içinde durgun hava bulunan borunun altına bağlı U borusundaki sıvı seviyeleri Şekil I’de eşittir. Borunun içindeki hava hareketlendirildiğinde sıvı seviyeleri arasındaki fark Şekil II’deki gibi oluyor. Durgun hava su Şekil I Hava su Şekil II Buna göre I. Akışkanlar yüksek basınçtan alçak basınca doğru hareket eder. II. Kesit alanının azaldığı yerde akışkanın hızı artar. III. Akışkanların hızının arttığı yerde basıncı azalır. ifadelerinden hangileri Şekil II’deki sıvı seviyeleri arasındaki farkı açıklamak için kullanılabilir? A) Yalnız I B)",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p49|q22",
+   "page": 49,
+   "n": 22,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    301.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "22. Akışkanlarla ilgili günlük hayatta karşılaşılan birçok olay Bernoulli İlkesi ile açıklanmaktadır. Buna göre I. ağaçların kökleriyle aldıkları suyu yapraklarına iletmesi, II. yüksek süratli hareket eden araçların yan yana geçerken sallanması, III. aynı hava sıcaklığında dışarı asılan çamaşırların rüzgarlı havada durgun havaya göre daha çabuk kuruması olaylarından hangilerinin açıklanmasında Bernoulli İ lkesi’nden yararlanılır? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p49|q23",
+   "page": 49,
+   "n": 23,
+   "bbox": [
+    30.0,
+    366.4,
+    272.4,
+    676.4
+   ],
+   "num": [
+    36.0,
+    365.2,
+    48.3,
+    378.9
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "23. Yüksek noktadan havuza atlayan çocuğun tamamen suya battıktan bir süre sonra kendiliğinden su yüzeyine doğru yükseldiği gözlemlenmiştir. Buna göre çocuğun kendiliğinden su yüzeyine yükselmesinin nedeni aşağıdakilerden hangisidir? A) Çocuğun ortalama vücut özkütlesinin havuz suyununkinden büyük olması B) Çocuğun ortalama vücut özkütlesinin havuz suyununkine eşit olması C) Çocuğa etki eden kaldırma kuvvetinin ağırlığından küçük olması D) Çocuğa etki eden kaldırma kuvveti ağırlığına eşit olması E) Çocuğun ortalama vücut özkütlesinin havuz suyununkinden küçük olması",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p49|q24",
+   "page": 49,
+   "n": 24,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    355.4
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "24. Bir çocuk, üzerine demir bilyeler koyduğu oyuncak gemisini, oyuncak havuzda yüzdürüyor. Gemi, üzerindeki bilyeler ile su üzerinde dengede iken, gemiye etki eden kaldırma kuvveti F K , havuzdaki suyun yüksekliği h kadardır. Bir süre sonra bilyelerden bazıları geminin içinden suya düşüyor ve dibe batıyor. Demir bilye h Denge durumu tekrar sağlandığında ilk duruma göre F K ve h nasıl değişir? F K h A) Azalır Artar B) Azalır Azalır C) Değişmez Azalır D) Azalır Değişmez E) Değişmez Değişmez",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p49|q25",
+   "page": 49,
+   "n": 25,
+   "bbox": [
+    281.7,
+    399.5,
+    532.8,
+    725.5
+   ],
+   "num": [
+    287.7,
+    398.2,
+    300.0,
+    412.0
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "25. Bazı ülkelerde salların bambudan yapılmasının sebebi bambunun içi boş ve hafif malzeme olması, dolasıyla özkütlesinin sudan daha az olmasıdır. Bambu çubuklarının birbirine bağlanmasıyla oluşturulan sal, suya bırakıldığında içindeki hava sayesinde suyun yüzeyinde kalır. Bu sayede sal, insan ya da yük taşımacılığında kullanılır. Salın daha fazla yük taşıyabilmesi için I. salın kenarlarına, özkütlesi suya eşit olan katı maddeler bağlamak, II. salın yanına yeni bambu çubukları eklemek, III. Yeni bambu çubuklarını, salın kalınlığı artacak şekilde üst üste iki katlı bağlamak işlemlerinden hangil",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p50|q26",
+   "page": 50,
+   "n": 26,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    321.0
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": "",
+   "osym": "",
+   "text": "26. Suda çözünmeyen X ve Y cisimleri, tamamı su dolu olan taşırma kaplarına ayrı ayrı bırakıldıklarında aşağıdaki durumlar gözlemleniyor. • X cismi ile Y cismi aynı hacimde su taşırıyor. • Sadece X cismi kapta ağırlık artışına neden oluyor. Cisimler dengeye geldiklerine göre aşağıdaki yargılardan hangisi kesinlikle doğrudur? A) X cisminin hacmi, Y cisminin hacmine eşittir. B) Y cisminin özkütlesi, suyun özkütlesinden daha küçüktür. C) X cismine etki eden kaldırma kuvveti, X cisminin ağırlığından daha küçüktür. D) Y cismine etki eden kaldırma kuvveti, X cismine etki eden kaldırma kuvvetinden bü",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p50|q27",
+   "page": 50,
+   "n": 27,
+   "bbox": [
+    30.0,
+    385.4,
+    272.4,
+    660.3
+   ],
+   "num": [
+    36.0,
+    384.3,
+    48.3,
+    398.0
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": "",
+   "osym": "",
+   "text": "27. Birbiriyle karışmayan saf K ve L sıvılarına ait kütle-hacim grafiği verilmiştir. X cismi, K sıvısı içerisindeyken Şekil I’deki gibi dengede kalmaktadır. Kütle X cismi K L K sıvısı Hacim Kaba bir miktar L sıvısı eklendiğinde, X cismine etki eden toplam kaldırma kuvveti ve X’in K sıvısı içerisindeki batan hacmi nasıl değişir? Kaldırma kuvveti Batan hacmi A) Azalır Artar B) Artar Artar C) Değişmez Azalır D) Azalır Değişmez E) Değişmez Değişmez",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p50|q28",
+   "page": 50,
+   "n": 28,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    408.6
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": "",
+   "osym": "",
+   "text": "28. Düşey kesiti verilen kapta, eşit hacim bölmeli, homojen X, Y ve Z katı cisimleri sıvı içerisinde şekildeki gibi dengededir. Z X Y Buna göre I. Y’nin özkütlesi Z’ninkinden küçüktür. II. X ve Z’nin ağırlıkları eşittir. III. X cisminin özkütlesi Y ve Z’ninkinden büyüktür. yargılardan hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p51|q1",
+   "page": 51,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    382.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. x-y düzlemi üzerinde x doğrultusunda ilerleyen periyodik dalga şekilde verilmiştir. Bu dalganın ilerleme hızı 24 cm/s’dir. y (cm) +6 x (cm) 0 2 4 6 8 -6 Buna göre dalga ile ilgili I. Genliği 6 cm’dir. II. Periyodu 8 s’dir. III. Dalga boyu 4 cm’dir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p51|q2",
+   "page": 51,
+   "n": 2,
+   "bbox": [
+    30.0,
+    465.8,
+    272.4,
+    641.0
+   ],
+   "num": [
+    36.0,
+    466.2,
+    43.7,
+    480.0
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. Özellikleri her yerinde aynı olan bir ortamda, bir dalga kaynağı birim zamanda a kadar dalga üretmektedir. Buna göre sadece a artarsa dalgalar ile ilgili I. hız, II. frekans, III. dalga boyu niceliklerinden hangileri de artar ? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p51|q3",
+   "page": 51,
+   "n": 3,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    306.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "3. Eşit kare bölmeli düzlemde verilen X ve Y atmaları özellikleri değişmeyen özdeş ortamlarda yayılmaktadır. X Y Buna göre X atmasının sahip olduğu aşağıda verilen niceliklerden hangileri Y atmasına göre daha büyüktür? A) Genişlik ve frekans B) Genlik ve periyot C) Genişlik ve periyot D) Hız ve genişlik E) Hız, genişlik ve periyot",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p51|q4",
+   "page": 51,
+   "n": 4,
+   "bbox": [
+    281.7,
+    411.7,
+    532.8,
+    629.0
+   ],
+   "num": [
+    287.7,
+    410.4,
+    295.4,
+    424.2
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "4. Dalgalar, taşıdıkları enerjiye göre mekanik ve elektromanyetik dalgalar; titreşim doğrultularına göre ise enine ve boyuna dalgalar olarak sınıflandırılabilir. Buna göre bu sınıflandırmalarla ilgili aşağıda verilen ifadelerden hangisi yanlıştır? A) Elektromanyetik dalgalar enine dalga sınıfındadır. B) Su dalgaları, enine ve boyuna dalgaların birleşimi şeklinde yayılır. C) Ses dalgaları enine dalgalardır. D) Ses dalgaları mekanik dalga sınıfındadır. E) Yay dalgaları, oluşturulma biçimine göre enine ya da boyuna yayılabilir.",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p52|q5",
+   "page": 52,
+   "n": 5,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    370.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "5. Yatay düzlem üzerinde belirlenmiş x-y ekseni şekilde verilmiştir. +y +x 0 Buna göre I. x ekseni üzerinde titreşip, +y yönünde ilerleyen bir dalga, yay dalgası olabilir. II. y ekseni üzerinde titreşip, +x yönünde ilerleyen bir dalga, boyuna dalga özelliği gösterir. III. y ekseni üzerinde titreşip, +y yönünde ilerleyen bir dalga, ses dalgası olabilir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p52|q6",
+   "page": 52,
+   "n": 6,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    465.6
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "6. Bir öğretmen, bir ucu duvara sabitlenmiş esnek bir yayı kullanarak, atma ile periyodik dalga arasındaki farkı öğrencilerine göstermek istemektedir. Bu amaçla yay ucunu sırasıyla; 1. O noktasından +x yönüne itip tekrar O noktasına getirmektedir. 2. O noktasını merkez alarak, yay ucunu y ekseni boyunca eşit uzaklıkları, eşit sürede alacak şekilde yukarı-aşağı hareket ettirmektedir. Öğretmen Duvar +y +x 0 Buna göre öğretmen I. 1. adımda atma oluşturmuştur. II. 2. adımda periyodik dalga oluşturmuştur. III. 2. adımda oluşturduğu dalga, boyuna dalga sınıfındadır. yargılarından hangileri doğrudur?",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p53|q7",
+   "page": 53,
+   "n": 7,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    358.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "7. Eşit karelere bölünmüş düzlemde ilerleme yönü verilen X atması ve atma üzerindeki bir A noktasının anlık görünümü şekilde verilmiştir. 1 br X A Atmanın ilerleme yönü Buna göre I. Atmanın genişliği 4 birimdir. II. Atmanın genliği 2 birimdir. III. A noktasının hareket yönü yukarı doğrudur. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p53|q8",
+   "page": 53,
+   "n": 8,
+   "bbox": [
+    30.0,
+    421.4,
+    272.4,
+    678.8
+   ],
+   "num": [
+    36.0,
+    421.7,
+    43.7,
+    435.5
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "8. İlerleme yönleri verilen atmaların üzerindeki X, Y ve Z noktaları şekilde verilmiştir. İlerleme İlerleme yönü yönü İlerleme yönü Y Z X Buna göre X, Y, Z noktalarının anlık titreşim yönleri aşağıdakilerden hangisinde doğru olarak verilmiştir? ↑ ↓ ↑ X Y Z ↓ ↑ ↑ A) ↑ ↓ ↓ B) ↓ ↓ ↑ C) ↓ ↑ ↓ D) E)",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p53|q9",
+   "page": 53,
+   "n": 9,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    430.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "9. Semih ve Mert, türdeş ve esnek bir ipin iki ucundan tutarak ipi yatay doğrultuda gergin halde tutmaktadır. Semih, ipin ucunu bulunduğu konumdan 2d kadar yukarı kaldırıp tekrar eski konumuna getirir. Mert ise ipin ucunu Semih ile aynı sürede, bulunduğu konumdan d kadar yukarı kaldırıp tekrar eski konumuna getirir. 2d d Semih Mert Mert ve Semih atma üretmeye aynı anda başladıklarına göre I. Oluşan iki atma, ipin tam ortasında karşılaşır. II. Semih’in oluşturduğu atmanın genişliği, Mert’inkinden büyüktür. III. Semih’in oluşturduğu atmanın genliği, Mert’inkinden büyüktür. yargılarından hangiler",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p54|q10",
+   "page": 54,
+   "n": 10,
+   "bbox": [
+    30.0,
+    81.0,
+    272.4,
+    440.1
+   ],
+   "num": [
+    36.0,
+    80.3,
+    48.3,
+    94.1
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "10. Dalgaların yayılma hızı, dalga boyu ( λ ) ile frekans (f) arasındaki ilişki v = λ ⋅ f bağıntısı ile ifade edilir. Bu denklem tüm dalga türleri için geçerlidir. Ancak dalganın yayılma hızı, içinde yayıldığı ortama göre farklı etkenlere bağlıdır. Yay dalgaları özelinde büyüklüğü (F) ve yayın birim uzunluktaki kütlesi ( μ ) dalga hızı; yayı geren kuvvet yani gerilme kuvvetinin ile ilişkilidir. Yayda ilerleyen dalganın hızı şu şekilde hesaplanır: F v = μ Bu ilişki, yaylarda oluşturulan atmaların ya da periyodik dalgaların yayılma hızını belirlemede temel alınır. Buna göre I. Sadece kaynağın fr",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p54|q11",
+   "page": 54,
+   "n": 11,
+   "bbox": [
+    30.0,
+    484.2,
+    272.4,
+    705.7
+   ],
+   "num": [
+    36.0,
+    483.0,
+    48.3,
+    496.8
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "11. Bir ucu serbest, diğer ucu sabit olan sarmal bir yay üzerinde 1 br/s sürat ile ilerleyen atmalar ve atmaların üzerindeki birer noktanın anlık titreşim yönleri şekildeki eş karelere bölünmüş düzlemde verilmiştir. 1 br Serbest Sabit uç uç Buna göre şekildeki konumlarından geçtikten kaç saniye sonra, atmalar birbirlerini tamamen söndürür? A) 8 B) 8,5 C) 9 D) 9,5 E) 10",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p54|q12",
+   "page": 54,
+   "n": 12,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    285.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "12. Türdeş X ve Y yayları birer uçlarından birleştirilmiş ve X yayında genliği r g olan bir atma oluşturulmuştur. Bağlantı noktasından yansıyan atmanın genliği r y , iletilen atmanın genliği ise r i olarak gözlemlenmiştir. Genlikler arasında r g > r i > r y büyüklük ilişkisi belirlenmiştir. Aynı sistemde bu kez Y yayında genliği r 1 olan bir atma oluşturulduğunda, bağlantı noktasından yansıyan atmanın genliği r 2 , iletilen atmanın genliği ise r 3 olarak ölçülmüştür. Buna göre r 1 , r 2 ve r 3 arasındaki büyüklük ilişkisi nasıldır? A) r 1 > r 2 > r 3 B) r 1 > r 3 > r 2 C) r 3 > r 2 > r 1 D) r ",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p54|q13",
+   "page": 54,
+   "n": 13,
+   "bbox": [
+    281.7,
+    368.3,
+    532.8,
+    646.5
+   ],
+   "num": [
+    287.7,
+    367.3,
+    300.0,
+    381.0
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "13. O noktasında birleştirilmiş olan esnek ve türdeş X ve Y yaylarından birinde oluşturulan bir atmanın, O noktasından yansıyanı ve iletileni, eşit karelere bölünmüş bir düzlemde şekilde gösterilmiştir. O Y X Buna göre I. Oluşturulan atma baş yukarıdır. II. Atma Y yayında oluşturulmuştur. III. Yansıyan atmanın sürati iletileninkinden büyüktür. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p55|q14",
+   "page": 55,
+   "n": 14,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    390.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "14. Esnek ve türdeş bir yay üzerinde 1 br/s sürat ile ilerleyen atmaların hareket yönleri şekildeki eşit karelere bölünmüş düzlemde verilmiştir. Sabit uç 1 br Buna göre şekildeki konumlarından geçtikten 5 saniye sonraki görünümleri aşağıdakilerden hangisi gibidir? A) B) C) D) E)",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p55|q15",
+   "page": 55,
+   "n": 15,
+   "bbox": [
+    30.0,
+    432.0,
+    272.4,
+    705.8
+   ],
+   "num": [
+    36.0,
+    430.8,
+    48.3,
+    444.5
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "15. Düşey kesiti verilen aynı derinlik ve uzunluktaki K ve L dalga leğenlerinde oluşturulan periyodik doğrusal dalgalar görülmektedir. Kaynak Kaynak d d K Leğeni L Leğeni Buna göre K leğenindeki dalgaların sürat, genlik ve frekans niceliklerinden hangileri L leğenindeki dalgalardan büyüktür? A) Yalnız Sürat B) Yalnız Genlik C) Yalnız Frekans D) Sürat ve Genlik E) Frekans ve Genlik",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p55|q16",
+   "page": 55,
+   "n": 16,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    360.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "16. Türdeş bir yayda oluşturulan yay dalgalarının yandan görünümü üzerinde gösterilen K noktasının anlık titreşim yönü ok ile şekilde gösterilmiştir. -x +x K M L ok Buna göre dalgaların ilerleme yönü ve dalga üzerinde gösterilen L ve M noktalarının anlık titreşim yönleri aşağıdakilerden hangisinde doğru olarak gösterilmiştir? ↓ ↓ İlerleme yönü L M ↑ ↑ A) +x ↑ ↓ B) +x ↓ ↓ C) +x ↑ ↑ D) -x E) -x",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p55|q17",
+   "page": 55,
+   "n": 17,
+   "bbox": [
+    281.7,
+    405.0,
+    532.8,
+    719.0
+   ],
+   "num": [
+    287.7,
+    403.7,
+    300.0,
+    417.5
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "17. Derinliği her yerinde aynı olan bir dalga leğeninde noktasal K kaynağının oluşturmuş olduğu dairesel dalgalar şekilde verilmiştir. Dalga tepeleri düz, dalga çukurları kesikli çizgilerle gösterilmiştir. d doğrusu Z Y X K Buna göre I. X noktası dalga çukuru üzerindedir. II. Y ile Z noktaları arası uzaklık dalga boyuna eşittir. III. X ve Y noktaları arası uzaklık dalga boyuna eşittir. yargılarından hangileri doğru olabilir? A) Yalnız I B) I ve II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p56|q18",
+   "page": 56,
+   "n": 18,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    370.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "18. Derinliği her yerinde aynı olan suyla dolu bir leğende doğrusal su dalgaları üreten bir kaynağın oluşturmuş olduğu ardışık dalga tepelerinin üstten görünümü şekilde verilmiştir. x 2x 3x 4x Dalga Kaynağı Buna göre I. Dalgaların sürati azaldığı için dalga boyu da giderek azalmıştır. II. Dalga kaynağının frekansı azaldığı için dalga boyu giderek artmıştır. III. Dalga kaynağının frekansı arttığı için dalga boyu giderek azalmıştır. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p56|q19",
+   "page": 56,
+   "n": 19,
+   "bbox": [
+    30.0,
+    475.8,
+    272.4,
+    617.0
+   ],
+   "num": [
+    36.0,
+    474.7,
+    48.5,
+    488.5
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "19. Su dalgaları ile ilgili I. Mekanik dalgalardır. II. Sadece enine dalga olarak yayılır. III. Su dalgaları üzerindeki en üst noktaya dalga tepesi, en alt noktaya dalga çukuru denir. yargılarından hangileri doğrudur? A) Yalnız I B) I ve II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p56|q20",
+   "page": 56,
+   "n": 20,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    365.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "20. Derinliği her noktada aynı olan bir dalga leğeninde O noktasında oluşturulan dalgaların, leğenin K bölgesinde bulunan engelden yansıdıktan sonraki ilk yayılma durumu şekilde gösterilmiştir. O K Bölgesi I II III Buna göre K bölgesinde I, II , III numaralı engellerden hangileri olabilir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p57|q21",
+   "page": 57,
+   "n": 21,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    514.9
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "21. Derinliği her yerde aynı olan dalga leğeninin iki ucuna odak noktaları çakışık ve F olan özdeş K ve L çukur engelleri yerleştirilmiştir. Doğrusal su dalgaları ok yönünde şekildeki gibi hareket etmektedir. F K L Buna göre dalgaların K engelinden ilk yansımaları sonrasındaki görünümleri nasıl olur? A) B) C) D) E)",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p57|q22",
+   "page": 57,
+   "n": 22,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    718.6
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "22. Derinliği her yerde aynı olan dalga leğeninde KOL doğrusal su atması doğrusal bir engele şekildeki gibi gönderilmiştir. L O K 50 ̊ Engel Buna göre O noktası engele geldiği anda, atmanın görünümü nasıl olur? A) K L 50° 40° B) K L 40° 50° C) L K 40° 40° D) K L 40° 40° E) K L 50° 50°",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p58|q23",
+   "page": 58,
+   "n": 23,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    715.5
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "23. Bir dalga leğeninde sabit periyotla çalışan bir kaynağın ürettiği su dalgalarının dalga boyunun kaynaktan uzaklaştıkça değişimini gösteren sütun grafik şekilde verilmiştir. Dalga Boyu 5 λ 3 λ 2 λ Kaynağa uzaklık x 2x 3x 4x 5x 6x 7x 8x 0 Buna göre dalga leğeninin düşey kesitinin görünümü hangisi gibi olabilir? A) Dalga kaynağı Su Engel B) Dalga kaynağı Su Engel C) Dalga kaynağı Su Engel D) Dalga kaynağı Su Engel Dalga E) kaynağı Su Engel",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p58|q24",
+   "page": 58,
+   "n": 24,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    429.9
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "24. Suyla dolu bir dalga leğeninde K ve M bölgelerinin derinlikleri farklı olup sabittir. K ortamında sabit periyotlu dalga kaynağı tarafından oluşturulan doğrusal dalgaların M ortamına geçişi şekilde verilmiştir. K M Dalga Kaynağı Buna göre I. M bölgesinin derinliği K bölgesinin derinliğinden fazladır. II. Dalgaların K bölgesindeki frekansı M bölgesindeki frekansından büyüktür. III. Dalgaların K bölgesindeki dalga boyu M bölgesindeki dalga boyundan küçüktür. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p58|q25",
+   "page": 58,
+   "n": 25,
+   "bbox": [
+    281.7,
+    438.4,
+    532.8,
+    696.4
+   ],
+   "num": [
+    287.7,
+    437.2,
+    300.0,
+    450.9
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "25. Aynı ortamda bulunan K, L, M ses kaynaklarından çıkan seslerin şiddetleri ve frekansları tabloda verilmiştir. Ses Kaynağı Ses Şiddeti (db) Ses Frekansı (Hz) K 15 100 L 50 30000 M 70 5000 Buna göre I. L kaynağından çıkan sesin sürati en büyüktür. II. Sağlıklı bir insan K ve M ses kaynaklarından çıkan sesi algılayabilir. III. M kaynağından çıkan sesin genliği en büyüktür. yargılarından hangileri doğrudur? A) Yalnız I B) I ve II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p59|q26",
+   "page": 59,
+   "n": 26,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    438.8
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "26. Aynı ortamda yayılan Şekil I’deki K ses dalgasının sıkışma bölgelerinin orta noktaları arasındaki mesafe 2x, Şekil II’de L ses dalgasının sıkışma bölgelerinin orta noktaları arasındaki mesafe x’tir. 2x K dalgası Şekil I x L dalgası Şekil II Buna göre I. K dalgasının tınısı L dalgasınınkinden farklıdır. II. L dalgasının frekansı K dalgasının frekansının iki katıdır. III. K dalgasının sürati L dalgasının süratinin iki katıdır. yargılarından hangileri kesinlikle doğrudur? A) Yalnız II B) Yalnız III C) I ve II D) I ve III E) I, II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p59|q27",
+   "page": 59,
+   "n": 27,
+   "bbox": [
+    30.0,
+    503.3,
+    272.4,
+    680.5
+   ],
+   "num": [
+    36.0,
+    502.2,
+    49.5,
+    516.0
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "27. Ses dalgaları ile yapılan bazı işlemler aşağıda numaralandırılmıştır. I. Böbrek taşı kırma işlemi, II. Denizcilikte su altındaki nesnelerin tespiti, III. Tiyatro salonlarında sesin daha kaliteli olması için yapılan akustik çalışmalar Buna göre numaralandırılmış işlemlerden hangilerinde sesin yansıma özelliğinden faydalanılmıştır? A) Yalnız I B) Yalnız III C) I ve II D) I ve III E) II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p59|q28",
+   "page": 59,
+   "n": 28,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    382.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "28. Şekilde gösterilen birbirine yeterince yakın K, L ve M diyapazonlarından yalnızca L ve M diyapazonları özdeştir. K L M Buna göre L diyapazonuna plastik bir tokmakla vurulduğunda I. K diyapazonu da titreşir ve titreşim frekansı L’ninkinden büyüktür. II. M diyapazonu titreşir ve titreşim frekansı L’ninkine eşittir. III. K ve M diyapazonlarının her ikisi de L’nin titreşim frekansıyla eşit olacak şekilde titreşir. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p59|q29",
+   "page": 59,
+   "n": 29,
+   "bbox": [
+    281.7,
+    445.4,
+    532.8,
+    662.5
+   ],
+   "num": [
+    287.7,
+    445.7,
+    300.0,
+    459.5
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "29. MEBİ uygulamasından ders anlatım videosu izlemekte olan Mehmet, videonun oynatma hızını artırdıkça anlatım yapan öğretmenin sesinin inceldiğini gözlemlemiştir. Bu durum aşağıdakilerden hangisi ile açıklanabilir? A) Hız arttıkça frekans artar. B) Birim zamanda yayılan dalga sayısı arttıkça frekans artar. C) Hız arttıkça frekans azalır. D) Frekans arttıkça birim zamanda yayılan dalga sayısı değişmez. E) Birim zamanda yayılan dalga sayısı arttıkça frekans azalır.",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p60|q30",
+   "page": 60,
+   "n": 30,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    321.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "30. Merkez üssü kırsal bir bölgede olan bir deprem, bu noktaya eşit uzaklıkta bulunan X ve Y şehirlerini etkilemiştir. Deprem sonrası yapılan incelemelerde X şehrinde çok sayıda bina yıkılmış, can kaybı yaşanmışken, Y şehrinde ise sadece sarsıntı hissedilmiş, ciddi bir hasar olmamıştır. İki şehirdeki bu fark aşağıdakilerden hangisiyle en iyi açıklanır? A) Depremin büyüklüğü X şehrinde daha yüksektir. B) Y şehri daha uzak olduğu için daha az etkilenmiştir. C) X şehrinde yapıların depreme dayanıklılığı daha azdır. D) Y şehrinde farklı deprem dalgaları oluşmuştur. E) X şehri deniz seviyesinde old",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p60|q31",
+   "page": 60,
+   "n": 31,
+   "bbox": [
+    30.0,
+    427.0,
+    272.4,
+    610.2
+   ],
+   "num": [
+    36.0,
+    425.9,
+    50.4,
+    439.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "31. Aşağıdakilerden hangisi, deprem sırasında can kayıplarını azaltmaya yönelik alınabilecek etkili önlemlerden biri değildir? A) Binaların depreme dayanıklı olarak inşa edilmesi B) Deprem çantası hazırlayarak kolay ulaşılabilir bir yere koymak C) Okullarda ve iş yerlerinde deprem tatbikatlarının düzenlenmesi D) Deprem sırasında merdivenlerden hızlıca aşağı inmek E) Eşyaların sabitlenerek devrilme riskinin azaltılması",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p60|q32",
+   "page": 60,
+   "n": 32,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    229.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    302.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "32. Aşağıdakilerden hangisi, depremde can kayıplarını azaltmaya yönelik alınabilecek önlemler arasında yer alır? A) Binanın kolonlarını estetik görünüm için daraltmak B) Devrilebilecek eşyaları sabitlemek C) Asansörü deprem sırasında kullanmak D) Deprem anında cam kenarına yaklaşmak E) Sadece ahşap yapılarda yaşamak",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p61|q1",
+   "page": 61,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    313.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. Işığın doğasını anlamaya çalışan bilim insanları tarih boyunca farklı modeller geliştirmiştir. Buna göre I. Newton, ışığın doğrusal yolla yayıldığını gözlemleyerek tanecik modelini önermiştir. II. Huygens, ışığın gösterdiği bazı özelliklerin ışığın dalga karakteri ile açıklanabileceğini söylemiştir. III. Max Planck, ışığın foton adı verilen enerji paketleri şeklinde yayıldığı teorisini ortaya koymuştur. ifadelerinden hangileri ışığın farklı dönemlerde farklı modellerle açıklanmasının bilimsel gerekçeleri arasında yer alır? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I, II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p61|q2",
+   "page": 61,
+   "n": 2,
+   "bbox": [
+    30.0,
+    398.9,
+    272.4,
+    636.3
+   ],
+   "num": [
+    36.0,
+    397.7,
+    43.7,
+    411.5
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. Işık şiddeti I olan noktasal ışık kaynakları, yarıçapları sırasıyla r, 2r ve 3r olan K, L ve M yarım kürelerinin tam merkez noktalarına şekildeki gibi yerleştirilmiştir. I I I r 2r 3r K L M ışık akıları ɸ K , ɸ L , ɸ M arasındaki ilişki Buna göre cisimlerin iç yüzeylerine düşen aşağıdakilerden hangisinde doğru olarak A) ɸ K > ɸ L > ɸ M B) ɸ M > ɸ L > ɸ K verilmiştir? C) ɸ K = ɸ L = ɸ M D) ɸ K = ɸ M > ɸ L E) ɸ K > ɸ L = ɸ M",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p61|q3",
+   "page": 61,
+   "n": 3,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    446.9
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "3. Düşey düzlemdeki alanı A olan X levhasının önüne, levhanın orta noktasından d kadar uzağa ışık şiddeti I olan noktasal ışık kaynağı konuluyor. Levhanın diğer tarafına da levhanın orta noktasından d kadar uzakta 4A alanına sahip Y levhası düşey Φ X levhanın orta noktasındaki aydınlanma şiddeti düzlemde konuluyor. Bu durumda X levhasının akısı levhasının akısı Φ Y , levhanın orta noktasındaki ise E X ’ tir. X levhası ortamdan alındığında ise Y aydınlanma şiddeti ise E Y ’dir. I d d X Y Buna Φ X ve Φ Y ile E X ve E Y arasındaki ilişki nedir? A) ɸ X > ɸ Y B) ɸ X > ɸ Y E X = E Y C) ɸ X = ɸ Y D) ",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p61|q4",
+   "page": 61,
+   "n": 4,
+   "bbox": [
+    281.7,
+    489.3,
+    532.8,
+    722.8
+   ],
+   "num": [
+    287.7,
+    488.0,
+    296.2,
+    501.8
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "4. Karanlık bir ortamda saydam olmayan cisim, noktasal olmayan bir ışık kaynağının önüne konulup beyaz bir perde üzerine düşen gölge deseni incelendiğinde perde üzerinde tam gölge, yarı gölge ve aydınlık bölge oluşabilir. Buna göre I. Tam gölge, ışık kaynağından hiç ışık alamayan bölgedir. II. Yarı gölge, ışık kaynağının sadece bir kısmından ışık alabilen bölgedir. III. Aydınlık bölge, cismin gölge oluşturmadığı ve kaynağın tamamından ışık alan bölgedir. yargılarından hangileri doğrudur? A) Yalnız I B) I ve II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p62|q5",
+   "page": 62,
+   "n": 5,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    497.5
+   ],
+   "num": [
+    36.0,
+    79.0,
+    44.5,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "5. Karanlık bir ortamda noktasal I ışık kaynağı ile yeterince uzun bir perde arasına küresel X ve küp şeklindeki Y opak cisimleri şekilde verilen konumlarında yerleştiriliyor. Perde I K L X Buna göre perde üzerinde oluşacak gölge şekli aşağıdakilerden hangisinde doğru olarak verilmiştir? (T.G: Tam gölge, Y.G: Yarı gölge) A) B) Y.G T.G T.G Y.G C) D) Y.G Y.G T.G Y.G T.G E) Y.G T.G Y.G",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p62|q6",
+   "page": 62,
+   "n": 6,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    308.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "6. Eşit kare bölmeli düzlemde noktasal Y ve S ışık kaynakları ile saydam olmayan cisimler bir perde önüne şekilde verilen konumlarında yerleştiriliyor. K Y L M S N P R Buna göre perde üzerindeki hangi noktalar arası ışık kaynaklarının hiç birinden ışık almaz? A) KL ve LM B) LM ve MN C) KL ve MN D) KL ve PR E) KL, LM ve MN",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p62|q7",
+   "page": 62,
+   "n": 7,
+   "bbox": [
+    281.7,
+    352.8,
+    532.8,
+    699.4
+   ],
+   "num": [
+    287.7,
+    351.7,
+    295.4,
+    365.4
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "7. Güneş ve Dünya’ya göre anlık konumları Şekil I’de verilen Y, S ve N noktalarında uzay istasyonları bulunmaktadır. S Y N Şekil I Şekil II Şekil III Şekil IV Buna göre istasyonlardan Güneş’e bakan gözlemcilerin gördüğü görüntüler ile ilgili I. Y noktasındaki gözlemci için Şekil II’deki gibi olur. II. S noktasındaki gözlemci için Şekil III’teki gibi olur. III. N noktasındaki gözlemci için Sekil IV’teki gibi olur. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p63|q8",
+   "page": 63,
+   "n": 8,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    277.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "8. Eşit kare bölmelere ayrılmış şekildeki düzlemde noktasal bir cismin düzlem aynalarda oluşan görüntülerinden biri K noktasındadır. S R K N T U Buna göre aynı cismin S, R, N, T, U noktalarından hangisinde görüntüsü oluşmuştur? A) S B) R C) N D) T E) U",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p63|q9",
+   "page": 63,
+   "n": 9,
+   "bbox": [
+    30.0,
+    383.2,
+    272.4,
+    623.9
+   ],
+   "num": [
+    36.0,
+    382.1,
+    43.7,
+    395.9
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "9. Eşit kare bölmelere ayrılmış düzleme S, R, K, N noktasal cisimleri ve düzlem aynalar şekildeki gibi yerleştirilmiştir. G K N S R Buna göre G noktasında bulunan bir gözlemci S, R, K, N noktalarından hangilerinin ilk görüntüsünü her iki düzlem aynada da görebilir? A) S ve R B) K ve N C) K ve R D) S, R ve K E) K, N ve R",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p63|q10",
+   "page": 63,
+   "n": 10,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    332.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "10. Eşit kare bölmelere ayrılmış düzleme X noktasal ışık kaynağı ve düzlem aynalar şekildeki gibi yerleştirilmiştir. K N X R S Buna göre X noktasal ışık kaynağından çıkarak düzlem aynalarda iki kez yansıyan bir ışın S, R, K, N ile verilenlerden hangileri olabilir? A) S ve R B) K ve N C) K, R ve N D) K, S ve N E) S, R ve N",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p63|q11",
+   "page": 63,
+   "n": 11,
+   "bbox": [
+    281.7,
+    376.8,
+    532.8,
+    722.8
+   ],
+   "num": [
+    287.7,
+    375.7,
+    300.0,
+    389.4
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "11. Eşit kare bölmelere ayrılmış düzleme S noktasal cismi ve düzlem ayna şekildeki gibi yerleştirilmiştir. G +y − x +x − y S 1 br Buna göre G noktasında bulunan bir gözlemcinin hem kendisini hem de S noktasal cisminin aynadaki görüntüsünü görebilmesi için A) Gözlemciyi − x yönünde 1 br, aynayı − y aşağıdaki işlemlerden hangisi yapılabilir? B) Gözlemciyi − x yönünde 1 br, aynayı +y yönünde yönünde 1 br hareket ettirmek C) Gözlemciyi − y yönünde 1 br, aynayı +y yönünde 1 br hareket ettirmek D) Gözlemciyi − y yönünde 1 br, aynayı +x yönünde 1 br hareket ettirmek E) Gözlemciyi − y yönünde 1 br, ay",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p64|q12",
+   "page": 64,
+   "n": 12,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    325.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "12. Bir öğrenci fizik dersinde A4 kağıdı üzerine düzlem aynada ışınların yansıması ile ilgili bir çizim yapmış ve düzlem aynaya gönderilen I ışınının aynadan yansımış halini çizmiştir. Fakat eve geldiğinde kağıdın bir kısmının yırtıldığını fark etmiştir. 60 o I 80 o Öğrencinin çizimi hatalı olmadığına göre düzlem aynaya gönderilen I ışını için gelme açısı kaç derecedir? A) 15 B) 20 C) 25 D) 30 E) 35",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p64|q13",
+   "page": 64,
+   "n": 13,
+   "bbox": [
+    30.0,
+    410.7,
+    272.4,
+    632.3
+   ],
+   "num": [
+    36.0,
+    409.6,
+    48.3,
+    423.4
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "13. Odak noktası F, merkez noktası M olan tümsek aynanın asal eksenine paralel olacak şekilde Y ışını, M noktasına doğru X ışını gönderiliyor. X R K S H N Asal eksen T F M Y Buna göre X ve Y ışınları aynada yansıdıktan sonra uzantıları hangi noktada kesişebilir? A) S B) R C) K D) N E) H",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p64|q14",
+   "page": 64,
+   "n": 14,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    301.6
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "14. Asal eksenleri çakışık olan şekildeki X ve Y çukur aynalarının odak uzunlukları sırasıyla f X ve f Y ’dir. Asal eksene paralel olacak şekilde X aynasına gönderilen S ışını Y aynasında kendi üzerinden geçecek şekilde yansımaktadır. S Asal eksen X Y f Noktalar arası uzaklıklar eşit olduğuna göre X f oranı kaçtır? Y A) 1 B) 2 C) 3 D) 4 E) 6",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p64|q15",
+   "page": 64,
+   "n": 15,
+   "bbox": [
+    281.7,
+    407.3,
+    532.8,
+    649.7
+   ],
+   "num": [
+    287.7,
+    406.1,
+    300.0,
+    419.9
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "15. Asal eksenleri çakışık olan şekildeki X çukur ve Y tümsek aynalarının odak uzunlukları sırasıyla f X ve f Y ’dir. X aynasına şekildeki gibi gönderilen S ışını sürekli aynalarda kendi üzerinden geri yansımaktadır. S Asal eksen X Y Buna göre aynaların tepe noktaları arası uzaklığın f X ve f Y cinsinden değeri aşağıdakilerden hangisinde doğru olarak verilmiştir? A) 2f X + f Y D) 2f X − 2f Y B) f X + 2f Y E) 2f Y − 2f X C) 2f X + 2f Y",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p65|q16",
+   "page": 65,
+   "n": 16,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    296.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "16. Bir tümsek aynaya şekildeki gibi S ışını gönderiliyor. S 1 2 3 Asal eksen a a Buna göre S ışını aynadan yansıdıktan sonra 1, 2, 3 ile verilen yollardan hangilerini izleyemez? A) Yalnız 1 B) Yalnız 2 C) Yalnız 3 D) 1 ve 2 E) 2 ve 3",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p65|q17",
+   "page": 65,
+   "n": 17,
+   "bbox": [
+    30.0,
+    402.4,
+    272.4,
+    623.9
+   ],
+   "num": [
+    36.0,
+    401.2,
+    48.3,
+    414.9
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "17. Eşit kare bölmelere ayrılmış düzleme X çukur ve Y düzlem aynaları yerleştirilip X aynasının asal eksenine paralel olacak şekilde S ışını gönderiliyor. T R K N P Asal eksen S Y X Çukur aynanın odak noktası K olduğuna göre S ışını çukur aynadan ikinci kez yansıdıktan sonra hangi noktaya doğru yönelir? A) R B) K C) K ve N arası D) N E) P",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p65|q18",
+   "page": 65,
+   "n": 18,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    241.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "18. Bir cisim çukur aynanın önüne konulduktan sonra görüntüsü elde ediliyor. Bu görüntünün özellikleri ile ilgili I. ters ve cisimden küçük, II. sanal ve cisimden küçük, III. düz ve gerçek ifadelerinden hangileri söylenemez? A) Yalnız I B) Yalnız II C) Yalnız III D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p65|q19",
+   "page": 65,
+   "n": 19,
+   "bbox": [
+    281.7,
+    306.3,
+    532.8,
+    663.9
+   ],
+   "num": [
+    287.7,
+    305.2,
+    300.0,
+    318.9
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "19. Odak uzaklıkları f 1 , f 2 ve f 3 olan çukur aynalara gönderilen S, P ve R ışınları şekillerdeki yolları izliyor. Çukur ayna Çukur ayna S P Asal Asal eksen eksen d d f 1 f 2 Çukur ayna Asal eksen R d f 3 Buna göre aynaların odak uzaklıkları arasındaki ilişki nedir? A) f 3 > f 2 > f 1 B) f 2 > f 1 > f 3 C) f 1 > f 3 > f 2 D) f 1 > f 2 > f 3 E) f 2 > f 3 > f 1",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p66|q20",
+   "page": 66,
+   "n": 20,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    277.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.5,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "20. N noktasından geçerek düzlem aynaya gönderilen bir ışın, çukur aynada yansıdıktan sonra kendi üzerinden geri dönüyor. d d d d d N Düz ayna Çukur ayna Çukur aynanın odak uzaklığı kaç d’dir? A) 1 B) 2 C) 3 D) 4 E) 6",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p66|q21",
+   "page": 66,
+   "n": 21,
+   "bbox": [
+    30.0,
+    321.7,
+    272.4,
+    450.8
+   ],
+   "num": [
+    36.0,
+    320.6,
+    50.8,
+    334.3
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "21. Çukur aynada aynanın odak uzaklığı I. aynanın eğrilik yarıçapı, II. ışığın rengi, III. içinde bulunduğu ortamın kırıcılık indisi niceliklerinden hangilerine bağlıdır? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p66|q22",
+   "page": 66,
+   "n": 22,
+   "bbox": [
+    30.0,
+    495.0,
+    272.4,
+    723.5
+   ],
+   "num": [
+    36.0,
+    493.8,
+    49.5,
+    507.5
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "22. Noktasal kırmızı ve yeşil ışık kaynakları ile AB saydam olmayan levha şekildeki gibi KP beyaz perdesinin önüne yerleştirilmiştir. K L A M Kırmızı N B P Yeşil Beyaz perde Buna göre perde üzerindeki hangi bölge sarı renkte görünür? (Çizim ölçeklidir.) A) Yalnız KL B) Yalnız LM C) Yalnız MN D) Yalnız NP E) KL ve NP",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p66|q23",
+   "page": 66,
+   "n": 23,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    394.3
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "23. Eşit karelere bölünmüş düzlemde gözlemci şekildeki gibi düzlem aynaya bakmaktadır. X A B Gözlemci X cisminin görüntüsünü görebilmesi için düzlem aynada I. A ucu sabit kalacak şekilde saat yönünün tersine döndürülmesi, II. B ucu sabit kalacak şekilde saat yönünde döndürülmesi, III. doğrultusu değiştirilmeden aynanın gözlemciden uzaklaştırılması işlemlerinden hangileri tek başına yapılabilir? A) Yalnız I B) Yalnız II C) I ya da II D) II ya da III E) I ya da II ya da III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p67|q24",
+   "page": 67,
+   "n": 24,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    394.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.5,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "24. Hava ortamında bulunan camdan yapılmış ince kenarlı merceğe L noktasına asal eksene dik olacak şekilde konulan ışıklı cismin görüntüsü P noktasında cismin boyuyla eşit boyda ters ve gerçek olarak oluşmaktadır. Asal eksen K L M O N P R Noktalar arası uzaklıklar eşit olduğuna göre I. Işıklı cisim için merceğin odaklarından biri M noktasıdır. II. Cisim O-M arasına konulursa oluşan görüntü sanal olur. III. Cisim K noktasına konulursa oluşan görüntünün boyu cismin boyundan büyük olur. yargılarından hangileri doğrudur? A) Yalnız II B) I ve II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p67|q25",
+   "page": 67,
+   "n": 25,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    406.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.2,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "25. Hava ortamında bulunan camdan yapılmış kalın kenarlı bir merceğe asal eksenine dik olacak şekilde yerleştirilen ışıklı bir cisim sırasıyla K, L ve M noktalarına konuluyor. Işıklı cisim için merceğin odak uzaklığı 1 birim olup tüm noktalar arası uzaklıklar eşit ve 1 birimdir. Asal eksen K L M O Buna göre cisim I. K noktasına konulduğunda oluşan görüntüsü gerçektir. II. L noktasına konulduğunda oluşan görüntüsü de L noktasındadır. III. M noktasına konulduğunda sanal bir görüntüsü oluşur. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve III D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p67|q26",
+   "page": 67,
+   "n": 26,
+   "bbox": [
+    281.7,
+    450.4,
+    532.8,
+    711.8
+   ],
+   "num": [
+    287.7,
+    449.2,
+    301.2,
+    462.9
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": " (ek)",
+   "osym": "",
+   "text": "26. Kırıcılık indisleri n K , n L , n M olan şekildeki saydam ortamlarda bulunan K, M gözlemcileri L noktasındaki tek renkli cisme bakmaktadır. n K n L n M K L M K, L’yi olduğundan daha yakında M ise daha uzakta gördüğüne göre ortamların kırıcılık indislerinin büyüklük sıralaması hangi seçenekte doğru verilmiştir? A) n L > n K > n M B) n M > n L > n K C) n K > n M > n L D) n L > n M > n K E) n K > n L > n M",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p68|q27",
+   "page": 68,
+   "n": 27,
+   "bbox": [
+    30.0,
+    81.5,
+    272.4,
+    395.6
+   ],
+   "num": [
+    36.0,
+    80.3,
+    49.5,
+    94.1
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "27. K saydam ortamından α gelme açısı ile gelen doğrultusundan γ açısı kadar saparak şekilde yeşil renkli I ışını, L saydam ortamına, geliş gösterildiği gibi giriyor. K α γ L Buna göre I. α açısını küçültmek, II. L ortamını kırıcılık indisi daha büyük olan ortamla değiştirmek, III. aynı gelme açısı ile kırmızı renkte ışın işlemlerinden hangilerinin tek başına yapılması γ göndermek sapma açısının küçülmesine neden olur? A) Yalnız I B) Yalnız II C) I ya da II D) I ya da III E) II ya da III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p68|q28",
+   "page": 68,
+   "n": 28,
+   "bbox": [
+    30.0,
+    460.2,
+    272.4,
+    664.8
+   ],
+   "num": [
+    36.0,
+    459.0,
+    49.5,
+    472.8
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "28. Beyaz bir kartona kırmızı boya ile M harfi, sarı boya ile E harfi, mavi boya ile B harfi ve yeşil boya ile İ harfi şekildeki gibi yazılıyor. Buna göre karton karanlık bir ortamda yeşil ışıkla aydınlatılırsa hangi harfler okunabilir? A) M ve B B) B ve İ C) E ve İ D) E, B ve İ E) M, E ve B",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p68|q29",
+   "page": 68,
+   "n": 29,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    330.0
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.2,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "29. Hava ortamında bulunan camdan yapılmış prizmaya gelen beyaz ışık prizmadan geçerken renklerine ayrılır. Bu ışık spektrumu içinde bazı ışık ışınları şekilde verilmiştir. I II III Beyaz ışık Buna göre I, II ve III ile verilen üç ışık ışınının rengi aşağıda verilenlerden hangisi olabilir? I II III A) Kırmızı Mavi Yeşil B) Kırmızı Yeşil Mavi C) Yeşil Mavi Kırmızı D) Yeşil Sarı Mavi E) Mavi Yeşil Kırmızı",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p68|q30",
+   "page": 68,
+   "n": 30,
+   "bbox": [
+    281.7,
+    435.5,
+    532.8,
+    645.0
+   ],
+   "num": [
+    287.7,
+    434.3,
+    301.2,
+    448.1
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "30. Kırıcılık indisi havanın kırıcılık indisinden büyük olan prizmaya tek renkli I ışık ışını şekildeki gibi gönderiliyor. 50 ̊ 5 I 4 3 Normal 2 1 Prizma Prizma ile hava ortamı arasındaki sınır açısı 44° olduğuna göre I ışık ışınının izlediği yol şekilde verilenlerden hangisidir? A) 1 B) 2 C) 3 D) 4 E) 5",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p69|q31",
+   "page": 69,
+   "n": 31,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    382.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.5,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "31. Aralarında paralel yüzlü Z saydam ortamı olacak şekilde X ve Y prizmaları şekildeki gibi yerleştirilmiştir. Y Prizması Z I X Prizması X prizmasına gönderilen I ışık ışınının izlediği yol şekilde verildiğine göre I. X prizmasının kırıcılık indisi Y prizmasının kırıcılık indisinden büyüktür. II. Z ortamının kırıcılık indisi X prizmasının kırıcılık indisinden küçüktür. III. Y prizmasının kırıcılık indisi Z ortamının kırıcılık indisinden küçüktür. yargılarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p69|q32",
+   "page": 69,
+   "n": 32,
+   "bbox": [
+    30.0,
+    446.9,
+    272.4,
+    665.4
+   ],
+   "num": [
+    36.0,
+    445.7,
+    49.5,
+    459.5
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "32. Hava ortamında bulunan, camdan yapılmış özdeş K, L ve M tam yansımalı prizmalara gönderilen I 1 , I 2 ve I 3 ışık ışınlarının izlediği yollar şekildeki gibi çizilmiştir. Ɵ M Ɵ I 1 K L I 3 I 2 Buna göre I 1 , I 2 ve I 3 ışık ışınlarından hangilerinin izlediği yol doğru çizilmiş olabilir? (Düşey kesiti verilen düzlem eşit kare bölmelerden oluşmaktadır.) A) Yalnız I 1 B) Yalnız I 2 C) Yalnız I 3 D) I 2 ve I 3 E) I 1 , I 2 ve I 3",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p69|q33",
+   "page": 69,
+   "n": 33,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    368.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.2,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "33. Hava ortamında bulunan camdan yapılmış merceklere gönderilen ışık ışınlarının izlediği yollar Şekil I, Şekil II ve Şekil III gibi verilmiştir. Asal Asal eksen eksen O O Şekil II Şekil I Asal eksen O Şekil III Buna göre şekillerdeki ışınlardan hangilerinin izlediği yollar doğru olarak gösterilmiştir? (Camın kırıcılık indisi havanınkinden büyüktür.) A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_fizik_tarama|p69|q34",
+   "page": 69,
+   "n": 34,
+   "bbox": [
+    281.7,
+    412.9,
+    532.8,
+    703.0
+   ],
+   "num": [
+    287.7,
+    411.7,
+    301.2,
+    425.4
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "34. Hava ortamından kırıcılık indisi n K olan K saydam ortamında bulunan yeşil renkli cisme bakan gözlemci cismi kendisinden h kadar uzakta görüyor. Gözlemci K n K Buna göre I. cismin renginin kırmızı yapılması, II. cismin renginin mavi yapılması, III. n K değerinin büyütülmesi işlemlerinden hangisinin tek başına yapılması h uzunluğunun artmasına neden olur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ya da III E) II ya da III",
+   "answer": "A",
+   "solved": false
+  }
+ ],
+ "answers_filled": true
+}

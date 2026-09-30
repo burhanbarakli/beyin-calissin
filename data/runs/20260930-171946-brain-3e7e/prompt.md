@@ -1,0 +1,1 @@
+brain/BRAIN.md dosyasındaki talimatları uygula. Görev dosyası: data/runs/20260930-171946-brain-3e7e/task.json. RUN_DIR = data/runs/20260930-171946-brain-3e7e. Sonucu data/runs/20260930-171946-brain-3e7e/candidates.json dosyasına yaz. Türkçe çalış.

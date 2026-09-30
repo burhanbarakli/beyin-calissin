@@ -1,0 +1,30 @@
+{
+  "id": "20260930-175103-brain-857e",
+  "kind": "brain",
+  "title": "Beyin: BSBD1",
+  "params": {
+    "exam_ids": [
+      "Branş/Mat/BSBD1"
+    ],
+    "image_paths": [],
+    "subjects": [
+      "mat"
+    ],
+    "counts": {
+      "hatirlatici": 3,
+      "pekistirme": 4,
+      "zorlayici": 2
+    },
+    "max_topics": 4,
+    "note": "",
+    "allow_repeat": false
+  },
+  "status": "done",
+  "created": "2026-09-30T17:51:03",
+  "run_dir": "C:\\Users\\burha\\OneDrive\\Belgeler\\WORKS\\irfan hoca\\data\\runs\\20260930-175103-brain-857e",
+  "pid": 25832,
+  "result_text": "Aday listesi hazır: `data/runs/20260930-175103-brain-857e/candidates.json`.\n\nAlper BSBD1 denemesinde 8 soruyu hiç yapamamış. Hata işlemde değil; çok adımlı sorularda hangi kavramın gerektiğini göremiyor. En çok eksik üçgende benzerlikte çıktı: 33 ve 34 numaralı iki soru da kâğıt kesme veya katlamayla oluşan benzer üçgenleri ve alan oranını (benzerlik oranının karesi) istiyordu. Seçilen diğer üç konu şunlar:\n- **Bölünebilme:** 9, 11 ve 15'e göre kalandan rakam bulma.\n- **Eşitsizlik:** negatif sayıyla bölünce yönün değişmesi ve çözüm aralığından parametre bulma.\n- **Olasılık:** kombinasyonla seçim yapıp koşula uyan durumları sayma.\n\nHer konu için 13–14 aday var. Bunların 9'u varsayılan seçim olarak işaretli (3 hatırlatıcı, 4 pekiştirme, 2 zorlayıcı). Tüm sorular \"Yapamadı\" olduğu için her konu çözümlü örneklerle başlıyor. Zorlayıcı kısımda deneme sorularına çok yakın ÖSYM soruları da var; örneğin 2021 TYT'deki \"AAB ve ABA\" sorusu 14 numaralı soruyla aynı kalıpta.\n\nKonu sınırı 4 olduğu için Mantık (11), kare prizma (39) ve ikizkenar yamuk (36) bu sete girmedi. Teşhiste düşük öncelikli olarak kayıtlı; sonraki çalışmaya kaldı.\n\nDaha önce verilmiş sorular listeye alınmadı. Cevabı bankada eksik olan iki soruyu ben çözdüm: p84 q23 için D, p79 q10 için A. Şekilli ve şüpheli sorulardan 8'ini görsel olarak açıp kontrol ettim; diğer adayları yalnızca metin özetinden seçtim.",
+  "cost_usd": 1.9048358,
+  "duration_s": 205.841,
+  "finished": "2026-09-30T17:54:31"
+}

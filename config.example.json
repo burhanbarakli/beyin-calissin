@@ -1,0 +1,11 @@
+{
+  "student_name": "Öğrenci Adı",
+  "sources": [
+    "D:/Kaynaklar/MEB_TYT_Soru",
+    "D:/Kaynaklar/MEB_AYT_Soru"
+  ],
+  "exams_dir": "D:/Kaynaklar/Denemeler",
+  "port": 8765,
+  "claude_path": "",
+  "claude_model": ""
+}

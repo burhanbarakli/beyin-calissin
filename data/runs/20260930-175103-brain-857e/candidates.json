@@ -1,0 +1,115 @@
+{
+  "summary": "Alper BSBD1 branş denemesinde 8 soruyu hiç yapamamış (hepsi 'Yapamadı'); sorun işlem hatası değil, çok adımlı yeni nesil soruda doğru kavramı seçememe. En belirgin eksik geometride benzerlik (33 ve 34: kesme/katlama ile oluşan benzer üçgenler, alan oranı = benzerlik oranının karesi). Sayılarda 11/15/9 ile bölünebilme kurallarını kalan bulmak için birlikte kullanamıyor (14); negatif katsayılı eşitsizlik sisteminde yön değişimini ve çözüm kümesinin uç noktalarını parametrelerle ilişkilendiremiyor (13); olasılıkta koşullu seçimleri kombinasyonla sayamıyor (30). Mantık (11), kare prizma hacmi (39) ve ikizkenar yamuk (36) da eksik ama tek soruluk olduğu için bu sete alınmadı; sonraki çalışmaya bırakıldı. Hepsi Yapamadı olduğundan her konuda çözümlü örneklerle başlanıyor.",
+  "diagnosis": [
+    {"subject": "mat", "topic": "Üçgende Eşlik ve Benzerlik", "skill": "Kesme/katlama ile oluşan benzer üçgenleri görmek; [DE]//[BC] ⇒ benzerlik oranı k, alan oranı k²; katlamada eş üçgenler",
+     "evidence": ["BSBD1 Mat 33 Yapamadı (ikizkenar üçgen kesilip çakıştırılıyor, çakışan küçük üçgenin alanı 6 → oran)", "BSBD1 Mat 34 Yapamadı (üçgen cetvel üstünden katlanıyor, benzerlikle alan)"],
+     "priority": 1, "level_note": "Aynı konuda iki soru boş; kavramı modelleme sorusuna aktaramıyor. Çözümlü örnekle hatırlatıcı ağırlıklı başla, sonra katlama soruları."},
+    {"subject": "mat", "topic": "Bölme - Bölünebilme Kuralları", "skill": "Basamaklı sayıda 11, 15 (3 ve 5) ve 9 ile bölünebilme kurallarıyla kalandan rakam bulmak (AAB mod 11 ⇒ B, BBA mod 15 ⇒ A, sonra ABBA mod 9)",
+     "evidence": ["BSBD1 Mat 14 Yapamadı"], "priority": 2,
+     "level_note": "Kuralları tek tek biliyor olabilir ama kalanlı ve birleşik (15 = 3·5) kullanamıyor; çözümlü örnek + pekiştirme."},
+    {"subject": "mat", "topic": "Birinci Dereceden Denklem ve Eşitsizlikler", "skill": "Negatif katsayıya bölerken eşitsizlik yönünün değişmesi; eşitsizlik sisteminin çözüm aralığının uç noktalarını parametre oranlarına bağlamak (b/a = 2/3, c/b = 1/2)",
+     "evidence": ["BSBD1 Mat 13 Yapamadı"], "priority": 3,
+     "level_note": "İşaret/yön kavramı eksik; önce işaret incelemesi ve parametreli sistem çözümlü örnekleri."},
+    {"subject": "mat", "topic": "Olasılık", "skill": "Tekrarlı elemanlardan seçimde kombinasyonla sayma: istenen toplamı veren 4'lü seçimleri sistematik sayıp C(8,4)'e bölmek",
+     "evidence": ["BSBD1 Mat 30 Yapamadı"], "priority": 4,
+     "level_note": "Örnek uzayı kombinasyonla kurmakta zorlanıyor; torba/kart seçme soruları ile hatırlatıcı → pekiştirme."},
+    {"subject": "mat", "topic": "Mantık", "skill": "Açık önermelerde p ⇒ r ≡ 0 koşulu (p doğru, r yanlış) ile değer bulma",
+     "evidence": ["BSBD1 Mat 11 Yapamadı"], "priority": 5, "level_note": "Bu sete alınmadı (max 4 konu); sonraki çalışmada ele alınmalı."},
+    {"subject": "mat", "topic": "Katı Cisimler - Prizmalar", "skill": "Kare prizmada ayrıt toplamı ve hacimden bilinmeyen kenar bulma",
+     "evidence": ["BSBD1 Mat 39 Yapamadı"], "priority": 6, "level_note": "Sonraki çalışmaya bırakıldı."},
+    {"subject": "mat", "topic": "Yamuk, Paralelkenar", "skill": "Eş ikizkenar yamukların birleşiminden kenar ve açı bilgisi çıkarmak (60° açılı yamuk), alan",
+     "evidence": ["BSBD1 Mat 36 Yapamadı"], "priority": 7, "level_note": "Sonraki çalışmaya bırakıldı."}
+  ],
+  "groups": [
+    {
+      "title": "Üçgende benzerlik — kesme, katlama ve alan oranı",
+      "subject": "mat",
+      "why": "İki soru (33, 34) aynı beceriden kaçtı: kâğıt kesme/katlama ile oluşan paralel kenarlı benzer üçgenler ve alan oranı k².",
+      "source_images": [
+        "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1\\BSBD1_Mat_UcgenBenzerlik_Yapamadı_33_C.jpeg",
+        "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1\\BSBD1_Mat_UcgenBenzerlik_Yapamadı_34_B.jpeg"
+      ],
+      "items": [
+        {"qid": "tyt_mat_4_4|p180|q7", "role": "hatirlatici", "why": "Çözümlü: [DE]//[BC] temel orantısı", "recommended": true, "difficulty": 1, "difficulty_note": "tek orantı, çözümlü"},
+        {"qid": "tyt_mat_4_4|p190|q29", "role": "hatirlatici", "why": "Çözümlü katlama: A köşesi tabana düşünce orta taban, oran 1/2", "recommended": true, "difficulty": 2, "difficulty_note": "34. sorunun birebir temel hâli, çözümlü"},
+        {"qid": "tyt_mat_4_4|p252|q8", "role": "hatirlatici", "why": "Çözümlü: benzer üçgenlerde alan oranı = k²", "recommended": true, "difficulty": 2, "difficulty_note": "alan oranı kuralı, tek adım"},
+        {"qid": "tyt_mat_4_4|p185|q19", "role": "hatirlatici", "why": "Çözümlü katlama: köşe tabanın altına taşıyor (34'e çok benzer)", "recommended": false, "difficulty": 3, "difficulty_note": "iki benzerlik zinciri, çözümlü"},
+        {"qid": "tyt_mat_4_4|p255|q15", "role": "hatirlatici", "why": "Çözümlü: oran verilip alan hesabı", "recommended": false, "difficulty": 3, "difficulty_note": "alan parçalama + k²"},
+        {"qid": "tyt_mat_4_4|p186|q21", "role": "hatirlatici", "why": "Çözümlü katlama, ikizkenar oluşumu ve benzerlik", "recommended": false, "difficulty": 3, "difficulty_note": "katlama + paralellik görme"},
+        {"qid": "tyt_mat_4_4|p203|q3", "role": "pekistirme", "why": "Katlanan üçgenin tabanın altına taşması; 34'ün doğrudan pekiştirmesi", "recommended": true, "difficulty": 3, "difficulty_note": "iki oran birlikte"},
+        {"qid": "tyt_mat_4_4|p199|q2", "role": "pekistirme", "why": "İki paralellikle zincir benzerlik", "recommended": true, "difficulty": 3, "difficulty_note": "iki adım oran"},
+        {"qid": "tyt_mat_3Adm|p150|q6", "role": "pekistirme", "why": "Açı eşitliğinden benzer üçgen yakalama (A.A.)", "recommended": true, "difficulty": 3, "difficulty_note": "ortak açılı benzerlik"},
+        {"qid": "tyt_mat_4_4|p203|q2", "role": "pekistirme", "why": "Dik üçgen içinde kare; benzer üçgen oranı", "recommended": true, "difficulty": 3, "difficulty_note": "klasik model"},
+        {"qid": "tyt_mat_3Adm|p149|q4", "role": "pekistirme", "why": "Kenar oranlarından benzerlik (K.A.K.)", "recommended": false, "difficulty": 3, "difficulty_note": "benzerliği fark etmek gerekiyor"},
+        {"qid": "tyt_mat_3Adm|p151|q2", "role": "zorlayici", "why": "Katlama; köşe tabanın dışına çıkıyor, oranlardan uzunluk", "recommended": true, "difficulty": 4, "difficulty_note": "katlama + çok adımlı oran"},
+        {"qid": "tyt_mat_4_4|p206|q5", "role": "zorlayici", "why": "İki üçgen üst üste konuyor (33'teki çakıştırma mantığı)", "recommended": true, "difficulty": 4, "difficulty_note": "ters yerleşimli benzerlik"},
+        {"qid": "tyt_mat_3Adm|p151|q1", "role": "zorlayici", "why": "2018 TYT: gerçek hayat modelinde benzerlik", "recommended": false, "difficulty": 4, "difficulty_note": "ÖSYM, iki benzerlik"}
+      ]
+    },
+    {
+      "title": "Bölünebilme — 9, 11, 15 ile kalan ve rakam bulma",
+      "subject": "mat",
+      "why": "14. soruda 11 ve 15 ile kalandan A, B rakamlarını bulup 9 ile kalanı hesaplayamadı; kuralları kalanlı ve birleşik kullanmak gerekiyor.",
+      "source_images": ["D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1\\BSBD1_Mat_Bölme_Yapamadı_14_C.jpeg"],
+      "items": [
+        {"qid": "tyt_mat_4_4|p62|q5", "role": "hatirlatici", "why": "Çözümlü: 9 ile bölünme + 5 ile kalan birlikte", "recommended": true, "difficulty": 2, "difficulty_note": "iki kural, çözümlü"},
+        {"qid": "tyt_mat_4_4|p63|q9", "role": "hatirlatici", "why": "Çözümlü: 15 = 3·5 ile bölünebilme", "recommended": true, "difficulty": 2, "difficulty_note": "birleşik kural"},
+        {"qid": "tyt_mat_4_4|p64|q11", "role": "hatirlatici", "why": "Çözümlü: 5 ve 11 kuralı rakam bulmada", "recommended": true, "difficulty": 2, "difficulty_note": "11 kuralı, çözümlü"},
+        {"qid": "tyt_mat_3Adm|p27|q4", "role": "hatirlatici", "why": "9 ile bölümden kalan (rakamlar toplamı)", "recommended": false, "difficulty": 2, "difficulty_note": "tek kural"},
+        {"qid": "tyt_mat_3Adm|p27|q7", "role": "hatirlatici", "why": "11 ile bölünme + 5 ile kalan", "recommended": false, "difficulty": 2, "difficulty_note": "iki kural"},
+        {"qid": "tyt_mat_3Adm|p30|q7", "role": "pekistirme", "why": "45 ile kalan 11 → 5 ve 9 kalanlarına ayırma (14'teki 15 mantığı)", "recommended": true, "difficulty": 3, "difficulty_note": "birleşik bölen, kalanlı"},
+        {"qid": "tyt_mat_3Adm|p28|q10", "role": "pekistirme", "why": "9 ile kalan ve 15 ile kalan birlikte", "recommended": true, "difficulty": 3, "difficulty_note": "14. soruya en yakın yapı"},
+        {"qid": "tyt_mat_4_4|p71|q4", "role": "pekistirme", "why": "9 ile kalandan rakam bulma", "recommended": true, "difficulty": 3, "difficulty_note": "iki kalan koşulu"},
+        {"qid": "tyt_mat_3Adm|p28|q12", "role": "pekistirme", "why": "8 ile kalan, basamak değeri ile düşünme", "recommended": true, "difficulty": 3, "difficulty_note": "kalan aktarımı"},
+        {"qid": "tyt_mat_3Adm|p27|q8", "role": "pekistirme", "why": "12 ile bölünme (3 ve 4) ile rakam", "recommended": false, "difficulty": 3, "difficulty_note": "birleşik bölen"},
+        {"qid": "tyt_mat_4_4|p72|q10", "role": "pekistirme", "why": "EKOK + 9 ile kalan", "recommended": false, "difficulty": 3, "difficulty_note": "iki konu"},
+        {"qid": "tyt_mat_3Adm|p31|q2", "role": "zorlayici", "why": "2021 TYT: AAB ve ABA sayıları (14'le aynı kalıp)", "recommended": true, "difficulty": 4, "difficulty_note": "ÖSYM, çok koşullu"},
+        {"qid": "tyt_mat_4_4|p76|q5", "role": "zorlayici", "why": "Tekrarlı basamaklı sayının 45 ile kalanı", "recommended": true, "difficulty": 4, "difficulty_note": "örüntü + birleşik kural"},
+        {"qid": "tyt_mat_3Adm|p31|q5", "role": "zorlayici", "why": "Uzun sayının 15 ve 11 ile kalanı", "recommended": false, "difficulty": 4, "difficulty_note": "öncüllü, çok kural"}
+      ]
+    },
+    {
+      "title": "Eşitsizlik — negatif katsayı, yön değişimi ve sistemler",
+      "subject": "mat",
+      "why": "13. soruda a, b, c negatifken ax−b>0 ve bx−c<0 çözümlerinde yön değişimini ve (1/2, 2/3) aralığını parametrelere bağlayamadı.",
+      "source_images": ["D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1\\BSBD1_Mat_Eşitsizlik_Yapamadı_13_A.jpeg"],
+      "items": [
+        {"qid": "tyt_mat_4_4|p84|q23", "role": "hatirlatici", "why": "Çözümlü: parametreli eşitsizlik sistemi, çözüm aralığından a bulma", "recommended": true, "difficulty": 2, "difficulty_note": "sistemin iki tarafını ayrı çözme, çözümlü", "answer": "D", "answer_source": "claude"},
+        {"qid": "tyt_mat_4_4|p79|q10", "role": "hatirlatici", "why": "Çözümlü: a<a³<a² ⇒ −1<a<0, negatif sayı davranışı", "recommended": true, "difficulty": 2, "difficulty_note": "işaret yorumu, çözümlü", "answer": "A", "answer_source": "claude"},
+        {"qid": "tyt_mat_3Adm|p45|q2", "role": "hatirlatici", "why": "a<b<0<c ile işaret/yön kontrolü", "recommended": true, "difficulty": 2, "difficulty_note": "negatiflerle sıralama"},
+        {"qid": "tyt_mat_3Adm|p45|q3", "role": "hatirlatici", "why": "a>a²>a³ ⇒ 0<a<1, aralık dönüştürme", "recommended": false, "difficulty": 2, "difficulty_note": "tek adım aralık"},
+        {"qid": "tyt_mat_4_4|p98|q9", "role": "pekistirme", "why": "Eşitsizlik sistemi çözümü, iki tarafı ayrı çözme", "recommended": true, "difficulty": 3, "difficulty_note": "sistem"},
+        {"qid": "tyt_mat_4_4|p98|q10", "role": "pekistirme", "why": "Negatif sayılarda çarpım oranlarından sıralama", "recommended": true, "difficulty": 3, "difficulty_note": "negatiflerde oran"},
+        {"qid": "tyt_mat_3Adm|p41|q4", "role": "pekistirme", "why": "Çarpım eşitsizliklerinde işaret incelemesi", "recommended": true, "difficulty": 3, "difficulty_note": "üç koşul, işaret"},
+        {"qid": "tyt_mat_3Adm|p47|q7", "role": "pekistirme", "why": "Negatif/pozitif aralıklarla ifade işareti", "recommended": true, "difficulty": 3, "difficulty_note": "öncüllü"},
+        {"qid": "tyt_mat_3Adm|p47|q3", "role": "pekistirme", "why": "Eşitsizlikten en büyük tam sayı değeri", "recommended": false, "difficulty": 3, "difficulty_note": "sınır değer düşünme"},
+        {"qid": "tyt_mat_3Adm|p39|q3", "role": "pekistirme", "why": "Tam sayı koşullu eşitsizlik sistemi", "recommended": false, "difficulty": 3, "difficulty_note": "koşul birleştirme"},
+        {"qid": "tyt_mat_3Adm|p49|q3", "role": "zorlayici", "why": "2021 TYT: eşitsizlik sisteminin çözüm bölgesinden katsayı işaretleri", "recommended": true, "difficulty": 4, "difficulty_note": "ÖSYM, grafik yorumu"},
+        {"qid": "tyt_mat_4_4|p104|q8", "role": "zorlayici", "why": "Verilen bölgeyi veren eşitsizlik sistemini bulma", "recommended": true, "difficulty": 4, "difficulty_note": "ters yönlü düşünme"},
+        {"qid": "tyt_mat_3Adm|p50|q5", "role": "zorlayici", "why": "Tanımlı işlemle kurulan eşitsizliğin çözüm kümesi", "recommended": false, "difficulty": 4, "difficulty_note": "işlem + eşitsizlik"}
+      ]
+    },
+    {
+      "title": "Olasılık — kombinasyonla seçim ve koşullu sayma",
+      "subject": "mat",
+      "why": "30. soruda tekrarlı sayılı 8 karttan 4'lü seçimde toplamı 15 olan durumları sayıp C(8,4)'e oranlayamadı.",
+      "source_images": ["D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD1\\BSBD1_Mat_Olasılık_Yapamadı_30_C.jpeg"],
+      "items": [
+        {"qid": "tyt_mat_4_4|p326|q8", "role": "hatirlatici", "why": "Çözümlü: kombinasyonla örnek uzay kurma", "recommended": true, "difficulty": 2, "difficulty_note": "çözümlü, tek seçim"},
+        {"qid": "tyt_mat_3Adm|p117|q2", "role": "hatirlatici", "why": "5 formadan 2 seçimde koşullu durumları sayma", "recommended": true, "difficulty": 2, "difficulty_note": "C(5,2) ile basit sayma"},
+        {"qid": "tyt_mat_3Adm|p118|q17", "role": "hatirlatici", "why": "Torbadan 3 top: C(5,2)·C(3,1)/C(12,3)", "recommended": true, "difficulty": 2, "difficulty_note": "kombinasyon çarpımı"},
+        {"qid": "tyt_mat_3Adm|p118|q13", "role": "hatirlatici", "why": "Alt küme seçiminde belirli elemanın bulunması", "recommended": false, "difficulty": 2, "difficulty_note": "tek adım"},
+        {"qid": "tyt_mat_3Adm|p117|q4", "role": "hatirlatici", "why": "Tekrarlı renklerde seçim", "recommended": false, "difficulty": 2, "difficulty_note": "tümleyen düşünme"},
+        {"qid": "tyt_mat_4_4|p335|q2", "role": "pekistirme", "why": "Kartlardan iki kart seçip sayısal koşulu sağlayanları sayma (30'a yakın)", "recommended": true, "difficulty": 3, "difficulty_note": "durum sayma"},
+        {"qid": "tyt_mat_4_4|p333|q6", "role": "pekistirme", "why": "Torbadan 3 bilye, karışık renk koşulu", "recommended": true, "difficulty": 3, "difficulty_note": "kombinasyon çarpımı"},
+        {"qid": "tyt_mat_4_4|p334|q9", "role": "pekistirme", "why": "İki zarın toplamının asal olması: toplamı koşullu durum sayma", "recommended": true, "difficulty": 3, "difficulty_note": "sistematik liste"},
+        {"qid": "tyt_mat_3Adm|p119|q1", "role": "pekistirme", "why": "İki torbadan seçimde toplam/çarpım koşulu", "recommended": true, "difficulty": 3, "difficulty_note": "durum listeleme"},
+        {"qid": "tyt_mat_4_4|p336|q10", "role": "pekistirme", "why": "Eşitsizliği sağlayan sayılardan iki seçim, toplam 0 koşulu", "recommended": false, "difficulty": 3, "difficulty_note": "iki konu birleşik"},
+        {"qid": "tyt_mat_3Adm|p118|q15", "role": "pekistirme", "why": "'En az' koşullu seçim", "recommended": false, "difficulty": 3, "difficulty_note": "durumlara ayırma"},
+        {"qid": "tyt_mat_3Adm|p121|q2", "role": "zorlayici", "why": "2019 TYT: kartlardan iki seçimde toplam koşulu, 30'un ÖSYM karşılığı", "recommended": true, "difficulty": 4, "difficulty_note": "ÖSYM, ters kurgulu"},
+        {"qid": "tyt_mat_4_4|p338|q5", "role": "zorlayici", "why": "Kümeden iki eleman seçip çarpım/toplam koşullarını sayma", "recommended": true, "difficulty": 4, "difficulty_note": "öncüllü, çok durum"},
+        {"qid": "tyt_mat_3Adm|p121|q3", "role": "zorlayici", "why": "2020 TYT: şifre tuşlarından kısıtlı seçim", "recommended": false, "difficulty": 4, "difficulty_note": "ÖSYM, kısıtlı sayma"}
+      ]
+    }
+  ]
+}

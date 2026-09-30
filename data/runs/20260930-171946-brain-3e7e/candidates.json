@@ -1,0 +1,120 @@
+{
+  "summary": "Alper, D01 (TYT, 2 Eylül) denemesinde matematikte 11 soru kaçırdı; bunların 10'u Boş/Yapamadı, yani çoğunlukla soruya başlayamamış. En belirgin eksik fonksiyonlarda: f⁻¹(a)=b ⇒ f(b)=a dönüşümünü ve grafikten değer okuyup bileşke uygulamayı bilmiyor (10 ve 11 numaralı soruların ikisini de yapamadı). İkinci eksik, rakamlarla sayı yazma ve sıralama (sayma) soruları; 'Sayı' etiketli 5 ve 29 numaralı sorular aslında permütasyon sorusu. Uzun sözel problemlerde de modeli kuramıyor: 19 ve 28'de oran-orantı, 26'da üç kümeli Venn şeması. Bu yüzden set hatırlatıcı ve çözümlü örnek ağırlıklı kuruldu. Olasılık (30), mutlak değer ve basamak (12), akıl yürütme (27) ve geometri (36) ikinci sırada kaldı.",
+  "diagnosis": [
+    {"subject": "mat", "topic": "Fonksiyonlar", "skill": "Ters fonksiyon (f⁻¹(a)=b ⇒ f(b)=a), doğrusal fonksiyon f(x)=ax+b kurma; grafikten değer/değer kümesi okuyup ardışık bileşke (fofof...)(x) hesaplama",
+     "evidence": ["D01 Mat 10 Yapamadı", "D01 Mat 11 Yapamadı"], "priority": 1,
+     "level_note": "Temel kavram eksik (iki soruya da başlayamamış), hatırlatıcı ve çözümlü örnek ağırlıklı"},
+    {"subject": "mat", "topic": "Sayma (Permütasyon)", "skill": "Verilen rakamlarla koşullu sayı yazma (rakamları farklı / tam iki basamağı aynı), rakamlarla yazılan sayıları sıralayıp baştan/sondan k. sayıyı bulma",
+     "evidence": ["D01 Mat 5 Yapamadı", "D01 Mat 29 Boş"], "priority": 2,
+     "level_note": "Çarpma kuralını koşullu durumlara uygulayamıyor; hatırlatıcı + pekiştirme"},
+    {"subject": "mat", "topic": "Oran ve Orantı Problemleri", "skill": "Sözel metinden orantı/ilişki kurma (doğru orantılı paylaştırma, 'her 3'ten biri', 'her 6 kutu bir koli' gibi gruplama oranları)",
+     "evidence": ["D01 Mat 19 Yapamadı", "D01 Mat 28 Boş"], "priority": 3,
+     "level_note": "Modelleme eksik; kısa orantı hatırlatıcıdan yeni nesil probleme geçiş"},
+    {"subject": "mat", "topic": "Kümeler (Venn problemleri)", "skill": "Üç kümeli Venn şeması: bölgelere değişken yazma, 'yalnız iki / üçü birden' sayımı (s(A)+s(B)+s(C) = 2·(yalnız iki) + 3·(üçü))",
+     "evidence": ["D01 Mat 26 Boş"], "priority": 4,
+     "level_note": "Soruyu boş bırakmış; Venn bölgeleme yöntemi hatırlatılmalı"},
+    {"subject": "mat", "topic": "Olasılık", "skill": "Gruplara göre koşullu dağılım üzerinden olasılık (oranlardan eleman sayısı bulma)",
+     "evidence": ["D01 Mat 30 Boş"], "priority": 5,
+     "level_note": "max_topics sınırı nedeniyle bu sete alınmadı; sonraki çalışmada ele alınabilir"},
+    {"subject": "mat", "topic": "Mutlak Değer / Basamak", "skill": "|x − ab| = ba denkleminin iki kökü: ab − ba ve ab + ba; basamak çözümlemesi",
+     "evidence": ["D01 Mat 12 Yanlış"], "priority": 6,
+     "level_note": "Yanlış yapmış (işlem/dikkat); tek soru, sonraki sete bırakıldı"}
+  ],
+  "groups": [
+    {
+      "title": "Fonksiyonlar: ters fonksiyon, doğrusal fonksiyon, grafikten bileşke",
+      "subject": "mat",
+      "why": "10 ve 11 numaralı soruların ikisi de 'Yapamadı'. Önce f⁻¹ tanımı ve doğrusal fonksiyon kurma, ardından grafikten değer okuyup bileşke uygulama çalışılmalı.",
+      "source_images": [
+        "D:/Alper_irfanhoca/Denemeler/D01_3D_2Eylül/D01_Mat_Fonksiyon_Yapamadı_10_E.jpeg",
+        "D:/Alper_irfanhoca/Denemeler/D01_3D_2Eylül/D01_Mat_Fonksiyon_Yapamadı_11_D.jpeg"
+      ],
+      "items": [
+        {"qid": "tyt_mat_4_4|p361|q11", "role": "hatirlatici", "why": "Çözümlü örnek: f⁻¹(3)=2 ⇒ f(2)=3, 10. sorudaki adımın aynısı", "recommended": true},
+        {"qid": "tyt_mat_4_4|p360|q8", "role": "hatirlatici", "why": "Çözümlü örnek: doğrusal fonksiyonun tersini bulma", "recommended": false},
+        {"qid": "tyt_mat_4_4|p372|q11", "role": "hatirlatici", "why": "Doğrusal f için iki f⁻¹ değerinden f'yi kurma; 10. sorunun birebir benzeri", "recommended": true},
+        {"qid": "tyt_mat_4_4|p364|q21", "role": "hatirlatici", "why": "Çözümlü örnek: grafikten okuyarak (fof) hesaplama, 11. soruya köprü", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p124|q13", "role": "hatirlatici", "why": "Doğrusal g ile g⁻¹ ilişkisi", "recommended": false},
+        {"qid": "tyt_mat_tarama|p78|q1", "role": "pekistirme", "why": "İki değerden doğrusal fonksiyonu bulma", "recommended": true},
+        {"qid": "tyt_mat_4_4|p375|q5", "role": "pekistirme", "why": "f⁻¹ grafiğinden f değerlerini okuyup (fof)(0) bulma", "recommended": true},
+        {"qid": "tyt_mat_4_4|p376|q7", "role": "pekistirme", "why": "Grafikten bileşke ve ters fonksiyon değeri", "recommended": true},
+        {"qid": "tyt_mat_4_4|p352|q10", "role": "pekistirme", "why": "Doğrusal fonksiyonun kuralını eşitlikten bulma", "recommended": true},
+        {"qid": "tyt_mat_4_4|p381|q6", "role": "pekistirme", "why": "f(x)=mx+5 ve f⁻¹(1)=−2 ⇒ f(−2)=1", "recommended": false, "answer": "C", "answer_source": "claude"},
+        {"qid": "tyt_mat_4_4|p382|q11", "role": "pekistirme", "why": "f⁻¹(x−1)=7 ⇒ f(7)=x−1", "recommended": false, "answer": "B", "answer_source": "claude"},
+        {"qid": "tyt_mat_3Adm|p127|q2", "role": "zorlayici", "why": "2019 TYT: grafikten bileşke değerlerini karşılaştırma", "recommended": true},
+        {"qid": "tyt_mat_4_4|p383|q2", "role": "zorlayici", "why": "Grafik okuma ve parçalı tanımlı fonksiyon", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p128|q6", "role": "zorlayici", "why": "2021 TYT: f+g ve f−g grafiklerinden değer bulma", "recommended": false}
+      ]
+    },
+    {
+      "title": "Sayma: rakamlarla sayı yazma ve sıralama",
+      "subject": "mat",
+      "why": "5 (sıralamada k. sayı) ve 29 (tam iki basamağı aynı olan sayılar) numaralı sorular 'Sayı' etiketli ama aslında permütasyon sorusu; ikisine de başlanmamış.",
+      "source_images": [
+        "D:/Alper_irfanhoca/Denemeler/D01_3D_2Eylül/D01_Mat_Sayı_Yapamadı_5_C.jpeg",
+        "D:/Alper_irfanhoca/Denemeler/D01_3D_2Eylül/D01_Mat_Sayı_Boş_29_E.jpeg"
+      ],
+      "items": [
+        {"qid": "tyt_mat_4_4|p299|q2", "role": "hatirlatici", "why": "Çözümlü örnek: 0 içeren rakamlarla üç basamaklı sayı (çarpma kuralı)", "recommended": true},
+        {"qid": "tyt_mat_4_4|p303|q16", "role": "hatirlatici", "why": "Çözümlü örnek: rakamları farklı üç basamaklı sayılar", "recommended": true},
+        {"qid": "tyt_mat_4_4|p311|q1", "role": "hatirlatici", "why": "Rakamları farklı sayı yazma, temel uygulama", "recommended": false},
+        {"qid": "tyt_mat_4_4|p311|q3", "role": "hatirlatici", "why": "Sayıları küçükten büyüğe sıralayıp baştan 49. sayıyı bulma; 5. sorunun modeli", "recommended": true},
+        {"qid": "tyt_mat_4_4|p311|q2", "role": "pekistirme", "why": "Koşullu (230'dan büyük) sayı yazma", "recommended": true},
+        {"qid": "tyt_mat_4_4|p315|q4", "role": "pekistirme", "why": "Sıralamada baştan 28. sayı", "recommended": true},
+        {"qid": "tyt_mat_4_4|p319|q2", "role": "pekistirme", "why": "Büyükten küçüğe sıralamada 79. sayı", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p112|q6", "role": "pekistirme", "why": "En az iki basamağı aynı olan sayılar (tümleyen ile sayma); 29. soruya çok yakın", "recommended": true},
+        {"qid": "tyt_mat_4_4|p320|q10", "role": "pekistirme", "why": "Aralık ve çiftlik koşullu sayı yazma", "recommended": false},
+        {"qid": "tyt_mat_4_4|p315|q3", "role": "pekistirme", "why": "400'den küçük, rakamları farklı sayılar", "recommended": false},
+        {"qid": "tyt_mat_4_4|p316|q11", "role": "pekistirme", "why": "Tekrarlı rakamlarla belirli aralıkta sayı", "recommended": false},
+        {"qid": "tyt_mat_3Adm|p116|q10", "role": "zorlayici", "why": "Barkod bağlamında rakam koşullu sayma (yeni nesil)", "recommended": true},
+        {"qid": "tyt_mat_4_4|p324|q7", "role": "zorlayici", "why": "Tekrarlı permütasyonu bağlam içinde uygulama", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p115|q2", "role": "zorlayici", "why": "2019 TYT sayma sorusu", "recommended": false}
+      ]
+    },
+    {
+      "title": "Oran-orantı problemleri: sözelden modele",
+      "subject": "mat",
+      "why": "19 (dosyaların doğru orantılı dağıtılması) ve 28 (kupa, kutu, koli oranları ve 'her 3 kupadan biri') numaralı sorular boş/yapamadı; orantıyı değişkenle kuramıyor.",
+      "source_images": [
+        "D:/Alper_irfanhoca/Denemeler/D01_3D_2Eylül/D01_Mat_Sayı_Yapamadı_19_B.jpeg",
+        "D:/Alper_irfanhoca/Denemeler/D01_3D_2Eylül/D01_Mat_Problem_Boş_28_D.jpeg"
+      ],
+      "items": [
+        {"qid": "tyt_mat_3Adm|p70|q14", "role": "hatirlatici", "why": "Zincir oran (elma:portakal:mandalina) ve ortak çarpan", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p70|q11", "role": "hatirlatici", "why": "Doğru ve ters orantılı paylaştırma (k katsayısı)", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p69|q2", "role": "hatirlatici", "why": "Çarklar: devir sayısı ile diş sayısı ters orantılı", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p71|q3", "role": "pekistirme", "why": "Aktarmadan sonra doğru orantılı olma, bağlamlı paylaştırma", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p72|q13", "role": "pekistirme", "why": "a, b, c'yi k cinsinden yazıp denklem kurma", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p72|q10", "role": "pekistirme", "why": "Doğru orantı ve tam sayı koşulu", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p71|q4", "role": "pekistirme", "why": "Doğru ve ters orantılı bölme karşılaştırması", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p72|q6", "role": "pekistirme", "why": "Metinden orantı kurma", "recommended": false},
+        {"qid": "tyt_mat_3Adm|p72|q8", "role": "pekistirme", "why": "Bileşik orantı", "recommended": false},
+        {"qid": "tyt_mat_3Adm|p73|q1", "role": "zorlayici", "why": "2020 TYT: katlardan ortak değişkenle toplam bulma", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p73|q2", "role": "zorlayici", "why": "2020 TYT: doğru orantılı paylaştırma ve ek koşul", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p74|q10", "role": "zorlayici", "why": "Mumlar: ters orantı ve zaman", "recommended": false}
+      ]
+    },
+    {
+      "title": "Kümeler: üç kümeli Venn problemleri",
+      "subject": "mat",
+      "why": "26 numaralı soru (nane, pulbiber, karabiber; her tarifte en az ikisi var) boş. Venn bölgelerine değişken yazma ve 'yalnız iki / üçü birden' sayımı hatırlatılmalı.",
+      "source_images": [
+        "D:/Alper_irfanhoca/Denemeler/D01_3D_2Eylül/D01_Mat_Problem_Boş_26_C.jpeg"
+      ],
+      "items": [
+        {"qid": "tyt_mat_4_4|p38|q16", "role": "hatirlatici", "why": "Çözümlü örnek: iki kümeli Venn'de bölgelere değişken yazma", "recommended": true},
+        {"qid": "tyt_mat_4_4|p39|q18", "role": "hatirlatici", "why": "Çözümlü örnek: üç kümeli, koşullu Venn", "recommended": true},
+        {"qid": "tyt_mat_4_4|p42|q12", "role": "hatirlatici", "why": "Üç kümede kesişimlerden toplam kişi sayısı (içerme-dışarma)", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p10|q10", "role": "hatirlatici", "why": "Üç kurs, en az biri tercih edilmiş", "recommended": false},
+        {"qid": "tyt_mat_4_4|p44|q9", "role": "pekistirme", "why": "Üç derste 'yalnız biri', 'üçü' ve 'hiçbiri' bölgeleri", "recommended": true},
+        {"qid": "tyt_mat_4_4|p46|q8", "role": "pekistirme", "why": "Yalnız iki / yalnız bir oyun oynayanlar, üç küme", "recommended": true},
+        {"qid": "tyt_mat_4_4|p44|q8", "role": "pekistirme", "why": "'En fazla biri' ifadesini Venn'e çevirme", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p12|q8", "role": "pekistirme", "why": "Listeden üç kümeli Venn kurma", "recommended": true},
+        {"qid": "tyt_mat_4_4|p46|q7", "role": "pekistirme", "why": "Yüzdelerle iki küme", "recommended": false},
+        {"qid": "tyt_mat_4_4|p48|q7", "role": "zorlayici", "why": "'En çok bir dil', 'herhangi iki dil', 'üç dil' ilişkileri; 26. sorunun zor benzeri", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p14|q10", "role": "zorlayici", "why": "Kulüp katılımı, üç kümeli yeni nesil problem", "recommended": true},
+        {"qid": "tyt_mat_3Adm|p14|q8", "role": "zorlayici", "why": "Sipariş bağlamında küme problemi", "recommended": false}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {"qid": "tyt_mat_tarama|p4|q1", "difficulty": 3, "note": "ortak çarpan parantezi + asal durum analizi (k=2, k=3)"},
+  {"qid": "tyt_mat_tarama|p4|q2", "difficulty": 4, "note": "basamak tek/çift durum analizi, öncüllerle çok adımlı çıkarım"},
+  {"qid": "tyt_mat_tarama|p4|q3", "difficulty": 3, "note": "tek-çift kuralları, iki koşuldan durum çıkarma"},
+  {"qid": "tyt_mat_tarama|p4|q4", "difficulty": 3, "note": "zincir eşitsizlikte işaret analizi, x² pozitifliği"},
+  {"qid": "tyt_mat_tarama|p5|q5", "difficulty": 3, "note": "basamak toplama çözümlemesi, elde takibi"},
+  {"qid": "tyt_mat_tarama|p5|q6", "difficulty": 4, "note": "çarpanlara ayırma (x+5)(y-4)=13 dönüşümü + aralarında asal koşulu"},
+  {"qid": "tyt_mat_tarama|p5|q7", "difficulty": 4, "note": "işaret analizi, sıfır çarpanı durumu, öncüllerde 'daima' kontrolü"},
+  {"qid": "tyt_mat_tarama|p5|q8", "difficulty": 3, "note": "85=5·17, bölünebilme ve en küçük değer"},
+  {"qid": "tyt_mat_tarama|p6|q9", "difficulty": 4, "note": "ardışık sayı sayısı + basamak çözümlemesiyle denklem kurma"},
+  {"qid": "tyt_mat_tarama|p6|q10", "difficulty": 2, "note": "ardışık tek sayılar, kare farkı tek adım"},
+  {"qid": "tyt_mat_tarama|p6|q11", "difficulty": 4, "note": "yeni tanımlı işlem, aralarında asal durumlarının çapraz incelenmesi"},
+  {"qid": "tyt_mat_tarama|p6|q12", "difficulty": 3, "note": "deneme-yanılma ile rakam yerleştirme, mantık"},
+  {"qid": "tyt_mat_tarama|p7|q13", "difficulty": 4, "note": "ardışık sayı toplamı formülü, çarpan çiftleri analizi"},
+  {"qid": "tyt_mat_tarama|p7|q14", "difficulty": 4, "note": "koşullu dağıtım problemi, çok kısıtlı akıl yürütme"},
+  {"qid": "tyt_mat_tarama|p7|q15", "difficulty": 3, "note": "tanımlı gösterim, 10L+2K=42 doğal sayı çözümleri"}
+]

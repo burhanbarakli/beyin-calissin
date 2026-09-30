@@ -1,0 +1,5246 @@
+{
+ "book": {
+  "id": "tyt_bio_tarama",
+  "path": "D:\\Alper_irfanhoca\\MEB_TYT_Soru\\tyt_bio_tarama.pdf",
+  "exam": "TYT",
+  "subject": "bio",
+  "subject_name": "Biyoloji",
+  "kind": "tarama",
+  "kind_name": "Tarama"
+ },
+ "pages": 65,
+ "offset": 0,
+ "toc": [
+  [
+   9,
+   "TYT TARAMA TESTİ-1"
+  ],
+  [
+   11,
+   "TYT TARAMA TESTİ-2"
+  ],
+  [
+   19,
+   "TYT TARAMA TESTİ-3"
+  ],
+  [
+   25,
+   "TYT TARAMA TESTİ-4"
+  ],
+  [
+   31,
+   "TYT TARAMA TESTİ-5"
+  ],
+  [
+   37,
+   "TYT TARAMA TESTİ-6"
+  ],
+  [
+   43,
+   "TYT TARAMA TESTİ-7"
+  ],
+  [
+   45,
+   "TYT TARAMA TESTİ-8"
+  ],
+  [
+   51,
+   "TYT TARAMA TESTİ-9"
+  ],
+  [
+   61,
+   "TYT TARAMA TESTİ-10"
+  ],
+  [
+   66,
+   "TYT TARAMA TESTİ-11"
+  ],
+  [
+   69,
+   "CEVAP ANAHTARI"
+  ]
+ ],
+ "key_pages": [
+  63,
+  64,
+  65
+ ],
+ "questions": [
+  {
+   "qid": "tyt_bio_tarama|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    266.5
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "1. Prokaryot canlılarda I. atom, II. doku, III. hücre organizasyon basamaklarından hangileri bulunur? A) Yalnız II B) Yalnız III C) I ve II D) I ve III E) II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    30.0,
+    310.5,
+    272.4,
+    497.0
+   ],
+   "num": [
+    36.0,
+    309.4,
+    43.7,
+    323.2
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "2. Canlılarda I. ATP üretme, II. protein sentezleme, III. kalıtsal materyal bulundurma özelliklerinden hangileri ortaktır? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    30.0,
+    541.0,
+    272.4,
+    665.9
+   ],
+   "num": [
+    36.0,
+    539.9,
+    43.7,
+    553.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "3. Organizmalardaki metabolik süreçlerle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır? A) Solunum – katabolizma B) Fotosentez – anabolizma C) Sindirim – katabolizma D) Kemosentez – anabolizma E) Protein sentezi – katabolizma",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p3|q4",
+   "page": 3,
+   "n": 4,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    205.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "4. Aşağıdaki canlı gruplarından hangisinin hücre sayısı yanlış verilmiştir? A) Arke – çok hücreli B) Bakteri – tek hücreli C) Hayvan – çok hücreli D) Bitki – çok hücreli E) Protista – tek ya da çok hücreli",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p3|q5",
+   "page": 3,
+   "n": 5,
+   "bbox": [
+    281.7,
+    310.5,
+    532.8,
+    574.6
+   ],
+   "num": [
+    287.7,
+    309.4,
+    295.4,
+    323.2
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "5. Canlıların bazı ortak özellikleri ile ilgili açıklamalar aşağıda verilmiştir. • Yeni bireyler oluşturarak nesillerini sürdürebilirler. • Değişen çevre şartlarına rağmen iç ortamlarını sabit tutabilirler. • Yaşadıkları çevrede hayatta kalma ve üreme şansını artıran kalıtsal özelliklere sahiptirler. • Metabolik faaliyetler sonucu oluşan atık maddeleri hücre veya vücuttan dışarı atarlar. Buna göre aşağıdaki ortak özelliklerden hangisine açıklamalarda yer verilmemiştir? A) Homeostazi B) Adaptasyon C) Boşaltım D) Büyüme E) Üreme",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p4|q6",
+   "page": 4,
+   "n": 6,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    217.0
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "6. Bir canlının yaşamını sürdürmesi için aşağıdaki ortak özelliklerden hangisini gerçekleştirmesi zorunlu değildir? A) Metabolizma B) Üreme C) Beslenme D) Boşaltım E) Homeostazi",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p4|q7",
+   "page": 4,
+   "n": 7,
+   "bbox": [
+    30.0,
+    281.5,
+    272.4,
+    478.5
+   ],
+   "num": [
+    36.0,
+    280.4,
+    43.7,
+    294.2
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "7. Aşağıdakilerden hangisi canlıların ortak özel liklerinden biri olan adaptasyona örnek olarak gösterilemez? A) Kutup ayısının kalın kürkü ve yağ tabakası ile soğuktan korunması B) Çöl tilkisinin büyük kulakları ile vücut ısısını düzenlemesi C) Polen ile beslenen larvalardan işçi arıların oluşması D) Bukalemunun renk değiştirebilme yeteneği ile avcıdan korunması E) Büyük ayaklara sahip bir devenin kumda batmadan yürüyebilmesi",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p4|q8",
+   "page": 4,
+   "n": 8,
+   "bbox": [
+    30.0,
+    541.4,
+    272.4,
+    684.3
+   ],
+   "num": [
+    36.0,
+    541.9,
+    43.7,
+    555.6
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "8. İnsan vücudunda I. sıcaklığın sabit tutulması, II. atıkların uzaklaştırılması, III. iskelet kaslarının kasılması olaylarından hangileri doğrudan homeostaziyi düzenlemeye yönelik değildir? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p4|q9",
+   "page": 4,
+   "n": 9,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    302.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "9. Canlılarda görülen I. tek hücrelilerde atıkların hücre zarından dışarı verilmesi, II. bitkilerde damlama ve terleme ile atıkların uzak laştırılması, III. insanda gözde biriken tozların göz yaşı ile dışarı atılması olaylarından hangileri boşaltım ile ilişkilidir? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p4|q10",
+   "page": 4,
+   "n": 10,
+   "bbox": [
+    281.7,
+    367.0,
+    532.8,
+    601.5
+   ],
+   "num": [
+    287.7,
+    365.9,
+    301.6,
+    379.7
+   ],
+   "topic": "",
+   "level": "",
+   "osym": "",
+   "text": "10. Canlıların besinlerden enerji elde etme süreçleri ile ilgili I. ATP sentezi yalnızca canlı hücrelerde gerçekleşir. II. Solunum reaksiyonlarıyla besin monomerlerinden ATP üretilir. III. ATP üretimi oksijenli ya da oksijensiz ortamda gerçekleşebilir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p5|q1",
+   "page": 5,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    263.3
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. Suyun canlılar için önemiyle ilgili aşağıdaki açıklamalardan hangisi yanlıştır? A) Enzimlerin etkin bir şekilde çalışabilmesi için su gereklidir. B) İyi bir çözücü olduğu için zararlı maddelerin vücuttan atılmasına yardımcı olur. C) Yüksek öz ısısı sayesinde terlemeyle vücut ısısını düzenler. D) Solunum tepkimelerinde doğrudan enerji kaynağı olarak kullanılır. E) Birçok ekosistemde yaşamın sürdürülebilmesine olanak tanır.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p5|q2",
+   "page": 5,
+   "n": 2,
+   "bbox": [
+    30.0,
+    391.0,
+    272.4,
+    601.5
+   ],
+   "num": [
+    36.0,
+    389.9,
+    43.7,
+    403.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. Minerallerin sahip olduğu I. inorganik yapıya sahip olmaları, II. sindirime uğramadan hücre zarından geçebilme leri, III. canlılarda biyokimyasal süreçlerin düzenlenmesine katkı sağlamaları özelliklerinden hangileri su için de geçerlidir? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p5|q3",
+   "page": 5,
+   "n": 3,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    352.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "3. Aşağıdaki tabloda disakkarit çeşitleri, disakkaritlerin kaynakları ve yapı birimleri ile ilgili bazı bilgiler verilmiştir. Disakkarit Disakkaritin Yapı birimi çeşidi kaynağı Maltoz X Glikoz + Glikoz Sükroz Bitki Y + Z Laktoz Hayvan Y + T Tabloda verilen bilgilere göre X, Y, Z, T yerine ne yazılmalıdır? X Y Z T A) Bitki Glikoz Glikoz Galaktoz B) Hayvan Fruktoz Glikoz Glikoz C) Hayvan Galaktoz Fruktoz Fruktoz D) Bitki Fruktoz Galaktoz Glikoz E) Bitki Glikoz Fruktoz Galaktoz",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p5|q4",
+   "page": 5,
+   "n": 4,
+   "bbox": [
+    281.7,
+    429.4,
+    532.8,
+    643.3
+   ],
+   "num": [
+    287.7,
+    428.1,
+    295.4,
+    441.9
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "4. Aşağıda canlılarda gerçekleşen bazı metabolik olaylar numaralandırılarak verilmiştir. I II ø Glikoz ø Nişasta CO 2 + H 2 O III IV Buna göre aşağıdaki yargılardan hangisi yanlıştır? A) I nolu olay bir dehidrasyon tepkimesidir. B) II nolu olay yalnızca hücre içinde gerçekleşir. C) III nolu olay sırasında glikozit bağları koparılır. D) IV nolu olay ile yaşamsal faaliyetler için enerji üretilir. E) II nolu olay sırasında hücre içi su miktarı artar.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p6|q5",
+   "page": 6,
+   "n": 5,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    233.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "5. Trigliseritler ile ilgili I. Polimer yapılı bileşiklerdir. II. Yapısındaki yağ asitleri ile gliserol arasında ester bağları kurulur. III. Sentezinde kullanılan gliserol molekülünün yapısı tüm trigliserit çeşitlerinde aynıdır. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p6|q6",
+   "page": 6,
+   "n": 6,
+   "bbox": [
+    30.0,
+    297.8,
+    272.4,
+    458.9
+   ],
+   "num": [
+    36.0,
+    296.7,
+    43.7,
+    310.4
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "6. Lipitlerle ilgili aşağıdakilerden hangisi yanlıştır? A) Fosfolipitler hücre zarının yapısına katılır. B) Nötral yağlar sadece bitki hücrelerinde sentezlenir. C) Fosfolipitlerin baş kısmı hidrofilik (suyu seven), kuyruk kısmı hidrofobik (suyu sevmeyen) özelliktedir. D) Nötral yağlar oksijenli solunumda enerji verici olarak kullanılır. E) Steroitler eşey hormonlarının yapısına katılır.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p6|q7",
+   "page": 6,
+   "n": 7,
+   "bbox": [
+    30.0,
+    523.2,
+    272.4,
+    684.3
+   ],
+   "num": [
+    36.0,
+    522.1,
+    43.7,
+    535.9
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "7. Amino asitlerle ilgili aşağıdakilerden hangisi yanlıştır? A) Bir amin grubu (-NH 2 ) ve bir karboksil grubu (-COOH) içerirler. B) Amino asitler arasında çeşitliliği sağlayan radikal (R) gruptur. C) Tüm çeşitleri eşit sayıda karbon atomu içerir. D) Proteinlerin yapı taşları olarak görev alırlar. E) Hem asidik hem de bazik özellik taşıyan gruplara sahip olduklarından amfoter özellik gösterirler.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p6|q8",
+   "page": 6,
+   "n": 8,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    302.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "8. Proteinlerle ilgili I. Yapılarında (C), (H), (O), (N) elementlerinin yanı sıra bazen (S) elementi de bulunabilir. II. Enzim, hormon, antikor gibi moleküllerin yapısına katılabilirler. III. Sentezi esnasında çok sayıda fosfodiester bağı kurulur. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p6|q9",
+   "page": 6,
+   "n": 9,
+   "bbox": [
+    281.7,
+    428.5,
+    532.8,
+    601.6
+   ],
+   "num": [
+    287.7,
+    427.5,
+    295.4,
+    441.2
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "9. Organik bileşiklerle ilgili aşağıdakilerden hangisi yanlıştır? A) Organik bileşikler, inorganik bileşiklerin aksine canlılar tarafından üretilebilir. B) Karbonhidratlar, vücuda enerji sağlamak için öncelikli olarak kullanılır. C) Proteinler, canlıların yapısında en fazla bulunan organik moleküllerdir. D) Vitaminler gerekli durumlarda enerji üretimi için kullanılır. E) Bazı lipit çeşitleri düzenleyici olarak görev yapar.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p7|q10",
+   "page": 7,
+   "n": 10,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    229.1
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.8,
+    92.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "10. Hormonlarla ilgili aşağıdakilerden hangisi yanlıştır? A) Organik yapılı bileşiklerdir. B) Sadece hayvansal organizmalar tarafından üreti lirler. C) Amino asit, protein veya steroit yapıda olabilirler. D) Az ya da çok salgılanmaları metabolik rahatsızlık lara yol açabilir. E) Kan ve vücut sıvılarıyla hedef organlara taşınırlar.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p7|q11",
+   "page": 7,
+   "n": 11,
+   "bbox": [
+    30.0,
+    293.7,
+    272.4,
+    651.3
+   ],
+   "num": [
+    36.0,
+    292.4,
+    48.3,
+    306.2
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "11. Aşağıdaki tabloda bazı vitamin çeşitleri X, Z ve T ile harflendirilmiş ve bu vitaminlere ait bazı bilgiler veril miştir. Çözünme Eksikliğinde görülebilecek Vitaminler ortamı rahatsızlıklar Yağda X Gece körlüğü çözünür. Suda Skorbüt (diş eti kanaması), Z çözünür. vücut direncinin azalması Yağda T Raşitizm, osteomalazi çözünür. Tabloda verilen bilgilere göre I. X, fazlası karaciğerde depo edilen A vitaminidir. II. Z, günlük alınması gereken C vitaminidir. III. T, kemiklerde kalsiyum depolanması için gerekli olan D vitaminidir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p7|q12",
+   "page": 7,
+   "n": 12,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    499.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "12. X ve Y enzimlerinin farklı pH derecelerindeki etkinliğine ait grafik aşağıda verilmiştir. Enzim etkinliği X Y pH derecesi 2 4 7 12 9 Buna göre I. X enziminin pH değişimine toleransı Y enziminden fazladır. II. Nötr ortamda X enzimi maksimum etkinlik göstermiştir. III. X ve Y enzimleri hem asidik hem de bazik ortamlarda çalışabilirler. açıklamalarından hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p7|q13",
+   "page": 7,
+   "n": 13,
+   "bbox": [
+    281.7,
+    543.5,
+    532.8,
+    704.6
+   ],
+   "num": [
+    287.7,
+    542.4,
+    301.1,
+    556.2
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "13. Enzimlerle ilgili aşağıda verilen ifadelerden hangisi yanlıştır? A) Enzimler genellikle protein yapılıdır. B) Her enzimin etki edeceği kendine özgü bir substratı vardır. C) Bir enzimin ürünü başka bir enzimin substratı olabilir. D) Farklı enzimler aynı substrata etki edebilir. E) Bileşik enzimlerin yardımcı kısmı sadece inorganik yapılıdır.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p8|q14",
+   "page": 8,
+   "n": 14,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    451.5
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "14. Bir enzimin zamana bağlı aktivitesi grafikte verilmiştir. Enzim aktivitesi Zaman t 1 t 2 Enzim aktivitesinde görülen bu değişikliklere I. t 1 zaman aralığında sıcaklığın düşürülüp, t 2 zaman aralığında ise optimum sınıra doğru yükseltilmesi, II. t 2 zaman aralığında ortama inhibitör madde eklenmesi, III. t 2 zaman aralığında pH'ın değiştirilmesi durumlarından hangileri neden olabilir? A) Yalnız I B) Yalnız III C) I ve III D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p8|q15",
+   "page": 8,
+   "n": 15,
+   "bbox": [
+    30.0,
+    495.5,
+    272.4,
+    656.6
+   ],
+   "num": [
+    36.0,
+    494.4,
+    49.3,
+    508.2
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "15. DNA’nın temel yapısı ve özellikleriyle ilgili aşağı dakilerden hangisi yanlıştır? A) Kalıtsal bilgileri taşır. B) Çift iplikli ve sarmal bir yapıya sahiptir. C) Yapısında deoksiriboz şekeri, fosfat grubu ve azotlu organik bazlar bulunur. D) Karşılıklı iplikler boyunca adenin (A), timin (T) ile; guanin (G), sitozin (C) ile eşleşir. E) Aynı iplik üzerinde yer alan nükleotitler birbirlerine hidrojen bağları ile bağlanırlar.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p8|q16",
+   "page": 8,
+   "n": 16,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    290.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.5,
+    92.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "16. DNA ve RNA ile ilgili I. Yapı birimleri nükleotitlerdir. II. RNA, DNA’dan aldığı kalıtsal bilgi ile protein sen tezini yürütür. III. DNA’nın kendine özgü bazı timin (T), RNA’nın kendine özgü bazı urasil (U)’dir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p8|q17",
+   "page": 8,
+   "n": 17,
+   "bbox": [
+    281.7,
+    398.2,
+    532.8,
+    625.7
+   ],
+   "num": [
+    287.7,
+    397.0,
+    300.0,
+    410.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "17. ATP molekülünün yapısı şematik olarak gösterilmiştir. K molekülü M molekülü L molekülü K, L ve M molekülleri için aşağıdakilerden hangisi yanlıştır? A) K, adenin azotlu organik bazıdır. B) L, hem DNA hem RNA’nın yapısına katılır. C) M, inorganik yapılıdır. D) L ve M molekülleri arasında ester bağı kurulur. E) K ve L moleküllerinden oluşan yapıya adenozin denir.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p9|q18",
+   "page": 9,
+   "n": 18,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    205.0
+   ],
+   "num": [
+    36.0,
+    79.0,
+    50.9,
+    92.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "18. Aşağıdaki olaylardan hangisinin gerçekleşmesi sırasında doğrudan ATP kullanımı beklenmez? A) Dehidrasyon tepkimesi B) Hücre bölünmesi C) Hidroliz tepkimesi D) Sinirsel iletim E) Kas kasılması",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p9|q19",
+   "page": 9,
+   "n": 19,
+   "bbox": [
+    30.0,
+    351.5,
+    272.4,
+    572.6
+   ],
+   "num": [
+    36.0,
+    350.4,
+    49.1,
+    364.2
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "19. Sağlıklı beslenme ile ilgili aşağıda verilen ifadelerden hangisi yanlıştır? A) Günlük meyve ve sebze tüketimi, vücuda gerekli vitamin ve mineralleri sağlamak için önemli rol oynar. B) Bitkisel kaynaklı yağlar kalp sağlığını destekleyici rol oynar ve vücuda önemli miktarda enerji sağlar. C) Yüksek düzeyde işlenmiş gıda tüketimi, uzun vadede çeşitli sağlık sorunlarına yol açabilir. D) Karbonhidratlar, yalnızca kilo alımına neden olur ve sağlıklı bir beslenme düzeninde tüketilmemelidir. E) Su, vücut fonksiyonlarının düzgün işleyişi için gereklidir ve yeterli miktarda alınması genel sağlık içi",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p9|q20",
+   "page": 9,
+   "n": 20,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    438.4
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "20. Bir sporcu, yoğun antrenman döneminde aşağıdaki gibi bir beslenme düzeni uygulamaktadır: • Sabah kahvaltısında tam tahıllı ekmek, yumurta ve zeytin tüketmektedir. • Öğle yemeğinde tavukgöğsü, bulgur pilavı ve salata yemektedir. • Akşam yemeğinde ise mercimek çorbası, yoğurt ve sebze yemeği tercih etmektedir. • Gün boyunca bol su içmekte ve aralarda fındık, ceviz gibi kuruyemişler tüketmektedir. Bu beslenme düzenine göre aşağıdaki yorumlardan hangisi yanlıştır? A) Sporcu, enerji ihtiyacını yalnızca karbonhidrat ve protein kaynaklarından karşılamaktadır. B) Yumurta, yoğurt ve kuruyemişler, b",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p9|q21",
+   "page": 9,
+   "n": 21,
+   "bbox": [
+    281.7,
+    500.4,
+    532.8,
+    685.5
+   ],
+   "num": [
+    287.7,
+    499.4,
+    301.4,
+    513.1
+   ],
+   "topic": "",
+   "level": " (ek)",
+   "osym": "",
+   "text": "21. Aşağıda verilen mineral-biyolojik işlev eşleştirmelerinden hangisi yanlıştır? A) Magnezyum – Klorofil moleküllerinin yapısına katılarak fotosentez sürecinde görev alır. B) Kalsiyum – Kemik ve diş dokularının gelişmesinde önemli bir rol oynar. C) Azot – Glikojen molekülünün yapısına doğrudan katılarak depolanmasını sağlar. D) Sodyum – Sinir hücrelerinde aksiyon potansiyeli oluşumu ve iletimi süreçlerinde görev alır. E) Demir – Hemoglobin proteinine bağlanarak oksijenin taşınmasını sağlar.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p10|q22",
+   "page": 10,
+   "n": 22,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    278.5
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "22. Monomer yapılı karbonhidratlarla ilgili I. Eşit sayıda C, H ve O atomu içerirler. II. Bazı çeşitleri nükleik asitlerin yapısına katılır. III. Tüm çeşitleri solunumda enerji verici olarak kullanılır. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p10|q23",
+   "page": 10,
+   "n": 23,
+   "bbox": [
+    30.0,
+    404.5,
+    272.4,
+    591.0
+   ],
+   "num": [
+    36.0,
+    403.5,
+    49.3,
+    417.2
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "23. Laktoz, kitin ve glikojen molekülleri için I. C, H, O ve N atomları içerme, II. hayvanlar tarafından sentezlenme, III. tek çeşit monomerden oluşma özelliklerinden hangileri ortaktır? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p10|q24",
+   "page": 10,
+   "n": 24,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    278.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "24. Yapısal bir polisakkarit olan kitinin sahip olduğu I. suda çözünmeme, II. yapısında C, H, O ve N bulundurma, III. çok sayıda glikozun dehidrasyonu ile oluşma özelliklerinden hangileri selüloz için de geçerlidir? A) Yalnız II B) Yalnız III C) I ve II D) I ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p10|q25",
+   "page": 10,
+   "n": 25,
+   "bbox": [
+    281.7,
+    404.5,
+    532.8,
+    565.6
+   ],
+   "num": [
+    287.7,
+    403.5,
+    301.0,
+    417.2
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "25. Fosfolipitlerle ilgili aşağıdaki açıklamalardan hangisi yanlıştır? A) Yapısında 2 yağ asidi bulunur. B) Baş kısmı suyu sever (hidrofiliktir). C) Yapısındaki fosfor ve yağ asitleri gliserole bağlanır. D) Kuyruk kısmında bulunan yağ asidi çeşitleri farklı olabilir. E) Hücre zarında suyu sevmeyen (hidrofobik) kısmı dışa bakar.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p11|q26",
+   "page": 11,
+   "n": 26,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    308.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "26. Aşağıda gösterilen deney kaplarına eşit miktarda protein, nişasta, yağ molekülleri ile bu molekülleri monomerlerine kadar sindiren enzimler konulmuş ve deney düzenekleri diğer koşullar optimum olmak kaydıyla belirtilen sıcaklıklarda bir süre bekletilmiştir. 37 o C 37 o C 60 o C Protein Nişasta Yağ + + + Enzim Enzim Enzim I II III Buna göre deney sonunda hangi kaplarda asidik özellikte monomer oluşumu gözlenebilir? A) Yalnız I B) Yalnız III C) I ve II D)II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p11|q27",
+   "page": 11,
+   "n": 27,
+   "bbox": [
+    30.0,
+    373.4,
+    272.4,
+    673.8
+   ],
+   "num": [
+    36.0,
+    372.2,
+    48.3,
+    385.9
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "27. Aşağıdaki tabloda ökaryotik bir hücrede bulunan nükleik asitler ve çeşitleriyle ilgili bazı bilgiler verilmiştir. Nükleik asit Özellik / Görev çeşidi Hücre içinde bazı organellerin X yapısında bulunur. Sentezi sırasında hücredeki serbest Y deoksiribonükleotitler azalır. Çekirdekte sentezlenir ve Z sitoplazmada görev yapar. X, Y, Z molekülleri ile ilgili I. X, ribozomal RNA olabilir. II. Y, kendini eşleyerek çoğaltabilir. III. Z, protein sentezine kalıplık edecek genetik şifreyi ribozoma taşıyan mRNA olabilir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D)II ve II",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p11|q28",
+   "page": 11,
+   "n": 28,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    316.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "28. Besinlerle gereğinden fazla alınan proteinler karaciğerde polisakkaritlere dönüştürülebilirler. Bu dönüşüm sürecinde I. monosakkarit oluşturma, II. hidrolizle amino asitleri oluşturma, III. glikozit bağları oluşturma, IV. amino grubunu ayırma tepkimelerinin gerçekleşme sırası nasıl olmalıdır? A) I - II - III - IV B) I - IV - III - II C) II - I - IV - III D) II - IV - I - III E) III - I - IV - II",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p11|q29",
+   "page": 11,
+   "n": 29,
+   "bbox": [
+    281.7,
+    381.2,
+    532.8,
+    694.6
+   ],
+   "num": [
+    287.7,
+    380.1,
+    301.6,
+    393.9
+   ],
+   "topic": "TYT TARAMA TESTİ-1",
+   "level": "",
+   "osym": "",
+   "text": "29. Protein hidrolizi yapmakta olan bir hücrede aşağıdaki grafiklerde gösterilen değişimlerden hangisinin gerçekleşmesi beklenmez? A) B) Hücrenin pH'ı Su miktarı Zaman Zaman C) D) Kullanılan ATP Serbest amino asit miktarı miktarı Zaman Zaman E) Serbest enzim miktarı Zaman",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p12|q30",
+   "page": 12,
+   "n": 30,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    217.1
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.9,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "30. Proteinlerin yapısal ve işlevsel farklılıklarının belirlenmesinde aşağıdaki faktörlerden hangisi etkili değildir? A) Yapısındaki amino asit sayısı B) Amino asitlerin diziliş sırası C) Kullanılan amino asitlerin radikal grupları D) Amino asitlerin birbirine bağlanma biçimi E) Senteze kalıplık eden genetik şifrenin farklılığı",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p12|q31",
+   "page": 12,
+   "n": 31,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    205.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": "",
+   "osym": "",
+   "text": "31. Aşağıdakilerden hangisi proteinlerin görevi değildir? A) Genetik bilgiyi taşır. B) Kanın ozmotik basıncını ayarlar. C) Enzimlerin yapısal kısmını oluşturur. D) Kasların kasılmasında rol oynar. E) Hücre zarındaki por kanallarını oluşturur.",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p13|q1",
+   "page": 13,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    437.8
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. Bir biyoloji öğretmeni aşağıdaki tanılayıcı dallanmış ağaç etkinliğini hazırlamıştır. Öğrenciler seçtikleri her doğru ifade için 3 puan alacak ve doğru çıkış noktasına ulaşacaklardır. Ökaryotik bir canlıya ait genetik materyali çevreleyen ve hücrenin hayati faaliyetlerini kontrol eden yapı çekirdektir. D Y Hücredeki kimyasal reaksiyonların Hücreyi iç ve dış etkilere karşı gerçekleştiği yarı akışkan koruyan, cansız ve tam geçirgen özellikteki kısım sitoplazmadır. özellikteki kısım hücre zarıdır. D Y D Y 1. Çıkış 2. Çıkış 3. Çıkış 4. Çıkış Buna göre 1. çıkışa ulaşan Ayşe ve 4. çıkışa ulaşan A",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p13|q2",
+   "page": 13,
+   "n": 2,
+   "bbox": [
+    30.0,
+    491.9,
+    272.4,
+    664.8
+   ],
+   "num": [
+    36.0,
+    490.8,
+    43.7,
+    504.5
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. Aşağıdakilerden hangisi prokaryot ve ökaryot hücre ayrımında kullanılamaz? A) Sitoplazmadaki ribozomlarda protein sentezlenmesi B) Hücre iskeletini oluşturan yapıların bulunması C) Endoplazmik retikulumda fosfolipit sentezlenmesi D) Hücredeki metabolik faaliyetleri çekirdeğin kontrol etmesi E) Genetik materyalin halkasal yapıda olup sitoplazmada bulunması",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p13|q3",
+   "page": 13,
+   "n": 3,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    263.3
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "3. Schleiden, Schwann ve Virchow gibi bilim insanlarının katkılarıyla geliştirilen ve günümüzde geçerliliğini koruyan hücre teorisinde aşağıdakilerden hangisi yer almaz? A) Tüm metabolik olaylar hücre içinde gerçekleşir. B) Hücre, canlıların temel yapı ve işlevsel birimidir. C) Bütün canlılar bir veya daha fazla hücreden oluşur. D) Yeni hücreler, var olan hücrelerin bölünmesi sonucu oluşur. E) Genetik materyal sadece mitozla yavru hücrelere aktarılır.",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p13|q4",
+   "page": 13,
+   "n": 4,
+   "bbox": [
+    281.7,
+    391.0,
+    532.8,
+    574.2
+   ],
+   "num": [
+    287.7,
+    389.9,
+    295.4,
+    403.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "4. Hücre zarının yapısında bulunan glikoprotein ve glikolipitler ile ilgili aşağıdakilerden hangisi yanlıştır? A) Hücrelerin özgüllüğünü belirlemede görev alır. B) Reseptör molekül olarak görev yapan çeşitleri bulunur. C) Hücrelerin birbirini tanımasında ve hücreler arası iletişimde rol oynar. D) Bitki hücrelerinde hücre zarının sitoplazmaya bakan yüzeyinde bulunur. E) Hücre zarının seçici geçirgen özelliğini kazanmasında etkilidir.",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p14|q5",
+   "page": 14,
+   "n": 5,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    217.0
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "5. Prokaryot ve ökaryot hücrelerde protein sentezi nin gerçekleştiği yapı hidroliz edildiğinde aşağı dakilerden hangisi oluşmaz? A) Amino asit B) Fosfat grubu C) Riboz D) Urasil organik bazı E) Guanin deoksiribonükleotit",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p14|q6",
+   "page": 14,
+   "n": 6,
+   "bbox": [
+    30.0,
+    261.0,
+    272.4,
+    444.2
+   ],
+   "num": [
+    36.0,
+    259.9,
+    43.7,
+    273.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "6. Koful ile ilgili aşağıdakilerden hangisi yanlıştır? A) Besin kofulları, endositoz sonucu oluşan geçici kofullardır. B) Kofullar; endoplazmik retikulum, Golgi aygıtı ve hücre zarı tarafından oluşturulabilir. C) Sindirim kofulları, içerdikleri besinlerin sindiriminde işlev gören enzimleri kendileri üretir. D) Bitki hücrelerinde bulunan merkezî kofullar, küçük depo kofullarının kaynaşmasıyla oluşur. E) Merkezî koful işlevsel olgunluğa ulaşan bitki hücrelerinde bulunurken hayvan hücrelerinde bulunmaz.",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p14|q7",
+   "page": 14,
+   "n": 7,
+   "bbox": [
+    30.0,
+    490.3,
+    272.4,
+    695.4
+   ],
+   "num": [
+    36.0,
+    488.9,
+    43.7,
+    502.6
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "7. • Nükleoprotein özellikteki bu yapı rRNA ve proteinden oluşur. • Önceki amino asidin karboksil grubu ile sonraki amino asidin amino grubu arasında kovalent bağ kurulmasını sağlar. Buna göre özellikleri verilen hücresel yapı aşağıdaki organellerden hangisinde bulunmaz? A) Kromoplast B) Golgi aygıtı C) Mitokondri D) Kloroplast E) Granüllü endoplazmik retikulum",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p14|q8",
+   "page": 14,
+   "n": 8,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    221.0
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "8. Sentrozomun yapısını incelemek isteyen bir araştırmacı aşağıdaki hücrelerden hangisini kullanarak amacına ulaşabilir? A) Gelişmiş bitki hücresi B) Özelleşmiş sinir hücresi C) Bağırsak epitel hücresi D) Kan dolaşımındaki alyuvar hücresi E) İnsana ait olgun yumurta hücresi",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p14|q9",
+   "page": 14,
+   "n": 9,
+   "bbox": [
+    281.7,
+    367.4,
+    532.8,
+    516.5
+   ],
+   "num": [
+    287.7,
+    366.3,
+    295.4,
+    380.1
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "9. Aşağıda verilen hücre türleri ve bu hücrelerde gerçekleşen olaylardan hangisinde hücre iskeleti elemanlarının işlevi yoktur? A) Amipin endositoz ile besin alması B) İnce bağırsakta mikrovillusların şekillenmesi C) Akyuvarın yalancı ayaklarla dokuda ilerlemesi D) Bazı bakterilerde kamçının oluşması E) Hayvansal hücrede çekirdeğin ve bazı organellerin yerinin sabitlenmesi",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p15|q10",
+   "page": 15,
+   "n": 10,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    354.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "10. Bir bitkinin yaprak hücresinde bulunan K ve L organelleri arasındaki ilişki aşağıda şematize edilmiştir. CO 2 CO 2 O 2 K L NH 3 H 2 O organeli organeli Amino asit Azot tuzu Buna göre bu organeller ile ilgili aşağıdakilerden hangisi doğrudur? A) K organeli sentrozoma sahiptir. B) L organelinde ışık etkisiyle ile ATP sentezi gerçekleşir. C) K organeli çekirdek kontrolünde çoğalabilir. D) L organelinin sayısı tüm hücrelerde K organeli sayısına eşittir. E) K’de gerçekleşen tepkime katabolik, L’de gerçekleşen tepkime ise anaboliktir.",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p15|q11",
+   "page": 15,
+   "n": 11,
+   "bbox": [
+    30.0,
+    418.5,
+    272.4,
+    653.0
+   ],
+   "num": [
+    36.0,
+    417.4,
+    50.3,
+    431.2
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "11. Canlı bir hücrede I. kompleks moleküllerin ekzositoz ile hücre dışına salgılanması II. glikozun fazlasının glikojen şeklinde depolanması III. rRNA moleküllerinin çekirdekçikte üretilmesi olaylarından hangilerinin gerçekleşmesi bu hücrenin ökaryot olduğuna kanıt olarak gösterilir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p15|q12",
+   "page": 15,
+   "n": 12,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    253.0
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.8,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "12. Prokaryot ve ökaryot hücrelerde aşağıdakilerden hangisi ortak değildir? A) Hücre zarı aracılığıyla madde alışverişinin yapılması B) Deposal polisakkaritlerin monomerlerine hidroliz edilmesi C) Ribozomda polipeptit moleküllerinin sentezlenmesi D) ATP moleküllerinin üretilmesi E) Hücre zarında hormonlara yanıt veren reseptörlerin bulunması",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p15|q13",
+   "page": 15,
+   "n": 13,
+   "bbox": [
+    281.7,
+    399.5,
+    532.8,
+    560.6
+   ],
+   "num": [
+    287.7,
+    398.4,
+    300.9,
+    412.2
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "13. Canlılığın temel ve işlevsel birimi olan hücre ile ilgili ifadelerden hangisi doğrudur? A) Tüm canlı hücrelerde metabolik olaylar yalnızca organellerde gerçekleşir. B) Ribozoma sahip olmayan hücreler prokaryottur. C) Tüm canlı hücrelerde sitoplazma bulunur. D) Tüm hücrelerde DNA, histon proteinleri ile birlikte organize olur. E) Tüm hücrelerde sitoplazmayı dış ortamdan ayıran tam geçirgen bir zar bulunur.",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p16|q14",
+   "page": 16,
+   "n": 14,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    265.1
+   ],
+   "num": [
+    36.0,
+    79.0,
+    50.2,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "14. Hücre zarının yapısında bulunan moleküllerin yapı ve işlevleriyle ilgili ifadelerden hangisi yanlıştır? A) Glikoprotein ve glikolipitler hücreye özgüllük kazandırır. B) Fosfolipitlerin baş kısmı hidrofilik olup, fosfat ve gliserol içerir. C) Zar yapısında protein, lipit ve karbonhidrat molekülleri bulunur. D) Zarı boydan boya kateden kanal proteinleri tüm moleküllerin zardan geçişlerinde rol oynar. E) Zar yapısındaki fosfolipitler hareket hâlindedir.",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p16|q15",
+   "page": 16,
+   "n": 15,
+   "bbox": [
+    30.0,
+    368.9,
+    272.4,
+    593.0
+   ],
+   "num": [
+    36.0,
+    369.4,
+    49.2,
+    383.2
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "15. Ökaryotik hücrelerin çekirdeği ile ilgili I. Çekirdek zarının porları büyük moleküllerin geçişine izin verebilir. II. DNA, çekirdek içerisinde kromatin şeklinde organize olur. III. Çekirdek zarı çift katlı yapıda olup, sitoplazmaya bakan yüzeyinde ribozomlara rastlanabilir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p16|q16",
+   "page": 16,
+   "n": 16,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    301.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.6,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "16. Aşağıda canlılardan hangisinin gerçekleştirdiği olay sırasında koful organeli görev almaz? A) Ayrıştırıcı bakteriler, sindirim enzimlerini salgı kofulları aracılığıyla hücre dışına gönderir. B) Gelişmiş bitkilerin taç yapraklarında bulunan kofullar, asit ve bazlara bağlı olarak renk değiştirebilen pigmentleri içerir. C) Akyuvar hücreleri, vücuda giren antijenleri endositoz yoluyla hücre içine alarak besin kofulu oluşumunu başlatır. D) Tatlı sularda yaşayan protistlerde, fazla suyu aktif olarak dışarı atan kontraktil kofullar bulunur. E) Olgun bitki hücrelerinde bulunan merkezî kofullar, su",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p17|q17",
+   "page": 17,
+   "n": 17,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    559.5
+   ],
+   "num": [
+    36.0,
+    79.0,
+    50.2,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "17. Aşağıdaki şemada X ve Y ile simgelenen iki organelde gerçekleşen enerji dönüşümleri gösterilmiştir. X Y Buna göre X ve Y ile simgelenen organeller ile ilgili I. X ve Y organelleri kendine özgü polimer madde sentezi gerçekleştirir. II. X organelinde kimyasal bağ enerjisi, ATP enerjisine dönüştürülür. III. Y organelinde tilâkoitler granayı, granalar da granumu oluşturur. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p17|q18",
+   "page": 17,
+   "n": 18,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    331.8
+   ],
+   "num": [
+    287.7,
+    79.0,
+    299.8,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "18. Bir amip, fagositozla bir polisakkarit molekülünü hücre içine alıp sindirmiş ve elde ettiği monomerleri hücresel solunumla CO 2 ve H 2 O’ya kadar parçalayarak enerji üretmiştir. Buna göre belirtilen süreçte görev alan hücresel yapıların işlev sırası aşağıdakilerden hangisinde doğru verilmiştir? A) Hücre zarı → lizozom → besin kofulu → mitokondri B) Hücre zarı → besin kofulu → lizozom → mitokondri C) Hücre zarı → mitokondri → lizozom → besin kofulu D) Lizozom → hücre zarı → mitokondri → besin kofulu E) Besin kofulu → lizozom → hücre zarı → mitokondri",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p17|q19",
+   "page": 17,
+   "n": 19,
+   "bbox": [
+    281.7,
+    418.5,
+    532.8,
+    625.7
+   ],
+   "num": [
+    287.7,
+    417.4,
+    300.7,
+    431.2
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "19. Lizozom organelinin görevleriyle ilgili ifadelerden hangisi yanlıştır? A) Akyuvarlar tarafından fagositozla alınan antijenlerin parçalanması B) Hücre için zararlı ya da artık maddelerin enzimlerle parçalanarak uzaklaştırılması C) Zarar görmüş veya yaşlanmış hücresel yapıların parçalanarak hücre içi dönüşümün sağlanması D) Yağ asitlerinin, mitokondri tarafından kullanılabilecek daha küçük moleküllere dönüştürülmesi E) Embriyonik gelişim sürecinde el ve ayak parmakları arasındaki dokuların ortadan kaldırılması",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p18|q20",
+   "page": 18,
+   "n": 20,
+   "bbox": [
+    30.0,
+    80.1,
+    532.8,
+    726.0
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.2,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek)",
+   "osym": "",
+   "text": "20. Hücre zarı ile çekirdek arasını dolduran, zarla çevrili kanalcıklar ve borucuklardan oluşan yapı, aşağıdaki işlevlerden hangisini gerçekleştirmez? A) Çeşitli lipit türlerinin sentezini gerçekleştirir. B) Kas hücrelerinde kalsiyum iyonlarını depolar. C) Kimyasal maddelerin, ilaçların ve toksinlerin etkisiz hâle getirilmesini sağlar. D) Ribozom alt birimlerinin sentezinden sorumludur. E) Steroit yapılı hormonların sentezini gerçekleştirir.",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p19|q1",
+   "page": 19,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    356.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "1. K ve L maddelerinin hücre zarından geçiş yöntemleri aşağıda gösterilmiştir. Hücre dışı Hücre dışı K Maddesi Hücre Hücre zarı zarı Kanal L Maddesi proteini Hücre içi Hücre içi Buna göre K ve L maddelerinin hücre zarından geçişi ile ilgili aşağıdakilerden hangisi yanlıştır? A) K maddesi Na + iyonu, L maddesi yağ asidi olabilir. B) L maddesi fosfolipit tabakasından doğrudan geçer. C) Ortam sıcaklığı K ve L maddelerinin geçiş hızını etkiler. D) K ve L maddelerinin zardan geçişi sırasında ATP harcanmaz. E) L maddesi suda çözünebilen büyük bir moleküldür.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p19|q2",
+   "page": 19,
+   "n": 2,
+   "bbox": [
+    30.0,
+    400.0,
+    272.4,
+    529.2
+   ],
+   "num": [
+    36.0,
+    398.9,
+    43.7,
+    412.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "2. Endositoz ve ekzositozda I. canlı hücrelerde gerçekleşme, II. hücre zarının aktif rol alması, III. koful oluşumu olaylarından hangileri ortaktır? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p19|q3",
+   "page": 19,
+   "n": 3,
+   "bbox": [
+    30.0,
+    567.1,
+    272.4,
+    718.1
+   ],
+   "num": [
+    36.0,
+    566.0,
+    43.7,
+    579.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "3. Bakterilerde ve arkelerde ekzositozun görülmemesinin temel nedeni aşağıdakilerden hangisidir? A) Tek hücreli canlılar olmaları B) Zarlı organellere sahip olmamaları C) Tüm maddeleri difüzyonla taşımaları D) Hücre zarlarının esnek bir yapıya sahip olmaması E) Gerekli enerji üretim mekanizmalarının bulunmaması",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p19|q4",
+   "page": 19,
+   "n": 4,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    464.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-2",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "4. Cam bir kap seçici geçirgen zar ile iki bölüme ayrılarak I. durumdaki deney düzeneği hazırlanmıştır. Y ve Z bölümlerine derişimleri farklı sükroz çözeltileri konulmuştur. Belirli bir süre beklendiğinde kap içerisinde II. durum’da gösterildiği gibi bir değişim gerçekleşmiştir. Seçici geçirgen zar Y Z bölümü Z bölümü bölümü Y bölümü Sükroz molekülleri I. Durum II. Durum Buna göre deney ile ilgili aşağıdaki çıkarımlardan hangisi yanlıştır? A) I. durumda Z bölümündeki ozmotik basınç Y bölümüne göre daha yüksektir. B) II. durumda su moleküllerinin Z bölümüne geçişi pasif taşıma ile gerçekleşir. ",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p20|q5",
+   "page": 20,
+   "n": 5,
+   "bbox": [
+    30.0,
+    78.6,
+    272.4,
+    308.3
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "5. Özdeş üç bitki hücresi, derişimleri birbirinden farklı çözeltilere bırakılmıştır. Belirli bir süre sonra hücrelerde gözlenen değişimler aşağıda verilmiştir. • K çözeltisindeki hücrenin turgor basıncı azalmıştır. • L çözeltisindeki hücrenin emme kuvveti sıfırdır. • M çözeltisindeki hücrenin osmotik basıncı azalmıştır. Buna göre K, L ve M çözeltilerinin yoğunlukları aşağıdakilerden hangisinde doğru verilmiştir? K L M A) Hipotonik Hipertonik İzotonik B) İzotonik Hipotonik Hipertonik C) Hipertonik İzotonik Hipotonik D) Hipotonik İzotonik Hipertonik E) İzotonik Hipertonik Hipotonik",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p20|q6",
+   "page": 20,
+   "n": 6,
+   "bbox": [
+    30.0,
+    393.4,
+    272.4,
+    671.0
+   ],
+   "num": [
+    36.0,
+    392.3,
+    43.7,
+    406.1
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "6. Bir tatlı su algi olan Nitella’da (Nitella) potasyum iyonları hücre içinde dış ortamdan 1.000 kat daha fazla bulunmakta ve bu oran korunmaktadır. Bu canlı yüksek miktarda potasyum iyonunu hücreye alabilmek için enerji harcamakta ve hücre zarındaki taşıyıcı proteinlerini kullanmaktadır. Bu canlının potasyum iyonlarını hücre içine alırken kullandığı taşıma yöntemiyle ilgili aşağıdakilerden hangisi yanlıştır? A) Sadece hücre zarından geçebilecek küçük mole küller bu yolla taşınabilir. B) Bu taşıma yöntemi ile su molekülleri zardan taşınamaz. C) Bu taşıma yöntemi sadece canlı hücrelerde gerçekl",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p20|q7",
+   "page": 20,
+   "n": 7,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    345.6
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "7. Bir araştırmacı, yeni bir antibiyotik geliştirmek amacıyla bir bakteri türünün farklı ortamlardaki büyüme hızlarını incelerken laboratuvar koşullarının beklenmedik şekilde değişmesiyle bazı deney sonuçlarında tutarsızlık olduğunu fark etmiştir. Bu durumda bilimsel yöntem ilkelerine göre araştırmacının aşağıdakilerden hangisini yapması en uygun olur? A) Deneyleri durdurarak farklı bir araştırma konusuna yönelmesi B) Değişiklikleri görmezden gelerek deneyleri aynı şekilde sürdürmesi C) Tutarsızlıkları rastlantı sonucu meydana gelmiş olaylar olarak kabul etmesi D) Tutarsız sonuçları yok sayara",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p20|q8",
+   "page": 20,
+   "n": 8,
+   "bbox": [
+    281.7,
+    410.2,
+    532.8,
+    686.2
+   ],
+   "num": [
+    287.7,
+    408.9,
+    295.4,
+    422.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "8. Aşağıda bazı moleküllerin hücre zarından geçişleri P, R ve S harfleri ile belirtilmiştir. • P†Bir oksijen molekülü, hücre zarındaki fosfolipit tabakasından doğrudan geçerek hücreye girmektedir. Dış ortamdaki oksijen konsantrasyonu hücre içine göre daha yüksektir. • R†Bir glikoz molekülü, hücre zarındaki taşıyıcı proteine bağlanarak hücreye alınmaktadır. Dış ortamdaki glikoz konsantrasyonu hücre içine göre daha yüksektir. • S†Bir sindirim enzimi, koful içerisinde hücre dışına salgılanmaktadır. Hücre içindeki sindirim enzimi konsantrasyonu dış ortama göre daha yüksektir. Buna göre P, R ve S h",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p21|q9",
+   "page": 21,
+   "n": 9,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    331.8
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "9. Bir öğrenci hücre zarından madde geçişi konusunda bir deney tasarlamak istemektedir. Deneyinde farklı tuz derişimlerine sahip çözeltilerin bitki hücreleri üzerindeki etkisini gözlemlemeyi planlamaktadır. Öğrencinin bilimsel yönteme uygun olarak aşağıdaki işlemlerden hangisini ilk sırada yapması gerekir? A) Mikroskopla hücrelerin plazmoliz durumlarını gözlemlemek B) Farklı tuz derişimlerine sahip çözeltileri hazırlayarak deneyi yapmak C) Hipotezini test etmek için gözlem sonuçlarını tabloya kaydetmek D) “Tuz derişimi arttıkça hücrede plazmoliz artar.” şeklinde bir hipotez kurmak E) Hücre zar",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p21|q10",
+   "page": 21,
+   "n": 10,
+   "bbox": [
+    30.0,
+    355.7,
+    272.4,
+    699.8
+   ],
+   "num": [
+    36.0,
+    354.5,
+    48.3,
+    368.3
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "10. Farklı iki molekülün hücre zarından geçişi aşağıda şematize edilmiştir. Buna göre bu moleküllerin taşınmasını sağlayan her iki yöntem de dikkate alındığında, aşağıdakilerden hangisi ortaktır? A) Küçük moleküllerin geçişinin sağlanması B) ATP enerjisi harcanarak gerçekleşmesi C) İki ortam yoğunluğu eşitlendiğinde madde geçişinin durması D) Cansız ortamlarda gerçekleşebilmesi E) Hücre ile ortam arasındaki yoğunluk farkının artması",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p21|q11",
+   "page": 21,
+   "n": 11,
+   "bbox": [
+    281.7,
+    78.6,
+    532.8,
+    460.0
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "11. Ökaryot bir hücrede K, L ve M moleküllerinin hücre zarından geçişi ile ilgili yapılan bazı gözlemler aşağıda verilmiştir. - K molekülünün hücre içine alınma hızı, ortamdaki derişimi arttıkça bir noktaya kadar artar sonra sabit kalır. - L molekülü taşıyıcı proteinler kullanılmadan yoğunluk farkına bağlı olarak hücre içine alınır. - M molekülü enerji harcanarak, enzim ve taşıyıcı proteinler yardımıyla hücre içine alınır. Bu gözlemlere dayanarak, hücre zarından K, L ve M maddelerinin geçişleri ile ilgili I. K molekülünün hücre içine alınmasında taşıyıcı proteinler görev yapmaktadır. II. L mol",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p22|q12",
+   "page": 22,
+   "n": 12,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    511.5
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "12. Seçici geçirgen zarla ayrılmış cam bir kaptaki Y ve Z bölümlerine farklı derişimde sükroz çözeltileri konularak aşağıdaki deney düzeneği hazırlanmıştır. Bir süre sonra cam kabın Y bölümündeki sıvı seviyesinin azaldığı, Z bölümündeki sıvı seviyesinin ise arttığı gözlenmiştir. Seçici geçirgen zar Seçici geçirgen zar Y bölümü Z bölümü Y bölümü Z bölümü Sükroz Sükroz Sükroz H 2 O Sükroz H 2 O Buna göre Z bölümündeki sıvı seviyesinin yükselmesi I. sükroz moleküllerinin difüzyonla Y bölümünden Z bölümüne geçmesi, II. seçici geçirgen zarın yüzey alanının dar olması, III. Y ve Z bölümlerindeki çöz",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p22|q13",
+   "page": 22,
+   "n": 13,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    278.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "13. Hipertonik ortama bırakılan bir bitki hücresi ile ilgili I. Bir süre sonra turgor basıncı artar. II. Hücrenin emme kuvveti artar. III. Zar ile çeper arasındaki mesafe artar. ifadelerinden hangileri söylenebilir? A) Yalnız I B) Yalnız II C) Yalnız III D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p22|q14",
+   "page": 22,
+   "n": 14,
+   "bbox": [
+    281.7,
+    362.0,
+    532.8,
+    610.0
+   ],
+   "num": [
+    287.7,
+    362.4,
+    300.0,
+    376.2
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "14. Özdeş üç hayvan hücresi, yoğunlukları bilinmeyen K, L ve M kaplarındaki çözeltilere bırakılmış ve bir süre sonra aşağıdaki durumlar gözlenmiştir: - K kabındaki hücrede değişiklik olmamıştır. - L kabındaki hücrenin osmotik basıncı artmıştır. - M kabındaki hücrede su miktarı artmıştır. Buna göre, K, L ve M kaplarındaki çözeltilerin başlangıçtaki madde yoğunluklarının çoktan aza doğru sıralanışı aşağıdakilerden hangisinde doğru verilmiştir? A) K > L > M B) L > K > M C) L > M > K D) M > K > L E) K > M > L",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p23|q15",
+   "page": 23,
+   "n": 15,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    265.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "15. Hücre içi glikoz derişimi %6 olan bir hücre, %3’lük glikoz çözeltisi içeren bir ortama bırakılarak bekletilmiştir. Bir süre sonra incelenen hücrenin glikoz yoğunluğunun arttığı tespit edilmiştir. Buna göre bu hücre ile ilgili I. İzotonik çözeltide bekletilmiştir. II. Osmotik basıncı artmıştır. III. Glikozu aktif taşıma ile hücre içine almıştır. ifadelerinden hangileri söylenemez? A) Yalnız I B) Yalnız II C) Yalnız III D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p23|q16",
+   "page": 23,
+   "n": 16,
+   "bbox": [
+    30.0,
+    309.9,
+    272.4,
+    671.9
+   ],
+   "num": [
+    36.0,
+    308.7,
+    48.3,
+    322.4
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "16. K molekülünün hücre zarından geçişi aşağıda şematize edilmiştir. Yoğun Hücre dışı Taşıyıcı Protein Hücre içi Buna göre K molekülünün hücre zarından geçişi ile ilgili I. Taşıma sırasında hücre zar yüzeyi küçülür. II. Çok yoğun ortamdan az yoğun ortama doğru geçiş yapar. III. Aktif taşıma olayı ile hücre dışına verilir. ifadelerinden hangileri kesinlikle doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) II ve III E) I, II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p23|q17",
+   "page": 23,
+   "n": 17,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    378.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "17. Hücrede üretilen bazı salgıların ve atık maddelerin hücre dışına verilmesi aşağıdaki görselde verilmiştir. Salgılar ve atıklar Hücre dışı Hücre zarı 3 2 Hücre içi 1 Hücre zarında gerçekleşen bu taşıma yöntemi ile ilgili aşağıdakilerden hangisi doğrudur? A) Hücre içi ve dışı arasındaki yoğunluk farkı önemlidir. B) Enzim kullanılır ve ATP harcanır. C) Taşıma çift yönlü gerçekleşir. D) Bitki ve mantar hücrelerinde gerçekleşmez. E) Hücre zarının yüzey alanı küçülür.",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p23|q18",
+   "page": 23,
+   "n": 18,
+   "bbox": [
+    281.7,
+    442.5,
+    532.8,
+    629.0
+   ],
+   "num": [
+    287.7,
+    441.4,
+    300.0,
+    455.2
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "18. Pinositoz yapabilen bir hücre ile ilgili I. Ökaryot hücre yapısına sahiptir. II. Enerji üretimi gerçekleştirir. III. Hücre içi sindirim yapabilir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p24|q19",
+   "page": 24,
+   "n": 19,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    394.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "19. Bazı besin moleküllerinin hücre içine alınma yöntemi aşağıdaki görselde verilmiştir. Hücre dışı Besin molekülleri Hücre zarı 1 2 3 Hücre içi Besin kofulu Bu taşıma yöntemi ile ilgili I. Prokaryot hücrelerde görülmez. II. Derişim farkına bağlı olarak gerçekleşir. III. Hücre zarının yüzey alanında küçülmeye neden olur. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p24|q20",
+   "page": 24,
+   "n": 20,
+   "bbox": [
+    30.0,
+    479.3,
+    272.4,
+    664.3
+   ],
+   "num": [
+    36.0,
+    478.2,
+    48.3,
+    492.0
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "20. Bilimsel yöntem süreçleri ile ilgili aşağıdakilerden hangisi yanlıştır? A) Hipotez, gözleme ve veriye dayanan geçici çözüm yoludur. B) Gözlem, bilimsel araştırmalarda veri toplamanın ilk adımıdır. C) Nitel gözlem, ölçme araçları kullanılmadan sadece duyu organları ile yapılır. D) Kontrollü deneyde etkisi araştırılan değişkene bağımlı değişken denir. E) Gerçek, herkesin kabul ettiği ve aynı koşullarda aynı sonucu veren gözlemlerdir.",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p24|q21",
+   "page": 24,
+   "n": 21,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    309.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "21. Karadeniz kıyılarında son yıllarda artan alg çoğalmasıyla ilgili araştırmalar yapan bilim insanları, tarım alanlarına ait gübrelerdeki azot ve fosforun denize ulaşması, bazı mikroorganizmaların özellikle mikroalglerin aşırı çoğalmasına ve alg patlamaları yaşanmasına yol açar, şeklinde bir hipotez geliştirmişlerdir. Bu hipoteze dayanarak araştırmalarını sürdürmektedirler. Bilim insanlarının bu aşamadan sonra bilimsel yöntemin hangi basamağına geçmeleri beklenir? A) Tahmin yapma B) Gözlem yapma C) Problemi belirleme D)Teori oluşturma E) Veri toplama",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p24|q22",
+   "page": 24,
+   "n": 22,
+   "bbox": [
+    281.7,
+    333.2,
+    532.8,
+    706.6
+   ],
+   "num": [
+    287.7,
+    331.9,
+    300.0,
+    345.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": "",
+   "osym": "",
+   "text": "22. Bir biyolog, bir göldeki belirli bir balık türü sayısının son yıllarda azaldığını gözlemlemiş ve “Balık sayısındaki azalmanın nedeni göldeki su sıcaklığının artmasıdır.” şeklinde bir hipotez kurmuştur. Bu hipotezi test etmek amacıyla, laboratuvar ortamında aynı tür balıkların bulunduğu iki akvaryum hazırlanmıştır. Akvaryumların birinde (deney grubu) su sıcaklığı belirli bir miktar artırılmış, diğerinde (kontrol grubu) ise normal göl sıcaklığı sabit tutulmuştur. Diğer tüm şartlar (yem miktarı, ışık süresi, suyun oksijen seviyesi vb.) her iki akvaryum için aynı tutulmuştur. Deney süresi sonu",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p25|q1",
+   "page": 25,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    474.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. Bir grup bilim insanı, görseldeki mercan resifleri özelinde su altı yaşamını ve canlı çeşitliliğini anlamaya çalışmaktadır. Bu çerçevede mercan resiflerinde bulunan canlıları ayrı ayrı incelemek için sınıflandırma çalışmaları başlatmıştır. Buna göre bilim insanlarının görseldeki canlıları sınıflandırmasının temel amacı aşağıdakilerden hangisi olamaz? A) Mercan resifindeki türleri birbirinden ayırt edebilecek düzenli bir sistem oluşturmak B) Mercan resiflerindeki çeşitliliği ve bunun dünya üzerindeki dağılımını anlamak C) Mercan resiflerinin ekolojik ve ekonomik kaynaklarını tespit etmek D) ",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p25|q2",
+   "page": 25,
+   "n": 2,
+   "bbox": [
+    30.0,
+    518.0,
+    272.4,
+    667.1
+   ],
+   "num": [
+    36.0,
+    516.9,
+    43.7,
+    530.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. Biyolojik tür kavramına göre iki canlının aynı türe ait olduğunu belirlemede aşağıdaki kriterlerden hangisi esas alınır? A) Aynı bölgede yaşamaları B) Benzer büyüklükte olmaları C) Beslenme alışkanlıklarının benzemesi D) Aynı kromozom sayısına sahip olmaları E) Çiftleşerek verimli (döl verebilen) yavrular oluşturabilmeleri",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p25|q3",
+   "page": 25,
+   "n": 3,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    277.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": " (ek)",
+   "osym": "",
+   "text": "3. Filogenetik sınıflandırma sistemi, canlılar arasındaki benzerlik ve farklılıkları belirlemek amacıyla DNA dizilimleri, protein benzerlikleri gibi verileri kullanır. Buna göre I. Canlıların moleküler verileri dikkate alınır. II. Birden fazla bilimsel kanıt birlikte değerlendirilir. III. Sınıflandırmada temel kriter dış görünüş ve yaşadıkları ortamdır. ifadelerinden hangileri filogenetik sınıflandırma için söylenebilir? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p25|q4",
+   "page": 25,
+   "n": 4,
+   "bbox": [
+    281.7,
+    311.3,
+    532.8,
+    720.5
+   ],
+   "num": [
+    287.7,
+    310.2,
+    295.4,
+    323.9
+   ],
+   "topic": "TYT TARAMA TESTİ-3",
+   "level": " (ek)",
+   "osym": "",
+   "text": "4. Memeli sınıfında bulunan bazı türlerin sınıflandırma basamakları aşağıdaki tabloda gösterilmiştir. Tür Sınıf Takım Familya Yunus Delphinus Mammalia Cetacea Delphinidae delphis Kedi Mammalia Carnivora Felidae Felis catus Leopar Panthera Mammalia Carnivora Felidae pardus Şempanze Pan Mammalia Primates Hominidae troglodytes İnsan Homo Mammalia Primates Hominidae sapiens Tabloda sistematik özellikleri verilen türler ile ilgili aşağıdakilerden hangisi yanlıştır? A) Yunus, diğer türlerle aynı sınıf kategorisini paylaşır. B) İnsan ile şempanzenin protein benzerliği, şempanze ile leopardan daha faz",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p26|q5",
+   "page": 26,
+   "n": 5,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    205.1
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "5. Aşağıdaki özelliklerden hangisi bakteriler ve arkelerde ortaktır? A) Metan gazı üretme B) Endospor oluşturabilme C) Hastalık yapıcı türler bulundurma D) Halkasal yapıda genetik materyale sahip olma E) Peptidoglikan yapıda hücre duvarına sahip olma",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p26|q6",
+   "page": 26,
+   "n": 6,
+   "bbox": [
+    30.0,
+    310.5,
+    272.4,
+    622.2
+   ],
+   "num": [
+    36.0,
+    309.4,
+    43.7,
+    323.2
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "6. Canlılar, hücre yapılarına göre prokaryot ve ökaryot olarak incelenir. Bakteriler, prokaryotik organizmaları içerirken, protistler ökaryotik organizmalardan oluşur. Bu iki grup arasında hücresel yapı, organel çeşitliliği ve genetik materyal organizasyonu açısından önemli farklılıklar bulunur. Bakteriler ve protistler ile ilgili aşağıdakilerden hangisi yanlıştır? A) Bakterilerin genetik materyali çekirdek zarı ile çevrili değilken protistler belirgin bir çekirdeğe sahiptir. B) Protistlerde DNA, histon proteinleri ile paketlenmiş kromozomlar oluşturmazken, bakterilerin DNA'sı histonlarla yoğu",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p26|q7",
+   "page": 26,
+   "n": 7,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    326.6
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "7. Amip: Yalancı ayaklarıyla hareket eder, tatlı suda yaşar ve fagositozla beslenebilir. Paramesyum: Sillerini kullanarak hareket eder, zarlı organeller taşır, kontraktil koful ile hücredeki su miktarını ayarlar. Öglena: Kamçısıyla hareket eder, kloroplastlara sahiptir, ototrof ya da heterotrof beslenebilir. Protista âleminde incelenen ve bazı özellikleri verilen üç farklı canlı ile ilgili aşağıdakilerden hangisi yanlıştır? A) Hareket için özelleşmiş farklı yapılar kullanırlar. B) Yalnızca öglena fotosentez yapabilir. C) Paramesyum zarla çevrili çekirdek bulundurur. D) Amip hücre içi sindirim ",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p26|q8",
+   "page": 26,
+   "n": 8,
+   "bbox": [
+    281.7,
+    391.2,
+    532.8,
+    668.6
+   ],
+   "num": [
+    287.7,
+    389.9,
+    295.4,
+    403.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "8. Bir çevre bilimci, köknar ağaçlarıyla ilgili “Fotosentezle organik madde üreterek besin zincirinin temelini oluşturur. Atmosferdeki oksijen ve karbondioksit dengesini düzenler, erozyonu önler ve sera etkisine karşı karbon yutağı görevi görür. Aynı zamanda kerestesiyle inşaat sektörüne; reçinesiyle ilaç endüstrisine katkı sağlar.” şeklinde açıklamalarda bulunmuştur. Bu bilgiden yola çıkarak bitkilerin biyolojik ve ekonomik önemiyle ilgili aşağıdakilerden hangisine ulaşılamaz? A) Üretilen organik bileşikler heterotrof canlılar için besin kaynağıdır. B) Fotosentez yaparak atmosferdeki karbondi",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p27|q9",
+   "page": 27,
+   "n": 9,
+   "bbox": [
+    30.0,
+    78.6,
+    272.4,
+    321.5
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "9. Öğretmen öğrencilerine bitki adaptasyonlarıyla ilgili kaktüslerin su kaybını önlemek için yapraklarının diken şeklini aldığını, ökse otu gibi bitkilerin kök yerine özel yapılar geliştirerek konak bitkiden su ve mineral aldığını, kendi besinini kendisinin ürettiğini örnek vermiştir. Buna göre öğrenciler aşağıdaki çıkarımlardan hangisini yapabilir? A) Parazit bitkiler klorofil içermediği için fotosentez yapamaz. B) Kaktüslerin yapraklarının diken şeklini alması terlemeyi artırır. C) Ökse otu, yarı parazit bir bitkidir. D) Bitki adaptasyonları sadece su kaybını önlemeye yöneliktir. E) Tam para",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p27|q10",
+   "page": 27,
+   "n": 10,
+   "bbox": [
+    30.0,
+    386.2,
+    272.4,
+    663.6
+   ],
+   "num": [
+    36.0,
+    384.9,
+    48.3,
+    398.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "10. Amazon yağmur ormanlarında araştırma yapan bir botanikçi; geniş yapraklı bitkilerin fotosentez verimliliğine olumlu katkı sağladığını, bu bitkilerin yapraklarında bol miktarda kloroplast bulunduğunu ve atmosfere önemli miktarda oksijen verdiğini gözlemliyor. Aynı zamanda bu bitkilerin köklerinde nişasta depoları olduğunu tespit ediyor. Buna göre aşağıdaki yorumlardan hangisi yapılamaz? A) Geniş yapraklar, daha fazla güneş ışığı emerek fotosentez verimini artırır. B) Bitkilerin ürettiği oksijen, oksijenli solunum yapan canlılar için hayati öneme sahiptir. C) Köklerde depolanan nişasta, bitk",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p27|q11",
+   "page": 27,
+   "n": 11,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    265.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "11. Bitkilerin genel özellikleri ile ilgili aşağıdakilerden hangisi yanlıştır? A) Fotosentez yaparak kendi besinini üreten canlılardır. B) Gelişmiş organizasyona sahip, ökaryot çok hücreli canlılardır. C) Güneş ışığını soğurarak kimyasal enerjiye dönüştürürler. D) Kök hücreleri organik besin ihtiyacını kemosentez yaparak karşılar. E) Kök, gövde gibi organlarda glikozu nişasta şeklinde depo edebilirler.",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p27|q12",
+   "page": 27,
+   "n": 12,
+   "bbox": [
+    281.7,
+    309.0,
+    532.8,
+    494.1
+   ],
+   "num": [
+    287.7,
+    307.9,
+    301.2,
+    321.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "12. Mantarlarla ilgili aşağıdakilerden hangisi yanlıştır? A) Tüm mantarlar çok hücreli olup hif ve miselyum yapılarına sahiptir. B) Hücre duvarları kitin yapılıdır, depo polisakkaritleri glikojendir. C) Ayrıştırıcı mantarlar organik maddeleri inorganik maddelere dönüştürür. D) Alglerle liken, bitki kökleriyle mikoriza birliktelikleri oluşturabilirler. E) Eşeyli ve eşeysiz üremenin birbirini takip ettiği özel bir üreme şekli görülür.",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p27|q13",
+   "page": 27,
+   "n": 13,
+   "bbox": [
+    281.7,
+    535.1,
+    532.8,
+    696.2
+   ],
+   "num": [
+    287.7,
+    534.0,
+    301.3,
+    547.8
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "13. Mantarlar alemiyle ilgili aşağıdakilerden hangisi doğrudur? A) Tüm mantarlar fotosentez yaparak kendi besinini üretir. B) Parazit mantarlar konak canlıya zarar vermeden yaşar. C) Maya mantarları tomurcuklanma ile çoğalır. D) Mantarların kök, gövde ve yaprak gibi organları bulunur. E) Liken birliğinde mantar, alge zarar verir.",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p28|q14",
+   "page": 28,
+   "n": 14,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    356.3
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "14. Biyoloji laboratuvarda öğrenciler farklı canlı gruplarını incelemektedir. Toprak solucanı örneğini inceleyen öğrencilerin sundukları raporda şu bilgiler yer almaktadır. • Mikroskopta halka yapıları ayrıntılı incelenerek hücre duvarının olmadığı gözlemlendi. • Hareket edebildiği ve sindirim sistemine sahip olduğu tespit edildi. • Oksijenli solunum yaptığı deneylerle kanıtlandı. • Her iki eşey organına sahip olduğu gözlemlendi. Buna göre toprak solucanıyla ilgili aşağıdakilerden hangisi yanlıştır? A) Kendi kendini dölleyebilir. B) Açık kan dolaşımı görülür. C) Heterotrof beslenir. D) Aktif h",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p28|q15",
+   "page": 28,
+   "n": 15,
+   "bbox": [
+    30.0,
+    441.2,
+    272.4,
+    590.3
+   ],
+   "num": [
+    36.0,
+    440.1,
+    50.3,
+    453.9
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "15. Aşağıdaki özelliklerden hangisi tüm omurgasız canlılar için ortak ve tanımlayıcı bir özelliktir? A) Vücut yapısını destekleyen bir omurgaya sahip olmaması B) Sinir şeritlerinin vücudun sırt kısmında yer alması C) Vücutlarının dış kısmında sert bir dış iskelet bu lundurması D) Açık dolaşım sisteminin görülmesi E) Tamamının suda yaşıyor olması",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p28|q16",
+   "page": 28,
+   "n": 16,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    217.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.2,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "16. Memeliler sınıfına ait aşağıdaki özelliklerden hangisi tüm türlerde ortak değildir? A) Dişilerde yavrularını sütle besleme B) Kaslı diyaframa sahip olma C) Embriyonun beslenmesini sağlayan plasenta bu lundurma D) Akciğerlerde alveol bulundurma E) Alyuvarlarında oksijen taşıma",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p28|q17",
+   "page": 28,
+   "n": 17,
+   "bbox": [
+    281.7,
+    281.5,
+    532.8,
+    406.6
+   ],
+   "num": [
+    287.7,
+    280.4,
+    301.6,
+    294.2
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "17. Aşağıdaki özelliklerden hangisi sadece kuşlara özgüdür? A) Tüy bulundurma B) Akciğer solunumu yapma C) Dört odacıklı kalp bulundurma D) Gaga bulundurma E) Uçabilme",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p28|q18",
+   "page": 28,
+   "n": 18,
+   "bbox": [
+    281.7,
+    491.3,
+    532.8,
+    616.6
+   ],
+   "num": [
+    287.7,
+    490.4,
+    302.2,
+    504.1
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "18. Protista âlemindeki canlıların tamamında aşağı dakilerden hangisi ortaktır? A) Tek hücreli olma B) Işık enerjisi ile besin sentezleme C) Aktif olarak yer değiştirebilme D) Ökaryot hücre yapısına sahip olma E) Tatlı suda yaşama",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p29|q19",
+   "page": 29,
+   "n": 19,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    221.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    50.1,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "19. Mantarlara ait I. saprotrof olma, II. glikojen depolama, III. sporla üreme özelliklerinden hangileri bitkiler ve hayvanlar âleminde görülmez? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p29|q20",
+   "page": 29,
+   "n": 20,
+   "bbox": [
+    30.0,
+    306.3,
+    272.4,
+    431.3
+   ],
+   "num": [
+    36.0,
+    305.2,
+    50.0,
+    318.9
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "20. Aşağıda verilen özelliklerden hangisi sürüngen, kuş ve memeliler için ortak değildir? A) İç iskelete sahip olma B) İç döllenme ile çoğalma C) Böbreklerle boşaltım yapma D) Kapalı dolaşım sistemine sahip olma E) Akciğerlerinde hava keseleri bulundurma",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p29|q21",
+   "page": 29,
+   "n": 21,
+   "bbox": [
+    30.0,
+    516.2,
+    272.4,
+    641.3
+   ],
+   "num": [
+    36.0,
+    515.1,
+    49.2,
+    528.9
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "21. Köpek balıkları ile ilgili aşağıdakilerden hangisi yanlıştır? A) Omurgalı canlılardır. B) Solungaç solunumu yaparlar. C) Kalpleri iki odacıklıdır. D) Kalplerinde temiz ve kirli kan birbirine karışır. E) Kıkırdaktan yapılmış bir iç iskelete sahiptirler.",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p29|q22",
+   "page": 29,
+   "n": 22,
+   "bbox": [
+    281.7,
+    78.5,
+    532.8,
+    229.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.5,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "22. İki yaşamlılar (amfibiler) ile ilgili aşağıdakilerden hangisi doğrudur? A) Yavru bakımı görülür. B) Kış uykusuna yatmazlar. C) Larva dönemindeki boşaltım atığı üredir. D) Döllenme ve gelişim her zaman karasal ortamda gerçekleşir. E) Ergin dönemde akciğer ve deri solunumu görülür.",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p29|q23",
+   "page": 29,
+   "n": 23,
+   "bbox": [
+    281.7,
+    293.5,
+    532.8,
+    418.5
+   ],
+   "num": [
+    287.7,
+    292.4,
+    302.3,
+    306.2
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "23. Aşağıdakilerden hangisi kuşlarda uçmayı kolaylaştıran adaptasyonlar arasında yer almaz? A) Kapalı dolaşım sistemine sahip olmaları B) Ön üyelerin kanatlara dönüşmüş olması C) Uzun kemiklerin içinde hava odalarının bulunması D) Akciğerlere bağlı hava keselerinin bulunması E) Derilerinin tüy ve teleklerle kaplı olması",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p29|q24",
+   "page": 29,
+   "n": 24,
+   "bbox": [
+    281.7,
+    483.0,
+    532.8,
+    681.4
+   ],
+   "num": [
+    287.7,
+    481.9,
+    301.2,
+    495.6
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "24. Omurgalı hayvanların tümünde I. sırt kısmında sinir şeridi taşıma, II. solunum gazlarını taşıyan hemoglobine sahip olma, III. akciğerlere bağlı hava kesesi bulundurma özelliklerinden hangileri ortaktır? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p30|q25",
+   "page": 30,
+   "n": 25,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    278.5
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "25. Bitkilere ait I. çiçek, II. damarlı yaprak, III. çok yıllık odunsu gövde yapılarından hangileri açık ve kapalı tohumlu bitkilerde ortak olarak bulunabilir? A) Yalnız I B) Yalnız II C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p30|q26",
+   "page": 30,
+   "n": 26,
+   "bbox": [
+    30.0,
+    404.4,
+    272.4,
+    603.0
+   ],
+   "num": [
+    36.0,
+    403.5,
+    49.8,
+    417.2
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "26. Bitkiler âleminde yer alan I. kara yosunu, II. eğrelti otu, III. çam ağacı canlılarından hangileri damarlı ve tohumsuz bitkilere örnektir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p30|q27",
+   "page": 30,
+   "n": 27,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    237.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "27. Platipus (Ornitorenk), memeli olmasına rağmen yumurtlayarak çoğalır. Platipus'a ait aşağıdaki özelliklerden hangisi keseli ve plasentalı memelilerle ortak değildir? A) Gagaya sahip olma B) Vücudunda kıl bulunma C) Akciğer solunumu yapma D) İç döllenme görülme E) Sabit vücut ısısına sahip olma",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p30|q28",
+   "page": 30,
+   "n": 28,
+   "bbox": [
+    281.7,
+    384.0,
+    532.8,
+    570.5
+   ],
+   "num": [
+    287.7,
+    383.0,
+    301.4,
+    396.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": "",
+   "osym": "",
+   "text": "28. Sürüngenler sınıfında yer alan canlıların I. kirli ve temiz kanın kalpte karışması, II. vücut ısısının değişken olması, III. yumurtlayarak çoğalmaları özelliklerinden hangileri kuşlarda yoktur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p31|q1",
+   "page": 31,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    265.1
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. Aşağıdakilerden hangisi çok hücreli organizmalarda hücre bölünmesinin doğrudan gerekliliği veya sonucu olarak kabul edilemez? A) Büyüme ve gelişme sırasında yeni hücrelerin oluşması B) Hasar gören dokuların onarılması C) Genetik çeşitliliğin artırılarak türün adaptasyon yeteneğinin artması D) Hücrenin yüzey - hacim oranını dengeleyerek madde alışverişini sürdürebilmesi E) Hücredeki metabolik faaliyetler üzerinde çekirde ğin kontrol gücünün artması",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p31|q2",
+   "page": 31,
+   "n": 2,
+   "bbox": [
+    30.0,
+    309.0,
+    272.4,
+    458.1
+   ],
+   "num": [
+    36.0,
+    307.9,
+    43.7,
+    321.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. Kanserli bir dokudan alınan hücrelerdeki kromozom sayısı veya yapısındaki farklılıkları belirlemek amacıyla öncelikli olarak aşağıdaki yöntemlerden hangisi kullanılır? A) Enerji üretim hızını ölçme B) Hücre zarının yapısını inceleme C) Hücrenin karyotip analizini çıkarma D) Hücredeki su miktarını belirleme E) Sitoplazmadaki protein çeşitlerini belirleme",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p31|q3",
+   "page": 31,
+   "n": 3,
+   "bbox": [
+    30.0,
+    502.0,
+    272.4,
+    691.1
+   ],
+   "num": [
+    36.0,
+    500.9,
+    43.7,
+    514.6
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "3. Hücre döngüsündeki kontrol noktaları ile ilgili I. G 1 kontrol noktasında metabolik anormallik olsa bile hücre bölünme büyüklüğüne ulaşmışsa S evresi başlar. II. M kontrol noktasında kromozomlardan herhangi biri iğ ipliklerine tutunmazsa mitozdaki hücre “Dur” sinyali alır. III. G 2 kontrol noktasında DNA eşlenirken hata veya hasar oluşmuşsa “Dur” sinyali verilir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p31|q4",
+   "page": 31,
+   "n": 4,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    290.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "4. Hücre döngüsü ile ilgili I. İnterfazın S evresinde DNA miktarı iki katına çıkarken kromozom sayısı aynı kalır. II. Anafaz evresinde kardeş kromatitler birbirinden ayrılarak kutuplara doğru çekilir. III. İğ iplikleri telofaz evresinde kaybolur. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p31|q5",
+   "page": 31,
+   "n": 5,
+   "bbox": [
+    281.7,
+    428.5,
+    532.8,
+    577.3
+   ],
+   "num": [
+    287.7,
+    427.5,
+    295.4,
+    441.2
+   ],
+   "topic": "TYT TARAMA TESTİ-4",
+   "level": " (ek)",
+   "osym": "",
+   "text": "5. 2n = 14 kromozomlu bir hücrede, interfaz evresi nin sonunda 2X pg olarak ölçülen DNA miktarının mitoz evrelerine göre değişimi aşağıdakilerden hangisinde doğru verilmiştir? (pg: pikogram) Profaz Metafaz Anafaz Telofaz A) X X X 2X B) 2X 2X 2X 2X C) X 2X 2X X D) X X 2X 2X E) 2X 2X X X",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p32|q6",
+   "page": 32,
+   "n": 6,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    511.5
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "6. Bir hayvan hücresinde mitoza ait bazı evreler aşağıda verilmiştir. Y X Z Bu evrelerle ilgili I. X evresi metafazdır ve İğ iplikleri kromozomların kinetokor bölgesine bağlıdır. II. Y evresinde hücre ata hücreyle aynı kromozom sayısına sahiptir. III. Z evresi telofazdır ve hücre iki çekirdeklidir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p32|q7",
+   "page": 32,
+   "n": 7,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    302.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "7. Mitozun anafaz evresinde 24 kromozom sayılan bir hayvan hücresi için I. Profazda 12 kromatit bulunur. II. Sitokinez sonrası oluşan her bir hücrede 12 kro mozom vardır. III. Metafazda hücrenin ekvatoral düzlemine tek sıra halinde dizilmiş 12 kromozom bulunur. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p32|q8",
+   "page": 32,
+   "n": 8,
+   "bbox": [
+    281.7,
+    428.5,
+    532.8,
+    575.7
+   ],
+   "num": [
+    287.7,
+    427.5,
+    295.4,
+    441.2
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "8. Aşağıdakilerden hangisi eşeysiz üremenin canlılara sağladığı avantajlardan biri değildir? A) Kısa sürede çok sayıda birey oluşturma B) Genetik çeşitliliği artırarak adaptasyon yeteneğini yükseltme C) Eş bulma zorunluluğunu ortadan kaldırma D) Enerji ve kaynak tasarrufu sağlama E) Tek bir bireyden yeni canlıların üreyebilmesine olanak tanıma",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p33|q9",
+   "page": 33,
+   "n": 9,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    436.0
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "9. Vejetatif üremeye ait bazı özellikler aşağıda verilmiştir. • Tek bir ana bitkiden çok sayıda yeni bitkinin elde edilmesine olanak tanır. • Ana bitkiyle aynı genetik özelliklere sahip yeni bitkiler oluşur. • Tohumla üretilmesi zaman alan bitkilerin kısa sürede yetiştirilmesini sağlar. Bitkilerin çoğaltılmasında vejetatif üremenin tercih edilmesi I. istenilen özelliklere sahip bitkilerin elde edilebilmesi II. ticari değeri yüksek olan bitkilerden çok sayıda üretim yapılabilmesi, III. değişen çevresel koşullara uyum yeteneği yüksek bitkilerin oluşturulabilmesi, nedenlerinden hangileriyle açıkl",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p33|q10",
+   "page": 33,
+   "n": 10,
+   "bbox": [
+    30.0,
+    500.5,
+    272.4,
+    687.0
+   ],
+   "num": [
+    36.0,
+    499.5,
+    50.5,
+    513.2
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "10. Partenogenezle oluşan arıların üreme sürecinde I. genetik çeşitlilik, II. hücre farklılaşması, III. mitoz olaylarından hangileri gerçekleşebilir? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p33|q11",
+   "page": 33,
+   "n": 11,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    241.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    302.6,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "11. Rejenerasyonla ilgili aşağıdakilerden hangisi yanlıştır? A) Kaybedilen organizma parçalarının yeniden oluş masını sağlar. B) Basit yapılı canlılarda gelişmiş yapılı canlılara göre daha sık görülür. C) Hücre bölünmesi ve farklılaşması süreçlerini içerir. D) Her canlı türünde aynı düzeyde gerçekleşir. E) Bazı durumlarda eşeysiz üreme çeşidi olarak iş lev görebilir.",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p33|q12",
+   "page": 33,
+   "n": 12,
+   "bbox": [
+    281.7,
+    387.5,
+    532.8,
+    598.0
+   ],
+   "num": [
+    287.7,
+    386.4,
+    302.9,
+    400.2
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "12. Bira mayasından tomurcuklanmayla oluşan yeni bir bireyle ilgili I. Ana canlıdan ayrılırsa yaşayamaz. II. Ana canlıyla aynı genetik bilgiye sahiptir. III. Ana canlının vücudunda oluşan bir çıkıntının ge lişmesiyle oluşur. ifadelerinden hangileri yanlıştır? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p34|q13",
+   "page": 34,
+   "n": 13,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    265.1
+   ],
+   "num": [
+    36.0,
+    79.0,
+    50.6,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "13. Hayvansal bir hücrede gerçekleşen hücre döngüsüyle ilgili aşağıdakilerden hangisi yanlıştır? A) G 1 evresinde hücrenin hacimsel olarak büyümesi gerçekleşir. B) S evresinde DNA eşlenerek miktarı iki katına çıkar. C) Profazda iğ ipliklerinin organizasyonunu sentriyoller gerçekleştirir. D) G 2 kontrol noktasında genetik hata varsa “devam et” sinyali verilir. E) Anafazda kardeş kromatitler zıt kutuplara çekilir.",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p34|q14",
+   "page": 34,
+   "n": 14,
+   "bbox": [
+    30.0,
+    391.0,
+    272.4,
+    619.1
+   ],
+   "num": [
+    36.0,
+    389.9,
+    51.5,
+    403.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "14. Mitozda I. kardeş kromatitlerin zıt kutuplara çekilmesi, II. iğ ipliklerinin kinetokor bölgelerine tutunması, III. kromozomların ekvatoral düzlemde yan yana dizilmesi, IV. çekirdek zarının oluşması olaylarının gerçekleşme sırası aşağıdakilerden hangisinde doğru verilmiştir? A) IV-II-III-I B) II-III-I-IV C) II-I-III-IV D) IV-III-I-II E) III-II-I-IV",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p34|q15",
+   "page": 34,
+   "n": 15,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    382.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "15. Aşağıda bir bitki hücresinin mitozuna ait bir evre şematize edilmiştir. Buna göre I. Hücre metafaz evresindedir. II. Diploit dört kromozomlu bir hücre olabilir. III. Anafaz evresinde sekiz kromozom gözlenir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p34|q16",
+   "page": 34,
+   "n": 16,
+   "bbox": [
+    281.7,
+    426.3,
+    532.8,
+    676.2
+   ],
+   "num": [
+    287.7,
+    425.2,
+    300.0,
+    438.9
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "16. Bir hücrede gerçekleşen mitoza ait farklı evreler aşağıda şematize edilmiştir. Buna göre bu evrelerin gerçekleşme sırası aşağıdakilerden hangisinde doğru verilmiştir? A) I-II-III-IV B) II-I-IV-III C) II-I-III-IV D) IV-III-I-II E) I-II-IV-III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p35|q17",
+   "page": 35,
+   "n": 17,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    265.1
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.1,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "17. Bal arılarında gerçekleşen üremeyle ilgili aşağıdakilerden hangisi yanlıştır? A) Erkek arılar kalıtsal özelliklerini sadece kraliçe arıdan alırlar. B) Erkek arıların genetik özellikleri birbirlerinden farklılıklar gösterebilir. C) Bal arılarında hem eşeyli hem de eşeysiz üreme ile yeni bireyler oluşmaktadır. D) Döllenme sonucu oluşan embriyoların cinsiyetini tükettikleri besinin çeşidi belirler. E) Bir erkek arının oluşturduğu spermlerin DNA nükleotit dizilimi ve sayıları aynıdır.",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p35|q18",
+   "page": 35,
+   "n": 18,
+   "bbox": [
+    30.0,
+    411.5,
+    272.4,
+    596.6
+   ],
+   "num": [
+    36.0,
+    410.4,
+    49.9,
+    424.2
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "18. Farklı canlılarda gerçekleşen aşağıdaki olaylardan hangisinde mitoz evreleri gerçekleşmez? A) Hidranın ikiye bölünmesiyle oluşan parçalardan yeni bireylerin gelişmesi B) Nitrat bakterisinin bölünerek üremesi C) Toprağa ekilen fasulye tohumunun çimlenerek yeni bir bitkiyi oluşturması D) Toplu iğne ile uyarılan kurbağa yumurtasından bir kurbağa embriyosunun gelişmesi E) İnsanlarda sperm ve yumurtanın döllenmesiyle oluşan zigottan yetişkin bir bireyin oluşması",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p35|q19",
+   "page": 35,
+   "n": 19,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    265.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.6,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "19. Farklı canlılarda gerçekleşen aşağıdaki olaylardan hangisi rejenerasyonla üremeye örnektir? A) Midede aşınan ve zarar gören dokunun yenilenmesi B) Semenderin kopan ön kolunun yerine yeni bir ön kol oluşturması C) Yengecin zarar gören çenesini onarması D) Kertenkelenin kopan kuyruğunun yerine yeni bir kuyruk meydana getirmesi E) Denizyıldızının merkezi diskten pay alınarak koparılan kolundan yeni bir bireyin gelişmesi",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p35|q20",
+   "page": 35,
+   "n": 20,
+   "bbox": [
+    281.7,
+    391.0,
+    532.8,
+    601.5
+   ],
+   "num": [
+    287.7,
+    389.9,
+    301.3,
+    403.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "20. Bir canlının mitozla oluşturduğu iki yeni hücrenin I. organel sayısı, II. çekirdeklerindeki gen çeşidi, III. çekirdeklerindeki gen sayısı niceliklerinden hangilerinde farklılık olması beklenir? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p36|q21",
+   "page": 36,
+   "n": 21,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    326.5
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.6,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "21. Gelişmiş yapılı bitkiler ile hayvanlarda gözlenen hücre döngüsünde I. sitokinezin gerçekleşmesini sağlayacak ara lamelin oluşumu, II. kromozomların ekvatoral düzlemde yan yana dizilmesi, III. kinetokorlarından iğ ipliklerine tutunan kardeş kromatitlerin zıt kutuplara çekilmesi olaylarından hangileri ortak olarak gerçekleşmez? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p36|q22",
+   "page": 36,
+   "n": 22,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    253.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": "",
+   "osym": "",
+   "text": "22. Mitoz ile ilgili aşağıdakilerden hangisi doğrudur? A) Bölünme sonucu oluşan hücrelerin kromozom sayısı, ana hücrenin yarısı kadardır. B) Kardeş kromatitler metafaz evresinde birbirinden ayrılır. C) Çok hücreli canlıların tamamında üremeyi sağlar. D) Kromozomların mikroskopta en belirgin görüldüğü evre profazdır. E) Anafaz evresinde kromozom sayısı geçici olarak iki katına çıkar.",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p37|q1",
+   "page": 37,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    209.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. Mayoz ile ilgili I. Üreme ana hücrelerinde görülür. II. Sitokinez bir kez gerçekleşir. III. Kalıtsal çeşitlilik sağlar. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p37|q2",
+   "page": 37,
+   "n": 2,
+   "bbox": [
+    30.0,
+    232.8,
+    272.4,
+    429.8
+   ],
+   "num": [
+    36.0,
+    231.7,
+    43.7,
+    245.4
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. Eşeyli üreyen canlıların genetik özelliklerinin birbirinden farklı olmasının temel nedeni aşağıdakilerden hangisidir? A) Mayoz öncesi DNA replikasyonunun bir kez gerçekleşmesi B) Mayoz ile oluşan haploit kromozomlu (n) üreme hücrelerinin tekrar mitoz geçirmesi C) Homolog kromozomların farklı kutuplara bağımsız olarak taşınması D) Sperm ve yumurtanın sitoplazma miktarının farklı olması E) Sperm ve yumurtanın aynı sayıda kromozom taşıması",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p37|q3",
+   "page": 37,
+   "n": 3,
+   "bbox": [
+    30.0,
+    457.3,
+    272.4,
+    702.9
+   ],
+   "num": [
+    36.0,
+    456.1,
+    43.7,
+    469.9
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": " (ek)",
+   "osym": "",
+   "text": "3. Mayoza ait bir evre görselde verilmiştir. Bu evre ile ilgili I. Homolog kromozomlar birbirinden ayrılır. II. Genetik çeşitliliğin oluşmasına katkı sağlar. III. İğ ipliklerinin oluşmaya başladığı evredir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p37|q4",
+   "page": 37,
+   "n": 4,
+   "bbox": [
+    281.7,
+    73.4,
+    532.8,
+    218.3
+   ],
+   "num": [
+    287.7,
+    80.4,
+    295.4,
+    94.2
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": " (ek)",
+   "osym": "",
+   "text": "4. İnterfazın G 1 evresinde DNA miktarı 2X olan bir hücre için profaz I ve sitokinez II sonundaki DNA miktarı kaçtır? Profaz I Sitokinez II sonu A) 4X 2X B) 4X X C) 8X 2X D) 8X X E) 8X 4X",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p37|q5",
+   "page": 37,
+   "n": 5,
+   "bbox": [
+    281.7,
+    282.8,
+    532.8,
+    431.9
+   ],
+   "num": [
+    287.7,
+    281.7,
+    295.4,
+    295.5
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": " (ek)",
+   "osym": "",
+   "text": "5. Aşağıdakilerden hangisi mayoz I ve mayoz II için ortaktır? A) İğ ipliklerinin oluşması B) Homolog kromozomların ayrılması C) Kardeş kromatitlerin ekvatoral düzlemde dizilmesi D) Dört kromatitten oluşmuş tetrat adı verilen yapıların oluşması E) Homolog kromozomların kardeş olmayan kromatitleri arasında parça değişimi olması",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p37|q6",
+   "page": 37,
+   "n": 6,
+   "bbox": [
+    281.7,
+    475.7,
+    532.8,
+    674.2
+   ],
+   "num": [
+    287.7,
+    474.7,
+    295.4,
+    488.4
+   ],
+   "topic": "TYT TARAMA TESTİ-5",
+   "level": " (ek)",
+   "osym": "",
+   "text": "6. Hücre bölünmelerinde gözlenen I. tetrat oluşumu, II. sentromer bölünmesi, III. bölünme sonunda kromozom sayısının yarıya inmesi olaylarından hangileri mayoza özgüdür? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p38|q7",
+   "page": 38,
+   "n": 7,
+   "bbox": [
+    30.0,
+    78.7,
+    272.4,
+    311.0
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "7. İstiridyeler, ılıman ve sıcak denizlerde sürüler hâlinde yaşayan kabuklu hermafrodit canlılardır. İstiridyeler ile ilgili I. Kendi kendini dölleyebilir. II. Sadece eşeysiz üreyebilirler. III. Yumurta ve sperm hücrelerinin oluşumu aynı canlıda gerçekleşebilir. ifadelerinden hangileri söylenebilir? A) Yalnız II B) Yalnız III C) I ve II D) I ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p38|q8",
+   "page": 38,
+   "n": 8,
+   "bbox": [
+    30.0,
+    437.1,
+    272.4,
+    614.2
+   ],
+   "num": [
+    36.0,
+    436.0,
+    43.7,
+    449.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "8. Farklı canlılarda görülen I. Bira mayasında tomurcuklanma ile yeni bir canlının oluşması, II. Kraliçe arının döllenmemiş yumurtasından bir erkek arının gelişmesi, III. Bir bitkinin komşu bitkiden gelen polenlerle tozlaşarak tohum oluşturması üreme olaylarından hangilerinde kalıtsal çeşitlilik oluşması beklenir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p38|q9",
+   "page": 38,
+   "n": 9,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    466.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "9. Bal arılarında görülen üreme aşağıda şematize edilmiştir. Kraliçe arı Erkek arı Yumurtalar Spermler Döllenme Zigot Erkek arı İşçi arı Kraliçe arı Buna göre I. Partenogenezle oluşan erkek arılar tüm özellikle rini kraliçe arıdan alır. II. Bal arılarında kalıtsal çeşitliliği sağlayan tek olay döllenmedir. III. Zigotun, işçi ve kraliçe arılara dönüşmesi beslen me farklılığına bağlıdır. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p38|q10",
+   "page": 38,
+   "n": 10,
+   "bbox": [
+    281.7,
+    489.9,
+    532.8,
+    703.7
+   ],
+   "num": [
+    287.7,
+    488.7,
+    300.0,
+    502.4
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": "",
+   "osym": "",
+   "text": "10. Mayozda gerçekleşen bazı olaylar aşağıda verilmiştir. • Homolog kromozomların birbirinden ayrılması • Kromozomların sentromerlerinin bölünmesi • Homolog kromozomların ekvatoral düzlemde dizilmesi • Homolog kromozomların kardeş olmayan kromatitleri arasında gen alışverişi yapılması Buna göre bu olaylar ve gerçekleştiği evreler eşleştirilirse aşağıdakilerden hangisi açıkta kalır? A) Profaz I B) Metafaz I C) Anafaz I D) Anafaz II E) Metafaz II",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p39|q1",
+   "page": 39,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    301.1
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. Yeni keşfedilen bir bitki türünde çiçek rengi özelliği incelenmektedir. Bu türde kırmızı çiçekli (KK) ve beyaz çiçekli (BB) iki homozigot döl çaprazlandığında F 1 dölünün tamamında pembe renkli çiçekler (KB) oluşmaktadır. F 1 dölünde elde edilen iki pembe çiçekli bitki çaprazlandığında ise F 2 dölünde kırmızı, pembe ve beyaz çiçekli bitkiler farklı oranlarda ortaya çıkmıştır. Bu bitkideki çiçek rengi kalıtımı aşağıdaki kavramlardan hangisiyle açıklanabilir? A) Tam baskın B) Çok alellilik C) Mutasyon D) Eş baskın E) Resesif kalıtım",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p39|q2",
+   "page": 39,
+   "n": 2,
+   "bbox": [
+    30.0,
+    316.8,
+    272.4,
+    709.6
+   ],
+   "num": [
+    36.0,
+    315.5,
+    43.7,
+    329.3
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. Bir bitki türünde tohum rengini ve şeklini kontrol eden iki farklı gen lokusu bulunmaktadır. Birinci lokusta, sarı (S) ve yeşil (s) alelleri; ikinci lokusta ise düz (D) ve buruşuk (d) alelleri bulunmaktadır. Bu iki gen lokusu farklı otozomlar üzerinde bulunmakta ve birbirlerinden bağımsız olarak kalıtılmaktadır. Buna göre genotipi SsDd olan diploit bir hücrenin mayoz sürecinde alellerin gametlere farklı kombinasyonlarda geçmesini sağlayan olay ve oluşabilecek gametlerin genotip çeşitliliği aşağıdakilerden hangisinde doğru verilmiştir? A) Mayoz sonucunda oluşacak gametler ana hücre ile genet",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p39|q3",
+   "page": 39,
+   "n": 3,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    342.0
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "3. Kistik fibrozis, insanlarda otozomal kromozomlarda taşınan kalıtsal bir hastalıktır ve resesif bir gen tarafından kontrol edilir. Aşağıdaki tabloda bazı ebeveynlere ait genotipler verilmiştir. ANNE BABA I. Homozigot dominant * Homozigot resesif II. Heterozigot * Homozigot resesif III. Homozigot resesif * Homozigot resesif Buna göre tablodaki genotiplere sahip ailelerden hangilerinin doğacak çocuklarında kistik fibrozis hastalığı görülemez? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p39|q4",
+   "page": 39,
+   "n": 4,
+   "bbox": [
+    281.7,
+    398.2,
+    532.8,
+    685.7
+   ],
+   "num": [
+    287.7,
+    396.9,
+    295.4,
+    410.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "4. Mendel, bezelyelerde çiçek rengi kalıtımını araştırdığı deneylerinde, mor çiçekli bir bitki ile beyaz çiçekli bir bitkiyi çaprazlamıştır. Elde ettiği birinci kuşak (F 1 ) bitkilerinin tamamı mor çiçeklidir. Ardından, F 1 dölünden seçilen iki bitkinin kendi aralarında çaprazlanması sonucunda oluşturulan ikinci kuşakta (F 2 ) ise hem mor hem de beyaz çiçekli bitkiler ortaya çıkmıştır. Deneyin sonuçlarına göre mor renk aleli ile beyaz renk aleli arasındaki ilişkiyi aşağıdakilerden han gisi açıklar? A) Mor renk aleli ve beyaz renk aleli arasında eş baskınlık söz konusudur. B) Mor renk aleli, be",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p40|q5",
+   "page": 40,
+   "n": 5,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    309.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "5. Yeni keşfedilmiş bir bitki türünde yaprak şeklini kontrol eden geniş yaprak (G) aleli, dar yaprak (g) aleline baskındır. Bir araştırmacı, geniş yapraklı bir bitkiyi dar yapraklı bir bitkiyle çaprazlamış ve elde ettiği F 1 dölünün tamamının geniş yapraklı olduğunu gözlemiştir. F 1 dölünden rastgele seçtiği iki bitkiyi çaprazlayarak F 2 dölünü elde etmiştir. F 2 dölünde 180 geniş yapraklı ve 60 dar yapraklı bitki saymıştır. Buna göre F 1 dölünden rastgele seçilen iki bitki nin genotipi aşağıdakilerden hangisi olabilir? A) GG x gg B) GG x GG C) Gg x gg D) Ggx Gg E) gg x gg",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p40|q6",
+   "page": 40,
+   "n": 6,
+   "bbox": [
+    30.0,
+    372.6,
+    272.4,
+    664.2
+   ],
+   "num": [
+    36.0,
+    372.9,
+    43.7,
+    386.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "6. İki ailenin kan grubu fenotipleri aşağıdaki görselde verilmiştir. 1. Aile 2. Aile A A A B Buna göre I. 1. ailenin O kan gruplu çocuğu olamaz. II. 2. ailenin çocuklarında AB kan grubu görülebilir. III. 2. ailenin çocuklarından birisi O kan gruplu ise bu özellik bakımından baba heterozigot anne ise homozigot genotiplidir. ifadelerinden hangileri yanlıştır? A) Yalnız II B) Yalnız III C) I ve II D) I ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p40|q7",
+   "page": 40,
+   "n": 7,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    248.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "7. Bir bireyin genotipi aşağıda verilmiştir. k k M m N N Buna göre aşağıdakilerden hangisi bu bireyin oluşturabileceği gametlerden biridir? (Gamet olu şumu sırasında krossing over gerçekleşmemiştir.) A) KmN B) KMN C) kmn D) kMn E) kmN",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p40|q8",
+   "page": 40,
+   "n": 8,
+   "bbox": [
+    281.7,
+    322.9,
+    532.8,
+    693.4
+   ],
+   "num": [
+    287.7,
+    321.7,
+    295.4,
+    335.4
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "8. Mendel’in bezelyelerde yaptığı kalıtım çalışmalarında F 1 kuşağındaki bireylerin kendi aralarında çaprazlanmasıyla F 2 kuşağı elde edilir. Tabloda F 1 kuşağındaki heterozigot (Bb) bireylerin çaprazlanması ile elde edilen F 2 kuşağı gösterilmektedir. (B: Mor renk aleli / b: beyaz renk aleli) F 1 : Bb x Bb G: B b B b (Gamet) F 2 : BB Bb Bb bb (2. Nesil) Buna göre I. Fenotipleri farklı homozigot iki bireyin çaprazlanmasıyla F 2 oluşturulmuştur. II. Mor renk aleli fenotipte etkisini daima gösterir. III. Beyaz renk aleli fenotipte etkisini homozigot veya heterozigot durumda gösterir. ifadelerind",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p41|q9",
+   "page": 41,
+   "n": 9,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    337.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "9. Bir araştırmacı kırmızı çiçekli (K) ve beyaz çiçekli (k) iki bitkiyi çaprazlayarak kırmızı çiçekli yeni bir bitki elde etmiştir. Bu kırmızı çiçekli bitkinin genotipinin homozigot mu yoksa heterozigot mu olduğundan emin değildir. Bitkinin genotipini belirlemek amacıyla çaprazlama deneyleri yapmaya karar vermiştir. Buna göre araştırmacı elde ettiği kırmızı çiçekli bitkinin genotipini belirlemek için I. kırmızı çiçekli bitkiyi kendisiyle aynı fenotipte başka bir bitkiyle çaprazlamak, II. kırmızı çiçekli bitkiyi beyaz çiçekli bir bitkiyle çaprazlamak, III. beyaz çiçekli bitkiyi beyaz çiçekli bi",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p41|q10",
+   "page": 41,
+   "n": 10,
+   "bbox": [
+    30.0,
+    381.8,
+    272.4,
+    506.7
+   ],
+   "num": [
+    36.0,
+    380.7,
+    50.9,
+    394.4
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "10. Aşağıdaki çaprazlamalardan hangisinde F 1 dölünün fenotip ayrışım oranı 9:3:3:1 olur? A) AABb * AaBb B) DdEE * ddEE C) FfTt * FfTt D) kkll * KKLL E) Pprr * PpRr",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p41|q11",
+   "page": 41,
+   "n": 11,
+   "bbox": [
+    30.0,
+    551.4,
+    272.4,
+    687.5
+   ],
+   "num": [
+    36.0,
+    550.2,
+    48.3,
+    564.0
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "11. Adli tıp laboratuvarında bir bireye ait kan örneği incelenmektedir. Yapılan testler sonucunda bu kan örneğinin Rh pozitif olduğu belirlenmiştir. ABO kan grubu sistemi için yapılan testlerde ise çökelme sadece anti-A serumu ile gözlemlenmiştir. Buna göre bireyin ABO ve Rh kan grubu genotipi aşağıdakilerden hangisi olamaz? A) ABRr B) AARr C) AORR D) AORr E) AARR",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p41|q12",
+   "page": 41,
+   "n": 12,
+   "bbox": [
+    281.7,
+    79.8,
+    532.8,
+    257.3
+   ],
+   "num": [
+    287.7,
+    79.0,
+    299.8,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "12. Kanlarında Rh antijeni olan insanlar Rh + (pozitif), olmayanlar ise Rh - (negatif) kan grubuna sahiptir. Bir bebeğin kan grubu AB Rh - negatif olarak belirlenmiştir. Buna göre bebeğin anne babasına ait kan grubu genotipleri aşağıdakilerden hangisi olamaz? Anne Baba A) AORr BORr B) AArr BBRr C) ABRr BORr D) AARr BOrr E) AArr BBRR",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p41|q13",
+   "page": 41,
+   "n": 13,
+   "bbox": [
+    281.7,
+    413.7,
+    532.8,
+    600.8
+   ],
+   "num": [
+    287.7,
+    414.0,
+    300.0,
+    427.8
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "13. İnsanlarda ABO kan grupları çok alelli bir kalıtım gös termektedir. Bu özellikle ilgili I. Oluşabilecek genotip çeşidi sayısı fenotip çeşidi sayısından fazladır. II. AB0 kan grubuyla ilgili bireyde iki alel bulunur. III. Aynı karaktere etki eden aleller aynı kromozom üzerinde bulunmaz. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p42|q14",
+   "page": 42,
+   "n": 14,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    377.8
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "14. Aşağıda, bir canlının ebeveynlerindeki kromozomlar üzerinde yer alan kan grubu, saç şekli ve göz rengine ait genotipler verilmiştir. Buna göre bu iki bireyin çaprazlanmasından kaç farklı genotip ve fenotipte yavru birey oluşabilir? (Krossing over gerçekleşmediği kabul edilecektir.) Genotip çeşidi Fenotip çeşidi A) 8 12 B) 12 9 C) 16 12 D) 16 8 E) 32 16",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p42|q15",
+   "page": 42,
+   "n": 15,
+   "bbox": [
+    30.0,
+    421.9,
+    272.4,
+    700.8
+   ],
+   "num": [
+    36.0,
+    420.8,
+    48.1,
+    434.5
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "15. Eritroblastosis fetalis (kan uyuşmazlığı), Rh – bir anne ile fetüs arasında Rh faktörüne bağlı olarak ortaya çıkan bir bağışıklık tepkisidir. Buna göre I. Fetüs, Rh faktörü bakımından heterozigot genotipe sahiptir. II. İlk gebelikte, anneye ait Rh antikorları plasentadan geçerek fetüsün alyuvarlarındaki antijenleri çökeltir. III. Fetüsün genotipinin belirlenmesinde, babadan gelen Rh faktörü etkilidir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p42|q16",
+   "page": 42,
+   "n": 16,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    147.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    299.8,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "16. BORr genotipli bir anne ile AORr genotipli bir babanın ABrr genotipine sahip bir kız çocuğunun dünyaya gelme olasılığı kaçtır? A) 3 B) 3 C) 1 D) 1 E) 1 4 8 8 16 32",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p42|q17",
+   "page": 42,
+   "n": 17,
+   "bbox": [
+    281.7,
+    265.3,
+    532.8,
+    557.6
+   ],
+   "num": [
+    287.7,
+    265.6,
+    300.0,
+    279.4
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "17. İnsanlarda dazlaklık otozomal baskın (D) bir genle kalıtılır. Erkeklerde hem homozigot hem de heterozigot durumda, dişilerde ise yalnızca homozigot durumda fenotipte etkisini gösterir. Buna göre dazlak bir anne ile dazlak olmayan bir babadan doğabilecek çocuklarla ilgili I. Çocukların her biri bu özellik bakımından heterozigot genotipe sahiptir. II. Kız çocuklarının tamamı fenotipinde dazlaklık özelliği gösterir. III. Erkek çocuklarının fenotipini, annesinden aktarılan gen belirler. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve II D) I ve III E) II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p43|q18",
+   "page": 43,
+   "n": 18,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    402.0
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "18. Bezelye bitkisinde gövde uzunluğu ve çiçek rengine ilişkin baskın ve çekinik özellikler aşağıda verilmiştir. Uzun (K) Kısa (k) Mor (M) Beyaz (m) Gövde Uzunluğu Çiçek Rengi Buna göre uzun gövdeli ve mor çiçekli bir bezelye bitkisinin genotipini belirleyebilmek için aşağıda genotipleri verilen bezelye bitkilerinden hangisi ile çaprazlama yapmalıdır? A) kkMM B) Kkmm C) kkmm D) KkMm E) KKMm",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p43|q19",
+   "page": 43,
+   "n": 19,
+   "bbox": [
+    30.0,
+    466.7,
+    272.4,
+    647.9
+   ],
+   "num": [
+    36.0,
+    465.4,
+    48.3,
+    479.2
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "19. Bir bal arısı popülasyonunda kraliçe arının vücut hücresinin genotipi BbMmEe, döllenmeye katılan erkek arının genotipi ise Bme şeklindedir. Buna göre kraliçe arı ile erkek arının çiftleşmesi sonucunda meydana gelen işçi arılarda aşağıdaki genotiplerden hangisinin oluşması beklenmez? A) BBMMEe B) BbMmee C) BBmmEe D) BbMmee E) BbmmEe",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p43|q20",
+   "page": 43,
+   "n": 20,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    426.0
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "20. Aşağıda, dört farklı öğrenciye ait ABO kan grubuyla ilgili bazı bilgiler verilmiştir. I Alyuvar zarında hiç antijen bulunmamaktadır. Alyuvar zarında tek çeşit II antijen bulunmamaktadır. Kanında bir serum çeşidine III karşı çökelme olmaktadır. Kan plazmasında hem A hem IV de B antikoru bulunmaktadır. Buna göre numaralandırılan öğrencilerden hangilerinin kan grubu kesin olarak belirlenir? A) I ve II B) I ve IV C) II ve III D) II ve IV E) III ve IV",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p43|q21",
+   "page": 43,
+   "n": 21,
+   "bbox": [
+    281.7,
+    474.6,
+    532.8,
+    685.7
+   ],
+   "num": [
+    287.7,
+    474.9,
+    300.0,
+    488.7
+   ],
+   "topic": "TYT TARAMA TESTİ-6",
+   "level": " (ek)",
+   "osym": "",
+   "text": "21. İnsanlarda kan grubu kalıtımında yer alan M ve N alelleri, birbirine eş baskın (kodominant) özellik gösterir. Buna göre I. MN kan grubu sistemi, insanlarda üç farklı fenotipin ortaya çıkmasına neden olur. II. M kan grubuna sahip erkek birey, bu özellik bakımından iki çeşit sperm oluşturur. III. N kan grubundaki anne ve babadan doğan çocukların alyuvarlarında iki çeşit antijen bulunur. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) I ve III E) II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p44|q22",
+   "page": 44,
+   "n": 22,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    414.0
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": "",
+   "osym": "",
+   "text": "22. Bir ailedeki anne ve babaya ait kan örneklerine sırasıyla Anti – A, Anti – B ve Anti – Rh içeren serumlar damlatıldığında gözlenen çö kelme reaksiyonları aşağıda verilmiştir. Anne Baba Anti Rh Anti Rh Anti B Anti B Anti A Anti A Çökelme yok Çökelme var Buna göre bu aileden doğacak bir çocuğun aşağıdaki kan grubu genotiplerinden hangisine sahip olması beklenmez? A) BORr B) OORR C) AOrr D) BBrr E) ABRr",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p44|q23",
+   "page": 44,
+   "n": 23,
+   "bbox": [
+    30.0,
+    499.0,
+    272.4,
+    647.9
+   ],
+   "num": [
+    36.0,
+    497.9,
+    48.3,
+    511.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": "",
+   "osym": "",
+   "text": "23. Genotipi BbeeRrKk olan bir üreme ana hücresinden oluşabilecek gametlerin genotipleri dikkate alındığında, aşağıdakilerden hangisi bu gametlerden biri olamaz? A) BeRK B) bERk C) Berk D) beRk E) berk",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p44|q24",
+   "page": 44,
+   "n": 24,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    450.8
+   ],
+   "num": [
+    287.7,
+    79.0,
+    299.8,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": "",
+   "osym": "",
+   "text": "24. Genotipi bilinmeyen iki domates bitkisinin çaprazlan- ması sonucu elde edilen meyvelerin fenotip çeşidi ve oranları aşağıdaki grafikte verilmiştir. Fenotip oranı Kırmızı ve yuvarlak şekilli Kırmızı ve uzun şekilli 9 Sarı ve yuvarlak şekilli 3 Sarı ve uzun şekilli 1 Fenotip çeşidi Grafiğe göre I. Meyve rengi ve şekli bakımından heterozigot genotipli iki domates bitkisi çaprazlanmıştır. II. Ata bitki ile aynı fenotipe sahip meyvelerin oluşma olasılığı 9 dır. 16 III. Her iki karakter için de homozigot resesifgenotipe sahip meyvelerin oluşma olasılığı 1 dır. 16 ifadelerinden hangileri doğrudur",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p45|q1",
+   "page": 45,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    355.4
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. Bir aileye ait kan grubu fenotipleri soyağacı üzerinde gösterilmiştir. A Rh+ B Rh- 1 2 3 B Rh - A Rh+ O Rh- Buna göre I. 1 numaralı birey AO genotipine sahiptir. II. 2 numaralı birey BB genotipine sahiptir. III. 3 numaralı birey Rh faktörü bakımından heterozigottur. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p45|q2",
+   "page": 45,
+   "n": 2,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    418.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-7",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. Belirli bir özelliği fenotipinde gösteren bireyler soyağacında koyu renkle gösterilmiştir. Özelliği göstermeyen erkek Özelliği göstermeyen dişi Özelliği gösteren erkek Özelliği gösteren dişi Buna göre bu özelliğin kalıtımı ile ilgili I. Otozomal baskın olarak kalıtılıyor olabilir. II. X kromozomundaki baskın bir alel ile kalıtılıyor olabilir. III. Otozomal çekinik olarak kalıtılıyor olabilir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve III D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p46|q3",
+   "page": 46,
+   "n": 3,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    378.8
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "3. Fenilketonüri, otozomal çekinik bir alelin neden olduğu metabolik bir hastalıktır. Bu hastalığın bir ailedeki kalıtımı aşağıdaki soyağacında gösterilmiştir. 1 2 3 4 Özelliği göstermeyen erkek Özelliği göstermeyen dişi Özelliği gösteren erkek Özelliği gösteren dişi Buna göre 3 ve 4 numaralı bireylerin ikinci çocuğunun fenilketonüri hastası olma olasılığı kaçtır? A) 1 B) 1 C) 2 D) 3 4 2 3 4 E) 1",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p46|q4",
+   "page": 46,
+   "n": 4,
+   "bbox": [
+    281.7,
+    85.0,
+    532.8,
+    390.7
+   ],
+   "num": [
+    287.7,
+    83.8,
+    295.4,
+    97.6
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "4. Kısmi renk körlüğü X kromozomu üzerinde çekinik bir alel tarafından kalıtılan bir hastalıktır. ? Özelliği fenotipinde Özelliği fenotipinde göstermeyen erkek göstermeyen dişi Özelliği fenotipinde Özelliği fenotipinde gösteren erkek gösteren dişi Buna göre “?” ile gösterilen bireyin kısmi renk körü erkek olma olasılığı kaçtır? B) 1 C) 1 A) 1 2 4 D) 1 E) 1 8 16",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p47|q5",
+   "page": 47,
+   "n": 5,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    514.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "5. Hemofili, X kromozomuna bağlı çekinik bir alel tarafından kalıtılan bir hastalıktır. Aşağıda bu hastalığın bir ailedeki kalıtımı gösterilmiştir. 1 2 3 4 Özelliği fenotipinde Özelliği fenotipinde göstermeyen erkek göstermeyen dişi Özelliği fenotipinde Özelliği fenotipinde gösteren erkek gösteren dişi Buna göre soyağacında numaralandırılmış bireyler ile ilgili aşağıdakilerden hangisi doğrudur? A) 1 numaralı birey, hemofili alelini oğluna aktarmıştır. B) 2 numaralı birey, hemofili alelini annesinden almıştır. C) 3 numaralı birey, hemofili hastalığı bakımından taşıyıcıdır. D) 4 numaralı birey, ",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p47|q6",
+   "page": 47,
+   "n": 6,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    368.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "6. Aşağıdaki soyağacında otozomal çekinik bir hastalığın kalıtımı verilmiştir. Koyu renkli bireyler bu hastalığı fenotiplerinde göstermektedir. K Buna göre “K” ile gösterilen bireyin genotipi aşağıdakilerden hangisidir? A) AA B) aa C) Aa D) X A X a E) X a X a",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p47|q7",
+   "page": 47,
+   "n": 7,
+   "bbox": [
+    281.7,
+    412.9,
+    532.8,
+    675.3
+   ],
+   "num": [
+    287.7,
+    411.7,
+    295.4,
+    425.4
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "7. Aşağıdaki soyağacında otozomal çekinik bir hastalığın kalıtımı gösterilmiştir. Koyu renkli bireyler bu hastalığı fenotiplerinde göstermektedir. T Özelliği göstermeyen Özelliği göstermeyen erkek dişi Özelliği gösteren erkek Özelliği gösteren dişi Soyağacında “T” ile gösterilen bireyin bu özellik bakımından heterozigot olma olasılığı kaçtır? B) 1 C) 1 D) 3 A) 0 4 2 4 E) 1",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p48|q8",
+   "page": 48,
+   "n": 8,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    415.5
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "8. Soyağacında O kan grubuna sahip bireyler koyu renk ile gösterilmiştir. P R S T Buna göre I. P’nin kan grubu genotipi OO’dır. II. S’nin O kan gruplu çocukları olabilir. III. T’nin kan grubu R ile aynıdır. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p48|q9",
+   "page": 48,
+   "n": 9,
+   "bbox": [
+    30.0,
+    453.9,
+    272.4,
+    688.3
+   ],
+   "num": [
+    36.0,
+    452.8,
+    43.7,
+    466.5
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "9. Sadece eşeyli üremeyle neslini devam ettiren bir hayvan popülasyonu için I. Vücut hücrelerinde gerçekleşen mutasyonlar nesilden nesile aktarılabilir. II. Üreme ve üreme ana hücrelerinde gerçekleşen mutasyonlar kalıtsal değildir. III. Radyasyon ve X ışınları mutasyonun oluşmasında etkili olabilir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p48|q10",
+   "page": 48,
+   "n": 10,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    221.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    301.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "10. Canlıların kalıtsal özelliklerinin aktarılmasında I. eşeyli üreme, II. krossing over, III. rastgele döllenme olaylarından hangileri tür içindeki genetik çeşitliliğin oluşmasında etkili olabilir? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p48|q11",
+   "page": 48,
+   "n": 11,
+   "bbox": [
+    281.7,
+    347.3,
+    532.8,
+    500.5
+   ],
+   "num": [
+    287.7,
+    346.2,
+    301.5,
+    360.0
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "11. Canlılarda gerçekleşebilen mutasyonlarla ilgili I. Genetik varyasyonların ortaya çıkmasına neden olabilir. II. Kalıtsal hastalıkların oluşmasına yol açabilir. III. DNA’daki baz dizilimini değiştirerek genin işlevini değiştirebilir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p49|q12",
+   "page": 49,
+   "n": 12,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    382.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "12. Soyağacında belirli bir özelliği fenotipinde gösteren bireyler koyu renkle gösterilmiştir. Buna göre bu özelliğin kalıtımıyla ilgili I. X kromozomu üzerinde baskın taşınmaktadır. II. Otozomal baskın olarak taşınmaktadır. III. Otozomal çekinik olarak taşınmaktadır. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p49|q13",
+   "page": 49,
+   "n": 13,
+   "bbox": [
+    30.0,
+    426.4,
+    272.4,
+    665.0
+   ],
+   "num": [
+    36.0,
+    425.2,
+    48.3,
+    438.9
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "13. Aşağıdaki soyağacında koyu renkle gösterilen bireyler Rh- , koyu renkle gösterilmeyen bireyler ise Rh+ kan gruplarına sahiptir. ? Buna göre “?” ile gösterilen bireyin Rh - kan grubuna sahip olma olasılığı kaçtır? A) 1 B) 1 C) 1 D) 2 E) 3 4 3 2 3 4",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p49|q14",
+   "page": 49,
+   "n": 14,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    446.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "14. Hemofili, X kromozomu üzerinde çekinik bir alel tarafından kalıtılan bir hastalıktır. Aşağıda bu hastalığın bir ailedeki kalıtımı gösterilmiştir. 1 2 3 4 Özelliği fenotipinde Özelliği fenotipinde göstermeyen dişi göstermeyen erkek Özelliği fenotipinde Özelliği fenotipinde gösteren erkek gösteren dişi Buna göre soyağacındaki numaralandırılmış bireylerle ilgili I. 1 numaralı birey hemofili taşıyıcısıdır. II. 2 ve 3 numaralı bireylerin genotipi X H Y’dir. III. 4 numaralı bireyin hemofili hastası çocuğunun olma ihtimali yoktur. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I v",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p49|q15",
+   "page": 49,
+   "n": 15,
+   "bbox": [
+    281.7,
+    490.3,
+    532.8,
+    655.4
+   ],
+   "num": [
+    287.7,
+    489.2,
+    300.9,
+    502.9
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "15. Akraba evlilikleri için I. Kalıtsal hastalıkların çoğu çekinik alellerle taşınır. II. Aileden gelen kalıtsal hastalıkların ortaya çıkma olasılığı daha yüksektir. III. Akraba olan bireylerde genetik benzerlik, akraba olmayan bireylere göre daha fazladır. ifadelerinden hangileri söylenebilir? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p50|q16",
+   "page": 50,
+   "n": 16,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    333.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "16. Bir ailede sadece erkek bireylerde görülen, sinir sistemini etkileyen kalıtsal bir hastalık araştırılmıştır. Kadın bireylerin hastalık belirtisi göstermediği ancak bazı kadınların hastalığı oğullarına aktardığı tespit edilmiştir. Genetik analiz sonucunda hastalığa neden olan genin X kromozomunda yer aldığı ve bu genin Y kromozomunda karşılığı bulunmadığı saptanmıştır. Buna göre aşağıdakilerden hangisi yanlıştır? A) Hastalık X’e bağlı çekinik kalıtım göstermektedir. B) Gen X kromozomunun homolog olmayan bölgesinde yer almaktadır. C) Kadın bireyler taşıyıcı olabilir ancak fenotiplerinde görü",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p50|q17",
+   "page": 50,
+   "n": 17,
+   "bbox": [
+    30.0,
+    418.7,
+    272.4,
+    629.0
+   ],
+   "num": [
+    36.0,
+    417.4,
+    52.0,
+    431.2
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "17. X kromozomunun homolog olmayan kısmında çekinik alel ile kalıtılmakta olan bir hastalık ile ilgili I. Erkeklerde tek alel ile kalıtılmaktadır. II. Hastalık babadan oğula kalıtılmaktadır. III. Dişi bireylerde görülme olasılığı daha fazladır. ifadelerinden hangileri kesinlikle doğrudur? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p50|q18",
+   "page": 50,
+   "n": 18,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    388.4
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "18. Aşağıdaki soyağacında koyu renkli olarak gösterilen tavşanlar uzun kıllıdır. Tavşanlarda kılların uzun olması otozomal kromozomlarda taşınan çekinik bir özelliktir. B A ? kısa kıllı dişi birey kısa kıllı erkek birey uzun kıllı dişi birey uzun kıllı erkek birey Buna göre soyağacındaki A ve B tavşanlarının uzun ve kısa kıllı yavruya sahip olma olasılıkları aşağıdakilerden hangisinde doğru verilmiştir? Uzun kıllı Kısa kıllı A) 0 1 B) 1/2 1/2 C) 1/3 2/3 D) 1/4 3/4 E) 3/4 1/2",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p50|q19",
+   "page": 50,
+   "n": 19,
+   "bbox": [
+    281.7,
+    432.4,
+    532.8,
+    669.5
+   ],
+   "num": [
+    287.7,
+    431.4,
+    300.0,
+    445.1
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "19. Aşağıdaki soyağacında bazı bireylerin ABO ve Rh sistemi bakımından kan grubu fenotipleri verilmiştir. A Rh(-) AB Rh(+) O Rh(-) K A Rh(+) B Rh(-) O Rh(+) Buna göre soyağacında K ile gösterilen birey, kan grubu bakımından kaç farklı genotipe sahip olabilir? A) 2 B) 3 C) 6 D) 9 E)12",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p51|q20",
+   "page": 51,
+   "n": 20,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    406.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "20. Aşağıdaki soyağacında belirli bir özelliği fenotipinde gösteren bireylerin tamamı koyu renkli olarak verilmiştir. özellik göstermeyen dişi özellik gösteren dişi özellik göstermeyen erkek özellik gösteren erkek Buna göre soyağacında belirtilen bu özelliğin kalıtımı I. X’e bağlı çekinik alelle, II. otozomal çekinik alelle, III. otozomal baskın alelle taşınma biçimlerinden hangileriyle gerçekleşebilir? A) Yalnız I B) Yalnız II C) I ve III D) II ve III E) I, II ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p51|q21",
+   "page": 51,
+   "n": 21,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    438.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-8",
+   "level": "",
+   "osym": "",
+   "text": "21. Bir erkek bireyin X ve Y kromozomları üzerinde bulunan aleller görselde gösterilmiştir. A C d a e k Sentromer m F B G Y KROMOZOMU H B X KROMOZOMU Buna göre bu bireyle ilgili aşağıdakilerden hangisi yanlıştır? A) d ve e alellerini kız çocuklarına aktarabilir. B) m alelini babasından almıştır. C) A ve B alellerini gonozomlarının homolog bölgesinde taşır. D) k aleli annesinden kalıtılmıştır. E) Erkek çocuklarına F ve H alellerini aktaramaz.",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p52|q22",
+   "page": 52,
+   "n": 22,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    454.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "22. Bir arı türünde siyah kıllılık özelliği (B), sarı kıllılık özelliğine (b) baskındır ve otozomal kromozomlarda taşınır. I II III Siyah kıllı dişi arı Sarı kıllı dişi arı Siyah kıllı erkek arı Sarı kıllı erkek arı Buna göre soyağacındaki I, II, III numaralı bireylerin genotipleri hangi seçenekte doğru verilmiştir? I II III A) B Bb bb B) Bb BB bb C) Bb Bb bb D) b Bb bb E) B BB bb",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p52|q23",
+   "page": 52,
+   "n": 23,
+   "bbox": [
+    30.0,
+    520.1,
+    272.4,
+    681.2
+   ],
+   "num": [
+    36.0,
+    519.0,
+    50.1,
+    532.8
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "23. Aşağıdakilerden hangisi kalıtsal varyasyonlara örnek değildir? A) İnsanlarda göz renginin farklı olması B) Tek yumurta ikizlerinin farklı kas gelişimine sahip olması C) Kan gruplarının çeşitlilik göstermesi D) Parmak izlerinin bireyler arasında değişiklik göstermesi E) Mutasyonlar sonucu yeni bir özelliğin ortaya çıkması",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p52|q24",
+   "page": 52,
+   "n": 24,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    412.3
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "24. Aşağıdaki soyağacında kan grubu O olan bireylerin tamamı koyu renkli olarak gösterilmiştir. I III II V IV Buna göre, bu soyağacındaki numaralandırılmış bireylerle ilgili aşağıdakilerden hangisi yanlıştır? A) I ve II numaralı bireylerin kan grubu AB olabilir. B) II numaralı bireyin O kan grubuna sahip çocuğu olabilir. C) III ve IV numaralı bireylerin kan grubu genotipi kesinlikle heterozigottur. D) IV ve V numaralı bireylerin kan grubu genotipi kesinlikle aynıdır. E) V numaralı bireyin kan grubu genotipinde çekinik alel bulunur.",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p52|q25",
+   "page": 52,
+   "n": 25,
+   "bbox": [
+    281.7,
+    458.1,
+    532.8,
+    707.6
+   ],
+   "num": [
+    287.7,
+    456.9,
+    300.0,
+    470.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "25. Bitkilerde klorofil üretiminin azalmasına bağlı olarak yaprak sararması ve fotosentez kapasitesinin düşmesi şeklinde gözlenen yaprak klorozu otozomal kromozomlarda çekinik bir alelle (a) kalıtılır. Aşağıdaki soyağacında yaprak klorozu gözlenen bitkiler koyu renkli olarak gösterilmiştir. 1 3 4 2 5 Buna göre numaralandırılmış bitkilerden hangisinin genotipini belirlemek için kontrol çaprazlaması yapılmalıdır? A) 1 B) 2 C) 3 D) 4 E) 5",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p53|q26",
+   "page": 53,
+   "n": 26,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    673.3
+   ],
+   "num": [
+    36.0,
+    79.0,
+    50.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "26. Aşağıdaki soyağaçlarından hangisinde görülen kalıtım, X'e bağlı çekinik bir özellik için uygun değildir? Özelliği gösteren dişi Özelliği gösteren erkek Özelliği göstermeyen dişi Özelliği göstermeyen erkek A) B) C) D) E)",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p53|q27",
+   "page": 53,
+   "n": 27,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    298.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "27. Kısmi renk körlüğü X kromozomu üzerinde bulunan resesif bir alel tarafından kontrol edilen bir hastalıktır. Normal görüşlü bir annenin kısmi renk körü erkek çocuğu olmuştur. Buna göre çocuğun kısmi renk körü olması, an nenin bu özellik bakımından I. heterozigot baskın, II. homozigot baskın, III. homozigot çekinik genotiplerinden hangilerine sahip olması ile açıklanabilir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p53|q28",
+   "page": 53,
+   "n": 28,
+   "bbox": [
+    281.7,
+    362.8,
+    532.8,
+    657.0
+   ],
+   "num": [
+    287.7,
+    361.7,
+    300.0,
+    375.5
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "28. Aşağıdaki soyağacında fenotipinde otozomal çekinik bir özelliği gösteren bireyler koyu renkle gösterilmiştir. X Buna göre I. Koyu renkle gösterilen bireylerin genotipi homozigottur. II. X, bu özelliği genotipinde taşıyabilir. III. X’ in ebeveynleri bu özellik bakımından heterozigottur. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p54|q29",
+   "page": 54,
+   "n": 29,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    339.1
+   ],
+   "num": [
+    36.0,
+    79.0,
+    49.8,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "29. Aşağıdakilerden hangisi genin işleyişine çevrenin etkisini gösteren bir durum değildir? A) Güneş ışınlarının etkisiyle insan teninin geçici veya kalıcı olarak koyu renk alması B) Toprak kalitesi, su miktarı ve güneş ışığı gibi unsurlar açısından zengin bir ortamda aynı genotipe sahip bitkilerin yetersiz beslenenlere göre daha uzun boylu olması C) Siyam kedilerinde bulunan sıcaklığa duyarlı bir enzim sayesinde kulak, burun gibi bölgelerinin soğuk bölgelerde koyu renkli, sıcak bölgelerde açık renkli olması D) İnsanlarda AB0 kan grubunun; beslenme şekli, yaşanılan iklim koşulları gibi etkenle",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p54|q30",
+   "page": 54,
+   "n": 30,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    379.8
+   ],
+   "num": [
+    287.7,
+    79.0,
+    300.0,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": "",
+   "osym": "",
+   "text": "30. Ormanda yaşayan bir kuş popülasyonunda, gaga uzunluğu ve şekli bakımından doğal varyasyonlar görülür. Bazı kuşların gagaları uzun ve inceyken bazılarınınki kısa ve kalındır. Ormanda meydana gelen iklim değişiklikleri, kuşların temel besin kaynağı olan böcek türünün kabuk kalınlığının artmasına neden olmuştur. Bu durum kuş popülasyonunda varyasyonun önemini artırmıştır. Aşağıdakilerden hangisi bu kuş türü için varyas yonun faydalarını açıklar? A) Kuş ve böceklerin tamamen ortadan kalkmasına neden olur. B) Kuşların gaga uzunluğu varyasyonu, böceklerin hayatta kalmaları üzerinde etkili değild",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p55|q1",
+   "page": 55,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    312.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "1. Aynı besin zincirinde yer alan K, L, M ve N canlıları ile ilgili bazı bilgiler aşağıda verilmiştir. • L canlısı K canlısını besin olarak tüketir. • K canlısı inorganik maddeden organik madde üretir. • N canlısı diğer canlıların organik kalıntılarını parçalayarak inorganik madde oluşturur. • M canlısı selülozu sindiremez ve L canlısı ile beslenir. Buna göre aşağıdakilerden hangisi yanlıştır? A) K canlısı en yüksek biyokütleye sahiptir. B) L canlısı birincil tüketicidir. C) M canlısı 2. trofik düzeyde yer alır. D) N canlısı ayrıştırıcıdır. E) M canlısındaki biyolojik birikim en fazladır.",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p55|q2",
+   "page": 55,
+   "n": 2,
+   "bbox": [
+    30.0,
+    335.7,
+    272.4,
+    707.9
+   ],
+   "num": [
+    36.0,
+    334.6,
+    43.7,
+    348.4
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "2. Sucul bir ekosistemde yer alan canlılar arasındaki beslenme ilişkilerini gösteren piramit aşağıda verilmiştir. Balıkçıl kuş Büyük balık Küçük balık Hayvansal plankton Bitkisel plankton Buna göre I. Bitkisel planktonlar birincil trofik düzeydedir, hayvansal planktonlar ise birincil tüketicidir. II. Küçük balık popülasyonundaki azalma, büyük balıkları olumlu; hayvansal planktonları ise olumsuz etkiler. III. Balıkçıl kuş popülasyonunda biyolojik birikim en fazladır. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p55|q3",
+   "page": 55,
+   "n": 3,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    337.7
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "3. • Bir organizmanın doğal olarak yaşayıp, üreyebildiği yaşam alanıdır. • Bir canlının ekosistemdeki yaşam biçimi ve üstlendiği görevlerin tamamıdır. • Komünitedeki bireyler ve bu bireyleri içinde barındıran cansız çevrenin oluşturduğu ekolojik birimdir. • Belli bir bölgede yaşayan aynı türe ait bireylerin oluşturduğu topluluktur. Aşağıda verilen ekolojik terimlerden hangisinin tanımı yukarıda yer almamaktadır? A) Popülasyon B) Ekoton C) Ekolojik niş D) Habitat E) Ekosistem",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p55|q4",
+   "page": 55,
+   "n": 4,
+   "bbox": [
+    281.7,
+    402.3,
+    532.8,
+    652.3
+   ],
+   "num": [
+    287.7,
+    401.1,
+    295.4,
+    414.9
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "4. Bir ekosistemdeki besin zinciri aşağıda şematize edilmiştir. Buna göre bu besin zinciri ile ilgili aşağıdakilerden hangisi yanlıştır? A) P, ayrıştırıcı bir organizmadır. B) T, tüm trofik düzeylerde bulunur. C) R, ikinci trofik düzeyde yer alır. D) S, ikincil tüketicidir. E) Besin zinciri üç trofik düzeyden oluşmaktadır.",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p56|q5",
+   "page": 56,
+   "n": 5,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    221.2
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "5. Bir ekosistemde ayrıştırıcı canlıların azalması durumunda I. Toprak verimliliği azalır. II. Topraktaki organik atık miktarı artar. III. Ekosistemdeki türler bu durumdan etkilenmez. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p56|q6",
+   "page": 56,
+   "n": 6,
+   "bbox": [
+    30.0,
+    365.6,
+    272.4,
+    562.7
+   ],
+   "num": [
+    36.0,
+    364.5,
+    43.7,
+    378.3
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "6. Karbon döngüsü ile ilgili aşağıdakilerden hangisi yanlıştır? A) Fotosentetik canlılar, ışık enerjisini kullanarak karbondioksiti organik bileşiklere dönüştürür. B) Organik besinlerin yapısına katılan karbon solunumla atmosfere geri verilir. C) Ayrıştırıcı organizmalar, organik atıklardaki karbonu, karbondioksit olarak atmosfere verir. D) Sucul ekosistemlerdeki fitoplanktonlar ışığı ve suda çözünmüş karbondioksiti kullanarak organik besin üretir. E) Fosil yakıtların yanması atmosferdeki karbonun biyosfere taşınması sürecinde en etkili olaydır.",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p56|q7",
+   "page": 56,
+   "n": 7,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    267.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "7. Canlılarda görülen beslenme şekilleri ile ilgili aşağıdakilerden hangisi yanlıştır? A) Işık enerjisi kullanarak organik madde sentezleyen tüm canlılarda kloroplast bulunur. B) Besinlerini katı parçalar hâlinde alan holozoik canlıların sindirim sistemleri gelişmiştir. C) Omnivor canlılar hem bitkisel hem de hayvansal besinleri tüketebilir. D) Ayrıştırıcılar, prokaryot veya ökaryot hücre yapısına sahip olabilir. E) Öglena hem ototrof hem de heterotrof beslenebilir.",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p56|q8",
+   "page": 56,
+   "n": 8,
+   "bbox": [
+    281.7,
+    344.0,
+    532.8,
+    601.5
+   ],
+   "num": [
+    287.7,
+    342.8,
+    295.4,
+    356.5
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "8. Bir ekosistemdeki beş canlı türünün toplam biyokütle değerleri aşağıdaki grafikte gösterilmiştir. Biyokütle Canlı türü K L M N P Buna göre bu canlı türlerinden hangisi karbondioksit özümlemesi yapar? A) K B) L C) M D) N E) P",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p57|q9",
+   "page": 57,
+   "n": 9,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    384.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.7,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "9. Aşağıdaki görselde karasal ekosisteme ait bir besin ağı verilmiştir. tilki yılan ayı geyik tavşan mantar elma ot Bu besin ağı ile ilgili aşağıdakilerden hangisi söylenemez ? A) Birden fazla herbivor tür vardır. B) Ayı omnivor bir canlıdır. C) Mantar ayrıştırıcı bir canlıdır. D) Yılan ve tilkinin beslenme şekli ayı ile aynıdır. E) Yılan ve tilki arasında besin rekabeti görülebilir.",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p57|q10",
+   "page": 57,
+   "n": 10,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    402.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    299.8,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "10. Aşağıda karasal ekosisteme ait bir besin piramidi verilmiştir. Buna göre aşağıdaki ifadelerden hangisi yanlıştır? A) Besin piramidi beş trofik düzeyden oluşmaktadır. B) II numaralı canlıların besin ve enerji kaynağı I numaralı canlılardır. C) V numaralı canlılar, I numaralı canlılar için ham madde sağlar. D) III numaralı canlılar, I numaralı canlılardan doğrudan faydalanamaz. E) I numaralı canlılardan, IV numaralı canlılara doğru gidildikçe aktarılan enerji miktarı azalır.",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p57|q11",
+   "page": 57,
+   "n": 11,
+   "bbox": [
+    281.7,
+    449.5,
+    532.8,
+    659.9
+   ],
+   "num": [
+    287.7,
+    448.4,
+    301.9,
+    462.2
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "11. Dengeli bir ekosistemde yer alan besin piramidinde üreticiden son tüketicilere doğru gidildikçe I. biyokütle, II. aktarılan enerji, III. biyolojik birikim faktörlerinden hangileri artış gösterir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p58|q12",
+   "page": 58,
+   "n": 12,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    303.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    48.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "12. Karasal bir ekosistemde aynı besin zincirinde yer alan beş farklı canlı türünün dokularında biriken zararlı madde miktarı aşağıdaki grafikte gösterilmiştir. Grafiği göre aşağıdakilerden hangisi yanlıştır? A) I numaralı canlılar üçüncül derece tüketicidir. B) V numaralı canlı besin piramidinde dördüncü trofik düzeyde yer alır. C) III numaralı canlıların sayısındaki azalma IV numaralı canlıları olumsuz etkiler. D) II numaralı canlıların sindirim kanalında selüloz sindirimi yapan organizmalar bulunabilir. E) IV numaralı canlılar besin zincirine enerji girişini sağlayan metabolik olaylar gerçe",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p58|q13",
+   "page": 58,
+   "n": 13,
+   "bbox": [
+    30.0,
+    409.0,
+    272.4,
+    595.5
+   ],
+   "num": [
+    36.0,
+    407.9,
+    49.7,
+    421.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "13. Ayrıştırıcı ve holozoik beslenen canlılarda I. heterotrof olma, II. prokaryot hücre yapısına sahip olma, III. hücre dışı sindirim enzimleri üretebilme özelliklerinden hangileri ortaktır? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I ve III",
+   "answer": "B",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p58|q14",
+   "page": 58,
+   "n": 14,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    462.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    299.6,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "14. Aşağıda karasal ekosisteme ait bir besin ağı şematize edilerek gösterilmiştir. Biyolojik Birikim Şahin Yılan I II III IV V Canlı Türleri I II III IV V Kuş Tavşan Çayırlar Buna göre bu besin ağı ile ilgili aşağıdakilerden hangisi yanlıştır? A) Yılan ikincil tüketicidir. B) Üç trofik düzeyden oluşur. C) Tavşan ve kuş birincil tüketicidir. D) Birden çok besin zinciri mevcuttur. E) Şahin, yılan ile beslendiğinde üçüncül; kuş ile beslendiğinde ikincil tüketici olur.",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p58|q15",
+   "page": 58,
+   "n": 15,
+   "bbox": [
+    281.7,
+    506.1,
+    532.8,
+    704.5
+   ],
+   "num": [
+    287.7,
+    504.9,
+    303.0,
+    518.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "15. Azot döngüsünde gerçekleşen I. nitrifikasyon, II. denitrifikasyon, III. biyotik azot fiksasyonu olaylarından hangileri topraktaki nitrat tuzlarının oranını artırabilir? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) I, II ve III",
+   "answer": "E",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p59|q16",
+   "page": 59,
+   "n": 16,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    427.5
+   ],
+   "num": [
+    36.0,
+    79.0,
+    47.8,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "16. Azot döngüsüne ait olaylar ve bu olayları gerçekleştiren canlıların bazıları A, B ve C harfleri ile belirtilerek şematize edilmiştir. Otçul hayvan Bitki NO 3 Organik atıklar A C B NH 3 NO 2 Etçil hayvan Buna göre I. A ototrof beslenmektedir. II. B inorganik maddeyi enerji kaynağı olarak kullanır. III. C denitrifikasyon bakterisidir. ifadelerinden hangileri doğrudur? A) Yalnız I B) Yalnız II C) Yalnız III D) I ve III E) I, II ve III",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p59|q17",
+   "page": 59,
+   "n": 17,
+   "bbox": [
+    30.0,
+    471.5,
+    272.4,
+    682.0
+   ],
+   "num": [
+    36.0,
+    470.4,
+    49.8,
+    484.2
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "17. Karasal bir ekosistemde ikinci trofik düzeydeki canlılar için I. Herbivor beslenirler. II. Glikozun fazlasını nişasta olarak depolarlar. III. Dokularında biriken zararlı madde miktarı üst basamaklardaki canlılardan daha fazladır. ifadelerinden hangileri yanlıştır? A) Yalnız I B) Yalnız II C) Yalnız III D) II ve III E) I, II ve III",
+   "answer": "A",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p59|q18",
+   "page": 59,
+   "n": 18,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    278.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    302.2,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "18. Holozoik beslenen canlılarda I. sindirim sistemine sahip olma, II. ökaryotik ve çok hücreli olma, III. ışık enerjisini kimyasal bağ enerjisine dönüştürme özelliklerinden hangileri gözlenir? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p59|q19",
+   "page": 59,
+   "n": 19,
+   "bbox": [
+    281.7,
+    322.7,
+    532.8,
+    666.7
+   ],
+   "num": [
+    287.7,
+    321.4,
+    300.0,
+    335.2
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek)",
+   "osym": "",
+   "text": "19. Aşağıda karasal ve dengeli bir ekosisteme ait besin piramidi verilmiştir. Buna göre piramitte numaralandırılmış türler ile ilgili aşağıdakilerden hangisi yanlıştır? A) II, III ve IV numaralı canlılar heterotrof beslenir. B) I’ den III’ e doğru vücut büyüklüğü genellikle artar. C) IV, ayrıştırıcı beslenir ve belirli bir trofik düzeyi yoktur. D) I, üretici olup piramidin temel besin kaynağını oluşturur. E) Aktarılan enerji miktarının en fazla olduğu canlı, III numaralı canlıdır.",
+   "answer": "D",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p60|q1",
+   "page": 60,
+   "n": 1,
+   "bbox": [
+    30.0,
+    72.0,
+    272.4,
+    590.7
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.6,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "1. Aşağıdaki tabloda altı farklı ülkeye ait geri dönüşüm maddeleri ve oranlarına ait veriler yer almaktadır. Geri Ana Geri Ülke Dönüşüm Dönüşüm Oranı (%) Maddeleri Kâğıt, cam, 1 Almanya ~66 plastik, organik atık Güney Gıda atıkları, 2 ~59 Kore plastik, elektronik Ambalaj atıkları, 3 Avusturya ~58 biyolojik atık Kâğıt, metal, 4 Slovenya ~55 inşaat atıkları Evsel atık, 5 Belçika ~54 endüstriyel atık 34,92 Plastik, kâğıt/ 6 Türkiye (2023 yılı) karton, metal Kaynaklar: Eurostat (AB ülkeleri), TÜİK (Türkiye), OECD raporları. Tablodaki veriler dikkate alındığında aşağıdaki yorumlardan hangisi yapıla",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p60|q2",
+   "page": 60,
+   "n": 2,
+   "bbox": [
+    281.7,
+    72.0,
+    532.8,
+    199.5
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "2. Aşağıdakilerden hangisi küresel ısınmanın sonuçlarından biri değildir? A) Havadaki azot oranının artması B) Kutup buzullarının erimesi C) Denizlerde su seviyesinin yükselmesi D) Kıyı ekosistemlerinin bozulması E) Biyoçeşitliliğin azalması",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p60|q3",
+   "page": 60,
+   "n": 3,
+   "bbox": [
+    281.7,
+    325.5,
+    532.8,
+    530.8
+   ],
+   "num": [
+    287.7,
+    324.3,
+    295.4,
+    338.0
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "3. Dünya üzerinde bulunan canlıların oluşturduğu çeşitliliğe biyolojik çeşitlilik denir. Aşağıdakilerden hangisi biyolojik çeşitliliği olumsuz etkileyen durumlardan biridir? A) Otçulların azaldığı yerlerde yırtıcı hayvanların avlanması B) Gen bankaları kurularak sürdürülebilirliğin sağlanması C) Rüzgârların polenleri uzak mesafelere taşıması D) Nesli tükenmekte olan canlılara av yasağının getirilmesi E) Canlı çeşitliliğinin azaldığı alanlarda millî parkların kurulması",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p61|q4",
+   "page": 61,
+   "n": 4,
+   "bbox": [
+    30.0,
+    80.1,
+    272.4,
+    268.8
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "4. Bir su ekosisteminde ötrofikasyonun yaşanması I. alglerin sayısında artma, II. besin zincirinde bozulma, III. ayrıştırıcıların faaliyetinde azalma durumlarından hangilerine yol açmaz? A) Yalnız I B) Yalnız III C) I ve II D) II ve III E) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p61|q5",
+   "page": 61,
+   "n": 5,
+   "bbox": [
+    30.0,
+    335.4,
+    272.4,
+    504.8
+   ],
+   "num": [
+    36.0,
+    334.2,
+    43.7,
+    348.0
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "5. Bir bölgede aşırı gübrelemeye bağlı olarak azot döngüsünün bozulduğu, toprakta nitratın biriktiği tespit edilmiştir. Topraktaki nitrat birikimini azaltmak için en etkili çözüm aşağıdakilerden hangisidir? A) Toprağı yıkayarak nitratı temizlemek B) Toprağa kireç ekleyerek asitliği azaltmak C) Ortama denitrifikasyon bakterisi eklemek D) Bitki ekimini durdurmak E) Nitratı azaltan özel yosunlar kullanmak",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p61|q6",
+   "page": 61,
+   "n": 6,
+   "bbox": [
+    281.7,
+    80.2,
+    532.8,
+    430.2
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "6. Doğada gerçekleşen azot döngüsü şemada verilmiştir. Denitrifikasyon N 2 (Atmosferdeki azot) bakterileri Şimşek, yıldırım, Siyanobakteriler, Rhizobium bakterileri Azot bağlayıcı bakteriler NH 3 + NH 4 Üretici Protein Tüketici Ayrıştırıcı Protein sentezi Dışkı, idrar Çürüme NO 3 NO 2 NH 3 Nitrat bakterileri Nitrit bakterileri (Nitrat) (Nitrit) NİTRİFİKASYON Bir bölgede meydana gelen aşırı kirlilik sebebiyle mikroorganizmaların faaliyetindeki azalma I. azotlu atıkların amonyağa dönüşümü, II. biyotik azot fiksasyonu, III. denitrifikasyon hangileri olumsuz etkilenir? A) Yalnız I B) Yalnız III C)",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p61|q7",
+   "page": 61,
+   "n": 7,
+   "bbox": [
+    281.7,
+    490.8,
+    532.8,
+    687.9
+   ],
+   "num": [
+    287.7,
+    489.7,
+    295.4,
+    503.5
+   ],
+   "topic": "TYT TARAMA TESTİ-9",
+   "level": " (ek2)",
+   "osym": "",
+   "text": "7. Orman yangınından sonra aşağıdaki durumlardan hangisinin gerçekleşmesi beklenmez? A) Topraktaki mikroorganizma flora çeşitliliğinin azalması B) Yırtıcıların av tercihlerinde değişiklikler gözlemlenmesi C) Otçul hayvan popülasyonları arasında besin rekabetinin artması D) Genç bitki sürgünlerinde karbon/azot oranında dengesizlikler saptanması E) Organik madde ayrışma hızında ani artışlar yaşanması",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p62|q8",
+   "page": 62,
+   "n": 8,
+   "bbox": [
+    30.0,
+    80.2,
+    272.4,
+    499.6
+   ],
+   "num": [
+    36.0,
+    79.0,
+    43.3,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-10",
+   "level": "",
+   "osym": "",
+   "text": "8. Yaşadığımız dünyada doğal kaynaklar ve oluşan atıklarla ilgili elde edilen bazı veriler aşağıda verilmiştir. • Tarım arazilerinin %33’ü kimyasal atıklar nedeniyle kirlenmiş durumdadır. • Hava kirliliğine bağlı ölümlerin %20’si endüstriyel atıklarla ilişkilidir. • Bir litre atık yağ, 1 milyon litre suyu kirletmektedir. • Çöplüklerde biriken organik atıklar, metan gazı salarak küresel ısınmayı artırmaktadır. • Geri dönüşmüş alüminyum üretimi, normal üretime göre %95 daha az enerji harcamaktadır. • Bir ton kâğıdın geri dönüşümü, 17 ağacın kesilmesini önlemektedir. • AB’de geri dönüşüm sektörü ",
+   "answer": "C",
+   "solved": false
+  },
+  {
+   "qid": "tyt_bio_tarama|p62|q9",
+   "page": 62,
+   "n": 9,
+   "bbox": [
+    281.7,
+    80.1,
+    532.8,
+    277.1
+   ],
+   "num": [
+    287.7,
+    79.0,
+    295.4,
+    92.7
+   ],
+   "topic": "TYT TARAMA TESTİ-10",
+   "level": "",
+   "osym": "",
+   "text": "9. Aşağıdakilerden hangisi su kaynaklarında besin maddelerinin aşırı artışına bağlı olarak ortaya çıkan sorunlardan biri değildir? A) Sudaki oksijenin azalması nedeniyle balıkların toplu şekilde ölmesi B) Alglerin su yüzeyini kaplayarak ışığın derinlere ulaşmasını engellemesi C) Ayrıştırıcı mikroorganizma faaliyetinin aşırı artması D) Suyun asit oranını artırarak canlı yaşamına olumlu etkiler sağlaması E) Alglerin aşırı çoğalması sonucunda suyun içilemez hâle gelmesi",
+   "answer": "D",
+   "solved": false
+  }
+ ],
+ "answers_filled": true
+}

@@ -1,0 +1,11 @@
+{
+  "student_name": "Alper",
+  "sources": [
+    "kaynaklar/MEB_TYT_Soru",
+    "kaynaklar/MEB_AYT_Soru"
+  ],
+  "exams_dir": "ogrenci/Denemeler",
+  "port": 8765,
+  "claude_path": "",
+  "claude_model": ""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260930-171946-brain-3e7e",
+  "kind": "brain",
+  "title": "Beyin: D01_3D_2Eylül",
+  "params": {
+    "exam_ids": [
+      "D01_3D_2Eylül"
+    ],
+    "image_paths": [],
+    "subjects": [
+      "mat"
+    ],
+    "counts": {
+      "hatirlatici": 3,
+      "pekistirme": 4,
+      "zorlayici": 2
+    },
+    "max_topics": 4,
+    "note": "",
+    "allow_repeat": true
+  },
+  "status": "done",
+  "created": "2026-09-30T17:19:46",
+  "run_dir": "C:\\Users\\burha\\OneDrive\\Belgeler\\WORKS\\irfan hoca\\data\\runs\\20260930-171946-brain-3e7e",
+  "pid": 10456,
+  "result_text": "Aday soru listesini `data/runs/20260930-171946-brain-3e7e/candidates.json` dosyasına yazdım.\n\n**Teşhis:** Alper D01 denemesinde matematikte 11 soru kaçırdı. Bunların 10'u Boş ya da Yapamadı, yani çoğunda soruya hiç başlayamamış. Bu yüzden seti hatırlatıcı ve çözümlü örnek ağırlıklı kurdum.\n\n**Seçilen 4 konu (öncelik sırasıyla):**\n1. **Fonksiyonlar (10 ve 11):** Ters fonksiyonu kullanamıyor (f⁻¹(a)=b ise f(b)=a). Doğrusal fonksiyonu kuramıyor, grafikten değer okuyup bileşke hesaplayamıyor.\n2. **Sayma (5 ve 29):** Dosya adında \"Sayı\" yazıyor ama iki soru da permütasyon sorusu. Eksik beceri, verilen rakamlarla koşullu sayı yazmak ve yazılan sayıları sıraya dizmek.\n3. **Oran-orantı problemleri (19 ve 28):** Sözel metinden orantıyı kurup denkleme çeviremiyor.\n4. **Üç kümeli Venn problemleri (26).**\n\n**Aday sayıları:** Her konu için 12–14 aday soru var. Hedef sayı kadarını (3 hatırlatıcı, 4 pekiştirme, 2 zorlayıcı) `recommended` olarak işaretledim; gerisi seçmeniz için yedek. Şüpheli görünen adayların görüntüsüne baktım, hepsine değil. Cevabı bankada olmayan iki soruyu ben çözüp cevap yazdım: 4/4 kitabı s.381 soru 6 (C) ve s.382 soru 11 (B).\n\n**Sete girmeyenler:** En fazla 4 konu seçilebildiği için olasılık (30), mutlak değer ve basamak (12), akıl yürütme (27) ve geometri (36) sorularını teşhise yazdım ama bu sete almadım. Sonraki çalışma setinde ele alınabilirler.",
+  "cost_usd": 1.4979388,
+  "duration_s": 196.573,
+  "finished": "2026-09-30T17:23:05"
+}

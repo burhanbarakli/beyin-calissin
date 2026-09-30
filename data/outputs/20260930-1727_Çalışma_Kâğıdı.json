@@ -1,0 +1,98 @@
+{
+ "file": "20260930-1727_Çalışma_Kâğıdı.pdf",
+ "title": "Çalışma Kâğıdı",
+ "run_id": "20260930-171946-brain-3e7e",
+ "items": [
+  {
+   "qid": "tyt_mat_4_4|p361|q10",
+   "role": "hatirlatici",
+   "group": "Fonksiyonlar — ters fonksiyon ve grafik",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p341|q9",
+   "role": "hatirlatici",
+   "group": "Fonksiyonlar — ters fonksiyon ve grafik",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p372|q9",
+   "role": "hatirlatici",
+   "group": "Fonksiyonlar — ters fonksiyon ve grafik",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p375|q5",
+   "role": "pekistirme",
+   "group": "Fonksiyonlar — ters fonksiyon ve grafik",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p126|q12",
+   "role": "pekistirme",
+   "group": "Fonksiyonlar — ters fonksiyon ve grafik",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p126|q14",
+   "role": "zorlayici",
+   "group": "Fonksiyonlar — ters fonksiyon ve grafik",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p327|q9",
+   "role": "hatirlatici",
+   "group": "Olasılık — verilerden oran kurma",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p117|q1",
+   "role": "hatirlatici",
+   "group": "Olasılık — verilerden oran kurma",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p117|q5",
+   "role": "pekistirme",
+   "group": "Olasılık — verilerden oran kurma",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p117|q8",
+   "role": "pekistirme",
+   "group": "Olasılık — verilerden oran kurma",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p121|q1",
+   "role": "zorlayici",
+   "group": "Olasılık — verilerden oran kurma",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p21|q1",
+   "role": "hatirlatici",
+   "group": "Tek-Çift Sayılar",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p15|q5",
+   "role": "hatirlatici",
+   "group": "Tek-Çift Sayılar",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p17|q3",
+   "role": "pekistirme",
+   "group": "Tek-Çift Sayılar",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p23|q4",
+   "role": "pekistirme",
+   "group": "Tek-Çift Sayılar",
+   "answer": ""
+  }
+ ],
+ "count": 15
+}

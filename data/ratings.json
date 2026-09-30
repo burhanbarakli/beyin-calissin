@@ -1,0 +1,282 @@
+{
+ "tyt_mat_tarama|p4|q1": {
+  "claude": 3,
+  "note": "ortak çarpan parantezi + asal durum analizi (k=2, k=3)"
+ },
+ "tyt_mat_tarama|p4|q2": {
+  "claude": 4,
+  "note": "basamak tek/çift durum analizi, öncüllerle çok adımlı çıkarım"
+ },
+ "tyt_mat_tarama|p4|q3": {
+  "claude": 3,
+  "note": "tek-çift kuralları, iki koşuldan durum çıkarma"
+ },
+ "tyt_mat_tarama|p4|q4": {
+  "claude": 3,
+  "note": "zincir eşitsizlikte işaret analizi, x² pozitifliği"
+ },
+ "tyt_mat_tarama|p5|q5": {
+  "claude": 3,
+  "note": "basamak toplama çözümlemesi, elde takibi"
+ },
+ "tyt_mat_tarama|p5|q6": {
+  "claude": 4,
+  "note": "çarpanlara ayırma (x+5)(y-4)=13 dönüşümü + aralarında asal koşulu"
+ },
+ "tyt_mat_tarama|p5|q7": {
+  "claude": 4,
+  "note": "işaret analizi, sıfır çarpanı durumu, öncüllerde 'daima' kontrolü"
+ },
+ "tyt_mat_tarama|p5|q8": {
+  "claude": 3,
+  "note": "85=5·17, bölünebilme ve en küçük değer"
+ },
+ "tyt_mat_tarama|p6|q9": {
+  "claude": 4,
+  "note": "ardışık sayı sayısı + basamak çözümlemesiyle denklem kurma"
+ },
+ "tyt_mat_tarama|p6|q10": {
+  "claude": 2,
+  "note": "ardışık tek sayılar, kare farkı tek adım"
+ },
+ "tyt_mat_tarama|p6|q11": {
+  "claude": 4,
+  "note": "yeni tanımlı işlem, aralarında asal durumlarının çapraz incelenmesi"
+ },
+ "tyt_mat_tarama|p6|q12": {
+  "claude": 3,
+  "note": "deneme-yanılma ile rakam yerleştirme, mantık"
+ },
+ "tyt_mat_tarama|p7|q13": {
+  "claude": 4,
+  "note": "ardışık sayı toplamı formülü, çarpan çiftleri analizi"
+ },
+ "tyt_mat_tarama|p7|q14": {
+  "claude": 4,
+  "note": "koşullu dağıtım problemi, çok kısıtlı akıl yürütme"
+ },
+ "tyt_mat_tarama|p7|q15": {
+  "claude": 3,
+  "note": "tanımlı gösterim, 10L+2K=42 doğal sayı çözümleri"
+ },
+ "tyt_mat_4_4|p180|q7": {
+  "claude": 1,
+  "note": "tek orantı, çözümlü"
+ },
+ "tyt_mat_4_4|p190|q29": {
+  "claude": 2,
+  "note": "34. sorunun birebir temel hâli, çözümlü"
+ },
+ "tyt_mat_4_4|p252|q8": {
+  "claude": 2,
+  "note": "alan oranı kuralı, tek adım"
+ },
+ "tyt_mat_4_4|p185|q19": {
+  "claude": 3,
+  "note": "iki benzerlik zinciri, çözümlü"
+ },
+ "tyt_mat_4_4|p255|q15": {
+  "claude": 3,
+  "note": "alan parçalama + k²"
+ },
+ "tyt_mat_4_4|p186|q21": {
+  "claude": 3,
+  "note": "katlama + paralellik görme"
+ },
+ "tyt_mat_4_4|p203|q3": {
+  "claude": 3,
+  "note": "iki oran birlikte"
+ },
+ "tyt_mat_4_4|p199|q2": {
+  "claude": 3,
+  "note": "iki adım oran"
+ },
+ "tyt_mat_3Adm|p150|q6": {
+  "claude": 3,
+  "note": "ortak açılı benzerlik"
+ },
+ "tyt_mat_4_4|p203|q2": {
+  "claude": 3,
+  "note": "klasik model"
+ },
+ "tyt_mat_3Adm|p149|q4": {
+  "claude": 3,
+  "note": "benzerliği fark etmek gerekiyor"
+ },
+ "tyt_mat_3Adm|p151|q2": {
+  "claude": 4,
+  "note": "katlama + çok adımlı oran"
+ },
+ "tyt_mat_4_4|p206|q5": {
+  "claude": 4,
+  "note": "ters yerleşimli benzerlik"
+ },
+ "tyt_mat_3Adm|p151|q1": {
+  "claude": 4,
+  "note": "ÖSYM, iki benzerlik"
+ },
+ "tyt_mat_4_4|p62|q5": {
+  "claude": 2,
+  "note": "iki kural, çözümlü"
+ },
+ "tyt_mat_4_4|p63|q9": {
+  "claude": 2,
+  "note": "birleşik kural"
+ },
+ "tyt_mat_4_4|p64|q11": {
+  "claude": 2,
+  "note": "11 kuralı, çözümlü"
+ },
+ "tyt_mat_3Adm|p27|q4": {
+  "claude": 2,
+  "note": "tek kural"
+ },
+ "tyt_mat_3Adm|p27|q7": {
+  "claude": 2,
+  "note": "iki kural"
+ },
+ "tyt_mat_3Adm|p30|q7": {
+  "claude": 3,
+  "note": "birleşik bölen, kalanlı"
+ },
+ "tyt_mat_3Adm|p28|q10": {
+  "claude": 3,
+  "note": "14. soruya en yakın yapı"
+ },
+ "tyt_mat_4_4|p71|q4": {
+  "claude": 3,
+  "note": "iki kalan koşulu"
+ },
+ "tyt_mat_3Adm|p28|q12": {
+  "claude": 3,
+  "note": "kalan aktarımı"
+ },
+ "tyt_mat_3Adm|p27|q8": {
+  "claude": 3,
+  "note": "birleşik bölen"
+ },
+ "tyt_mat_4_4|p72|q10": {
+  "claude": 3,
+  "note": "iki konu"
+ },
+ "tyt_mat_3Adm|p31|q2": {
+  "claude": 4,
+  "note": "ÖSYM, çok koşullu"
+ },
+ "tyt_mat_4_4|p76|q5": {
+  "claude": 4,
+  "note": "örüntü + birleşik kural"
+ },
+ "tyt_mat_3Adm|p31|q5": {
+  "claude": 4,
+  "note": "öncüllü, çok kural"
+ },
+ "tyt_mat_4_4|p84|q23": {
+  "claude": 2,
+  "note": "sistemin iki tarafını ayrı çözme, çözümlü"
+ },
+ "tyt_mat_4_4|p79|q10": {
+  "claude": 2,
+  "note": "işaret yorumu, çözümlü"
+ },
+ "tyt_mat_3Adm|p45|q2": {
+  "claude": 2,
+  "note": "negatiflerle sıralama"
+ },
+ "tyt_mat_3Adm|p45|q3": {
+  "claude": 2,
+  "note": "tek adım aralık"
+ },
+ "tyt_mat_4_4|p98|q9": {
+  "claude": 3,
+  "note": "sistem"
+ },
+ "tyt_mat_4_4|p98|q10": {
+  "claude": 3,
+  "note": "negatiflerde oran"
+ },
+ "tyt_mat_3Adm|p41|q4": {
+  "claude": 3,
+  "note": "üç koşul, işaret"
+ },
+ "tyt_mat_3Adm|p47|q7": {
+  "claude": 3,
+  "note": "öncüllü"
+ },
+ "tyt_mat_3Adm|p47|q3": {
+  "claude": 3,
+  "note": "sınır değer düşünme"
+ },
+ "tyt_mat_3Adm|p39|q3": {
+  "claude": 3,
+  "note": "koşul birleştirme"
+ },
+ "tyt_mat_3Adm|p49|q3": {
+  "claude": 4,
+  "note": "ÖSYM, grafik yorumu"
+ },
+ "tyt_mat_4_4|p104|q8": {
+  "claude": 4,
+  "note": "ters yönlü düşünme"
+ },
+ "tyt_mat_3Adm|p50|q5": {
+  "claude": 4,
+  "note": "işlem + eşitsizlik"
+ },
+ "tyt_mat_4_4|p326|q8": {
+  "claude": 2,
+  "note": "çözümlü, tek seçim"
+ },
+ "tyt_mat_3Adm|p117|q2": {
+  "claude": 2,
+  "note": "C(5,2) ile basit sayma"
+ },
+ "tyt_mat_3Adm|p118|q17": {
+  "claude": 2,
+  "note": "kombinasyon çarpımı"
+ },
+ "tyt_mat_3Adm|p118|q13": {
+  "claude": 2,
+  "note": "tek adım"
+ },
+ "tyt_mat_3Adm|p117|q4": {
+  "claude": 2,
+  "note": "tümleyen düşünme"
+ },
+ "tyt_mat_4_4|p335|q2": {
+  "claude": 3,
+  "note": "durum sayma"
+ },
+ "tyt_mat_4_4|p333|q6": {
+  "claude": 3,
+  "note": "kombinasyon çarpımı"
+ },
+ "tyt_mat_4_4|p334|q9": {
+  "claude": 3,
+  "note": "sistematik liste"
+ },
+ "tyt_mat_3Adm|p119|q1": {
+  "claude": 3,
+  "note": "durum listeleme"
+ },
+ "tyt_mat_4_4|p336|q10": {
+  "claude": 3,
+  "note": "iki konu birleşik"
+ },
+ "tyt_mat_3Adm|p118|q15": {
+  "claude": 3,
+  "note": "durumlara ayırma"
+ },
+ "tyt_mat_3Adm|p121|q2": {
+  "claude": 4,
+  "note": "ÖSYM, ters kurgulu"
+ },
+ "tyt_mat_4_4|p338|q5": {
+  "claude": 4,
+  "note": "öncüllü, çok durum"
+ },
+ "tyt_mat_3Adm|p121|q3": {
+  "claude": 4,
+  "note": "ÖSYM, kısıtlı sayma"
+ }
+}
