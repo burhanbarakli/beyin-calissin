@@ -1,0 +1,153 @@
+{
+ "student": "Alper",
+ "teacher_note": "Test: sadece en öncelikli 1 konu.",
+ "exams": [
+  {
+   "id": "D01_3D_2Eylül",
+   "folder": "D:\\Alper_irfanhoca\\Denemeler\\D01_3D_2Eylül",
+   "name": "D01_3D_2Eylül",
+   "date": "2026-09-02",
+   "type": "TYT",
+   "group": "Genel Denemeler",
+   "result_pdf": "",
+   "booklet_pdfs": [],
+   "images": [
+    {
+     "file": "D01_Mat_Fonksiyon_Yapamadı_10_E.jpeg",
+     "code": "D01",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Fonksiyon",
+     "status": "Yapamadı",
+     "no": 10,
+     "answer": "E",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\D01_3D_2Eylül\\D01_Mat_Fonksiyon_Yapamadı_10_E.jpeg"
+    },
+    {
+     "file": "D01_Mat_Fonksiyon_Yapamadı_11_D.jpeg",
+     "code": "D01",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Fonksiyon",
+     "status": "Yapamadı",
+     "no": 11,
+     "answer": "D",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\D01_3D_2Eylül\\D01_Mat_Fonksiyon_Yapamadı_11_D.jpeg"
+    },
+    {
+     "file": "D01_Mat_Mantık_Boş_27_C.jpeg",
+     "code": "D01",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Mantık",
+     "status": "Boş",
+     "no": 27,
+     "answer": "C",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\D01_3D_2Eylül\\D01_Mat_Mantık_Boş_27_C.jpeg"
+    },
+    {
+     "file": "D01_Mat_Olasılık_Boş_30_C.jpeg",
+     "code": "D01",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Olasılık",
+     "status": "Boş",
+     "no": 30,
+     "answer": "C",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\D01_3D_2Eylül\\D01_Mat_Olasılık_Boş_30_C.jpeg"
+    },
+    {
+     "file": "D01_Mat_Problem_Boş_26_C.jpeg",
+     "code": "D01",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Problem",
+     "status": "Boş",
+     "no": 26,
+     "answer": "C",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\D01_3D_2Eylül\\D01_Mat_Problem_Boş_26_C.jpeg"
+    },
+    {
+     "file": "D01_Mat_Problem_Boş_28_D.jpeg",
+     "code": "D01",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Problem",
+     "status": "Boş",
+     "no": 28,
+     "answer": "D",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\D01_3D_2Eylül\\D01_Mat_Problem_Boş_28_D.jpeg"
+    },
+    {
+     "file": "D01_Mat_Sayı_Boş_29_E.jpeg",
+     "code": "D01",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Sayı",
+     "status": "Boş",
+     "no": 29,
+     "answer": "E",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\D01_3D_2Eylül\\D01_Mat_Sayı_Boş_29_E.jpeg"
+    },
+    {
+     "file": "D01_Mat_Sayı_Yanlış_12_D.jpeg",
+     "code": "D01",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Sayı",
+     "status": "Yanlış",
+     "no": 12,
+     "answer": "D",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\D01_3D_2Eylül\\D01_Mat_Sayı_Yanlış_12_D.jpeg"
+    },
+    {
+     "file": "D01_Mat_Sayı_Yapamadı_19_B.jpeg",
+     "code": "D01",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Sayı",
+     "status": "Yapamadı",
+     "no": 19,
+     "answer": "B",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\D01_3D_2Eylül\\D01_Mat_Sayı_Yapamadı_19_B.jpeg"
+    },
+    {
+     "file": "D01_Mat_Sayı_Yapamadı_36_D.jpeg",
+     "code": "D01",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Sayı",
+     "status": "Yapamadı",
+     "no": 36,
+     "answer": "D",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\D01_3D_2Eylül\\D01_Mat_Sayı_Yapamadı_36_D.jpeg"
+    },
+    {
+     "file": "D01_Mat_Sayı_Yapamadı_5_C.jpeg",
+     "code": "D01",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Sayı",
+     "status": "Yapamadı",
+     "no": 5,
+     "answer": "C",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\D01_3D_2Eylül\\D01_Mat_Sayı_Yapamadı_5_C.jpeg"
+    }
+   ],
+   "analysis": null,
+   "notes": ""
+  }
+ ],
+ "images": [],
+ "subjects": [
+  "mat"
+ ],
+ "counts": {
+  "hatirlatici": 1,
+  "pekistirme": 1,
+  "zorlayici": 1
+ },
+ "max_topics": 1,
+ "exclude_qids": [],
+ "deep": true
+}

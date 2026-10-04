@@ -17,14 +17,15 @@ from pathlib import Path
 
 from . import config
 
-CODE = ["app", "brain", "docs", "README.md", "CLAUDE.md", "requirements.txt", "baslat.bat",
-        "config.example.json", ".gitattributes"]
+CODE = ["app", "brain", "docs", ".claude/agents", "README.md", "CLAUDE.md", "GUNCELLEME.md", "VERSION",
+        "requirements.txt", "baslat.bat", "config.example.json", ".gitattributes"]
 SKIP_NAMES = {"__pycache__", ".silinenler", "cache", "index_log.txt"}
 
 GITIGNORE = """__pycache__/
 *.pyc
 data/cache/
-.claude/
+.claude/settings.local.json
+.claude/launch.json
 """
 
 

@@ -1,4 +1,5 @@
 __pycache__/
 *.pyc
 data/cache/
-.claude/
+.claude/settings.local.json
+.claude/launch.json

@@ -52,7 +52,7 @@ Repoda soru bankası (33.000 soru), cevap anahtarları, kaynak PDF'ler ve öğre
 | 5 | **Dersler** | Sadece bu dersler için çalışır. Hiçbiri seçili değilse hepsi. |
 | 6 | **Sayılar** | Konu başına kaç hatırlatıcı / pekiştirme / zorlayıcı soru istediğiniz ve en çok kaç konu seçileceği. Beyin seçim yapabilmeniz için yaklaşık 2 katı aday getirir. |
 | 7 | **Öğretmen notu** | Beyne serbest talimat. Örneğin "geometriye ağırlık ver", "ÖSYM tarzı olsun", "çok kolay soru koyma". |
-| 8 | **🧠 Beyin Çalışsın** | Claude'u başlatır. 2-4 dakika sürer, yaklaşık 1-2 $ tutar (Claude aboneliğinizden). |
+| 8 | **🧠 Beyin Çalışsın** | Claude'u başlatır. 2-4 dakika sürer, yaklaşık 1-2 $ tutar (Claude aboneliğinizden). Butonun üstünde: **Model** (Opus en iyi / Sonnet dengeli / Haiku en ucuz) ve **🔬 Derin analiz**. Derin analizde *soru analisti* ajanı her yanlış soruyu baştan çözüp adım düzeyinde teşhis koyar, her adayı da çözerek denetler (✓ denetlendi rozeti). Maliyeti normal modun yaklaşık 2-3 katı. |
 | 9 | **Beynin düşünceleri** | Claude'un yaptıkları canlı akar: hangi fotoğrafı açtığı, bankada ne aradığı, teşhisi. |
 | 10 | **Geçmiş çalışmalar** | Önceki beyin çalışmalarını ve adaylarını tekrar açar. |
 
@@ -109,7 +109,7 @@ kitap seviyesi (1.Adım=2, 2.Adım=3, 3.Adım/ÖSYM=4)
 | 4 | **Sonuç PDF'i** | Denemenin karnesini (konu analizi olan PDF) bağlayın; beyin yanlış/boş listesini buradan okur. |
 | 5 | **🧠 Sonucu analiz et** | Claude karneyi ve fotoğrafları okuyup netleri ve zayıf konuları çıkarır; kartta tablo olarak görünür. |
 | 6 | **Soru fotoğrafları** | Yapamadığı soruların fotoğrafları. Tıklayınca büyür; 🗑 ile `.silinenler` klasörüne taşınır. |
-| 7 | **Yapamadığı soru ekle** | Ders, konu, durum, soru no ve doğru cevabı seçip fotoğrafları sürükleyin; **Yükle**. Dosya adı otomatik verilir. |
+| 7 | **Soru fotoğrafı ekle** | Durumu seçin (**Yapamadı / Yanlış / Doğru-Tereddütlü**), fotoğrafları sürükleyip bırakın; yükleme kendiliğinden başlar. Ders, konu, no ve cevap **isteğe bağlı**; beyin fotoğraftan kendisi bulur. Doğru yaptığı soruları yüklemeye gerek yok. |
 
 **Fotoğraf dosya adı düzeni** (elle koyarsanız):
 `<SınavKodu>_<Ders>_<Konu>_<Durum>_<SoruNo>_<DoğruCevap>.jpeg`

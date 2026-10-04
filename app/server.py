@@ -44,6 +44,7 @@ def state():
     return {
         "config": cfg,
         "config_raw": {**cfg, **config._load()},  # ayarlar formu: göreli yollar göreli görünsün
+        "version": (config.ROOT / "VERSION").read_text(encoding="utf-8").strip() if (config.ROOT / "VERSION").exists() else "",
         "claude": config.find_claude(),
         "books": qbank.all_books(),
         "source_pdfs": [str(p) for p in indexer.list_source_pdfs()],
@@ -196,6 +197,7 @@ class BrainReq(BaseModel):
     note: str = ""
     allow_repeat: bool = False
     model: str = ""          # "" = ayarlardaki; opus / sonnet / haiku
+    deep: bool = False       # soru-analisti ajanıyla derin analiz
 
 
 @app.post("/api/brain")
@@ -224,8 +226,11 @@ def brain(req: BrainReq):
         "counts": req.counts,
         "max_topics": req.max_topics,
         "exclude_qids": [] if req.allow_repeat else _json(USED_FILE, []),
+        "deep": req.deep,
     }
     title_bits = [e["name"] for e in sel][:3] or [f"{len(images)} soru görseli"]
+    if req.deep:
+        title_bits[0] = "🔬 " + title_bits[0]
     prompt = ("brain/BRAIN.md dosyasındaki talimatları uygula. Görev dosyası: <RUN_DIR>/task.json. "
               "RUN_DIR = <RUN_DIR>. Sonucu <RUN_DIR>/candidates.json dosyasına yaz. Türkçe çalış.")
     rid = runner.start("brain", "Beyin: " + ", ".join(title_bits), prompt, req.model_dump(),

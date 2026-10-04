@@ -462,5 +462,29 @@
  "tyt_mat_3Adm|p7|q2": {
   "claude": 4,
   "note": "ÖSYM tarzı"
+ },
+ "tyt_mat_3Adm|p15|q2": {
+  "claude": 2,
+  "note": "tek koşullu sayma, kesim tam"
+ },
+ "tyt_mat_3Adm|p18|q7": {
+  "claude": 3,
+  "note": "basamak açılımı + denklem; görsel okuması kesimde kontrol edilmeli"
+ },
+ "tyt_mat_3Adm|p23|q2": {
+  "claude": 3,
+  "note": "rakam kümelerini sistematik bulma"
+ },
+ "tyt_mat_3Adm|p23|q5": {
+  "claude": 4,
+  "note": "çok koşullu mantık, pekiştirme için biraz zor"
+ },
+ "tyt_mat_3Adm|p20|q8": {
+  "claude": 4,
+  "note": "çiftlere ayırıp 0'ın başa gelememesini yönetme"
+ },
+ "tyt_mat_3Adm|p19|q2": {
+  "claude": 3,
+  "note": "tam kısımlara göre sıralama"
  }
 }

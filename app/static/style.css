@@ -107,6 +107,8 @@ details summary { cursor: pointer; font-weight: 600; margin: 8px 0; }
 .diff { font-size: 11px; font-weight: 600; padding: 1px 7px; border-radius: 6px; cursor: help; }
 .diff.d1 { background: #e3f5ec; color: var(--h); } .diff.d2 { background: #e6eefb; color: var(--p); } .diff.d3 { background: #fbe9e7; color: var(--z); }
 .badge.bad { background: #fbe9e7; color: var(--z); }
+.badge.ver { background: #e6eefb; color: var(--p); }
+.check.deep { background: #f5f2ff; border: 1px solid var(--accent-2); border-radius: 8px; padding: 6px 8px; }
 .fb { display: flex; gap: 4px; margin-top: 6px; }
 .fb button { flex: 1; background: #f3f4f6; color: #374151; padding: 3px 4px; font-size: 11px; border-radius: 6px; }
 .fb button.on { background: var(--ink); color: #fff; }

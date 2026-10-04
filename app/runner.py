@@ -20,12 +20,13 @@ from pathlib import Path
 from . import config
 
 ALLOWED_TOOLS = [
-    "Read", "Glob", "Grep", "Write", "Edit", "TodoWrite",
+    "Read", "Glob", "Grep", "Write", "Edit", "TodoWrite", "Task", "Agent",
     "Bash(python:*)", "Bash(python -m app.qbank:*)", "Bash(ls:*)", "Bash(cat:*)",
     "PowerShell(python:*)",
 ]
 
 _procs: dict[str, subprocess.Popen] = {}
+_inited: set[str] = set()
 _lock = threading.Lock()
 
 
@@ -87,6 +88,8 @@ def _summarize_tool(name: str, inp: dict) -> str:
         return f"{name}: {Path(p).name if p else ''}"
     if name in ("Glob", "Grep"):
         return f"{name}: {inp.get('pattern', '')}"
+    if name in ("Task", "Agent"):
+        return f"🔬 Soru analisti: {inp.get('description') or inp.get('prompt', '')[:120]}"
     if name == "TodoWrite":
         todos = inp.get("todos", [])
         return "Plan: " + " · ".join(f"{'✓' if t.get('status') == 'completed' else '•'} {t.get('content', '')}" for t in todos)
@@ -96,7 +99,10 @@ def _summarize_tool(name: str, inp: dict) -> str:
 def _handle_event(rid: str, ev: dict) -> None:
     t = ev.get("type")
     if t == "system" and ev.get("subtype") == "init":
-        _feed(rid, "info", f"Claude başladı (model: {ev.get('model', '?')})")
+        # alt ajanlar da init olayı üretir; sadece ana oturumunkini göster
+        if rid not in _inited:
+            _inited.add(rid)
+            _feed(rid, "info", f"Claude başladı (model: {ev.get('model', '?')})")
     elif t == "assistant":
         for block in ev.get("message", {}).get("content", []):
             if block.get("type") == "text" and block.get("text", "").strip():
@@ -115,11 +121,9 @@ def _handle_event(rid: str, ev: dict) -> None:
                 txt = c if isinstance(c, str) else json.dumps(c, ensure_ascii=False)
                 _feed(rid, "error", txt[:400])
     elif t == "result":
-        cost = ev.get("total_cost_usd")
-        dur = ev.get("duration_ms", 0) / 1000
-        _feed(rid, "done" if not ev.get("is_error") else "error",
-              f"Bitti — {dur:.0f} sn" + (f", ~${cost:.2f}" if cost else ""))
-        update_job(rid, result_text=(ev.get("result") or "")[:4000], cost_usd=cost, duration_s=dur)
+        # alt ajanlar da "result" üretir; özet satırı süreç bitince bir kez yazılır (worker)
+        update_job(rid, result_text=(ev.get("result") or "")[:4000], cost_usd=ev.get("total_cost_usd"),
+                   result_error=bool(ev.get("is_error")))
 
 
 def start(kind: str, title: str, prompt: str, params: dict | None = None, on_finish=None,
@@ -177,10 +181,15 @@ def start(kind: str, title: str, prompt: str, params: dict | None = None, on_fin
             job_now = read_job(rid)
             if job_now.get("status") == "cancelled":
                 return
-            status = "done" if proc.returncode == 0 else "error"
+            status = "done" if proc.returncode == 0 and not job_now.get("result_error") else "error"
+            dur = (datetime.now() - datetime.fromisoformat(job_now["created"])).total_seconds()
+            cost = job_now.get("cost_usd")
+            summary = f"Bitti — {dur / 60:.1f} dk" + (f", ~${cost:.2f}" if cost else "")
             if status == "error":
                 _feed(rid, "error", f"Claude hata ile çıktı (kod {proc.returncode}). {err[:400]}")
-            update_job(rid, status=status, finished=datetime.now().isoformat(timespec="seconds"))
+            else:
+                _feed(rid, "done", summary)
+            update_job(rid, status=status, finished=datetime.now().isoformat(timespec="seconds"), duration_s=dur)
             if on_finish and status == "done":
                 try:
                     on_finish(rid)

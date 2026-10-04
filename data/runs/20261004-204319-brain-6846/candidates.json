@@ -1,0 +1,39 @@
+{
+  "summary": "Alper'in D01 denemesinde en öncelikli konu Sayılar (3 Yapamadı, 1 Boş, 1 Yanlış). Kök sorun, rakam/basamak analizi ve rakamlarla sayı yazma-sıralama: uzun metni 'tam iki basamak aynı', 'sondan 3. sayı' gibi koşullara çevirememe ve ab=10a+b açılımını kuramama. Çoğu soruda başlayamadığı için hatırlatıcı ağırlıklı, ardından pekiştirme ve bir çıkmış soru seçildi. Not: Yapamadı 36 (eşkenar üçgen alanı) ve Yapamadı 19 (doğru orantı) 'Sayı' etiketli olsa da geometri/orantı becerisi; test için tek konu istendiğinden dışarıda bırakıldı.",
+  "diagnosis": [
+    {
+      "subject": "mat",
+      "topic": "Sayılar — rakam/basamak analizi ve sayma",
+      "skill": "Rakamlarla sayı yazma/sıralama ve basamak açılımı: ab=10a+b, ab-ba=9(a-b), ab+ba=11(a+b); 'tam olarak/farklı/sondan n.' koşullarını modelleme",
+      "evidence": ["D01 Mat Sayı Yapamadı 5", "D01 Mat Sayı Boş 29", "D01 Mat Sayı Yanlış 12"],
+      "priority": 1,
+      "level_note": "Kopma noktası: uzun metni sayma/basamak modeline çevirme (okuma/kavram hatası). Temel kavram eksik, hatırlatıcı ağırlıklı."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Sayılar — rakam/basamak analizi ve rakamlarla sayı yazma",
+      "subject": "mat",
+      "why": "Yapamadı/Boş soruların ortak eksiği: rakamlardan sayı kurma, sayma ve ab=10a+b açılımı.",
+      "source_images": [
+        "D:/Alper_irfanhoca/Denemeler/D01_3D_2Eylül/D01_Mat_Sayı_Yapamadı_5_C.jpeg",
+        "D:/Alper_irfanhoca/Denemeler/D01_3D_2Eylül/D01_Mat_Sayı_Boş_29_E.jpeg",
+        "D:/Alper_irfanhoca/Denemeler/D01_3D_2Eylül/D01_Mat_Sayı_Yanlış_12_D.jpeg"
+      ],
+      "items": [
+        {"qid": "tyt_mat_3Adm|p15|q2", "role": "hatirlatici", "why": "Rakamları farklı sayı yazma, koşulu sağlayan dizilimleri sayma", "recommended": true,
+         "difficulty": 2, "difficulty_note": "tek koşullu sayma, kesim tam", "answer": "E", "verified": true},
+        {"qid": "tyt_mat_3Adm|p18|q7", "role": "pekistirme", "why": "ab-ba=9(a-b) basamak açılımı; Yanlış 12'ye çok benzer", "recommended": true,
+         "difficulty": 3, "difficulty_note": "basamak açılımı + denklem; görsel okuması kesimde kontrol edilmeli", "answer": "C", "verified": true},
+        {"qid": "tyt_mat_3Adm|p23|q2", "role": "pekistirme", "why": "Rakam toplamı koşulundan olası rakam kümelerini bulma", "recommended": false,
+         "difficulty": 3, "difficulty_note": "rakam kümelerini sistematik bulma", "answer": "A", "verified": true},
+        {"qid": "tyt_mat_3Adm|p23|q5", "role": "pekistirme", "why": "Çok koşullu rakam bulmacası, yorum gerektirir", "recommended": false,
+         "difficulty": 4, "difficulty_note": "çok koşullu mantık, pekiştirme için biraz zor", "answer": "E", "verified": true},
+        {"qid": "tyt_mat_3Adm|p20|q8", "role": "zorlayici", "why": "2020 TYT: rakam farkı koşuluyla sayı sayma (Boş 29'un üst seviyesi)", "recommended": true,
+         "difficulty": 4, "difficulty_note": "çiftlere ayırıp 0'ın başa gelememesini yönetme", "answer": "A", "verified": true},
+        {"qid": "tyt_mat_3Adm|p19|q2", "role": "zorlayici", "why": "2018 TYT: ondalık gösterimde rakamlarla sıralama", "recommended": false,
+         "difficulty": 3, "difficulty_note": "tam kısımlara göre sıralama", "answer": "C", "verified": true}
+      ]
+    }
+  ]
+}

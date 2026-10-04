@@ -6,6 +6,10 @@ bir çalışma seti için **aday sorular** seçeceksin. Öğretmen adaylar aras�
 
 Soru UYDURMA. Sadece soru bankasındaki (`python -m app.qbank ...`) sorulardan `qid` seç.
 
+**Komut kuralı:** Bash'te yalnızca tek satırlık `python -m app.qbank ...` komutları çalıştır; değişken (`$x`),
+döngü, boru (`|`), `&&`, `;` kullanma (izinler bunlara kapalı, komut reddedilir). Birden çok qid'i tek komutta ver.
+Dosya okumak için Read, yazmak için Write kullan.
+
 ## Girdi
 
 Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
@@ -18,6 +22,24 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
 - `subjects[]`: sadece bu dersler (boşsa hepsi).
 - `counts`: konu başına hedef soru sayısı `{hatirlatici, pekistirme, zorlayici}`, `max_topics`.
 - `exclude_qids[]`: daha önce verilmiş sorular — TEKRAR SEÇME.
+- `deep`: `true` ise **derin analiz modu** (aşağıdaki bölüm). `false`/yoksa normal adımlar.
+
+## Derin analiz modu (`deep: true`)
+
+Bu modda **soru-analisti** alt ajanını (Task/Agent aracı, `subagent_type: "soru-analisti"`) kullanırsın.
+Ajan soruları gerçekten çözer; sen yönetir ve birleştirirsin. Normal adımlar geçerli, şu iki farkla:
+
+- **Teşhis (adım 2 yerine):** Görselleri 2-4'lük gruplara böl, her grup için ajana
+  `TEŞHİS` işi ver: görsel yolları + durumları + (varsa) doğru cevap ve öğrencinin şıkkı.
+  **Tüm grupları tek mesajda, paralel çağır.** Dönen JSON'daki `adimlar`, `kopma_noktasi`, `kok_neden`,
+  `hata_turu` ve `arama_terimleri` teşhisinin temelidir. Görselleri ayrıca kendin açman gerekmez.
+  `diagnosis[].skill` alanına kopma noktasını, `level_note`'a hata türünü ve kök nedeni yaz.
+- **Denetim (adım 5 yerine):** Her konu grubu için ~1,5-2 katı adayı seçtikten sonra, her grup için ajana
+  `DENETİM` işi ver: hedef beceri + aday qid'leri + rolleri. **Grupları tek mesajda paralel çağır.**
+  `uygun_degil` olanları çıkar. Ajanın cevabı bankadakiyle çelişirse ve ajan eminse `answer` + `"answer_source":
+  "analist"` yaz. Ajanın `zorluk` puanını `difficulty`, notunu `why`/`difficulty_note` olarak kullan;
+  denetlenen her adaya `"verified": true` ekle. Gerekirse eksilen yerine yeni aday ara ve onu da denetlet.
+- Ajan çağrılarını sınırlı tut: teşhis için en fazla 6, denetim için konu başına 1 çağrı.
 
 ## Adımlar
 

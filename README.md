@@ -9,7 +9,9 @@ butonuna basıldığında sunucu `claude -p` komutunu başlatır. Claude öğren
 ve deneme sonuçlarını inceler, soru bankasında arama yapar ve aday soruları önerir. Öğretmen
 adaylar arasından seçim yapar, seçilen sorular tek tıkla PDF'e dönüşür.
 
-> 📖 **Resimli kılavuz (neresi ne işe yarar):** [docs/KILAVUZ.md](docs/KILAVUZ.md)
+> 📖 **Resimli kılavuz (neresi ne işe yarar):** [docs/KILAVUZ.md](docs/KILAVUZ.md) ·
+> 🆕 **Yenilikler:** [GUNCELLEME.md](GUNCELLEME.md) · **Güncellemek için** Claude Code'a bu klasörde
+> *"sistemi GitHub'dan güncelle"* demeniz yeterli; verileriniz korunur (ayrıntı: `CLAUDE.md`).
 > Hızlı başlangıç: Python + Claude Code kurun, `claude` → `/login`, sonra `baslat.bat`'a çift tıklayın.
 
 ![Aday sorular](docs/img/2-adaylar.png)

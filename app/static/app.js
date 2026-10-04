@@ -44,7 +44,7 @@ function showTab(t) {
 async function loadState() {
   S.state = await api("/api/state");
   const c = S.state.config_raw || S.state.config;
-  $("#student").textContent = "· " + c.student_name;
+  $("#student").textContent = "· " + c.student_name + (S.state.version ? `  · v${S.state.version}` : "");
   const st = $("#claudeStatus");
   st.className = "status" + (S.state.claude ? " ok" : "");
   st.textContent = S.state.claude ? "Claude Code bulundu" : "Claude Code bulunamadı";
@@ -107,7 +107,7 @@ $("#runBrain").addEventListener("click", async () => {
     exam_ids: [...S.selExams], image_paths: [...S.selImgs], subjects: [...S.subjects],
     counts: { hatirlatici: +$("#cH").value, pekistirme: +$("#cP").value, zorlayici: +$("#cZ").value },
     max_topics: +$("#cT").value, note: $("#note").value, allow_repeat: $("#allowRepeat").checked,
-    model: $("#model").value,
+    model: $("#model").value, deep: $("#deep").checked,
   };
   try {
     const r = await api("/api/brain", { method: "POST", body });
@@ -204,6 +204,7 @@ function cardHtml(it) {
     <div class="img"><img loading="lazy" src="${cropUrl(it.qid)}"></div>
     <div class="body"><div class="top-line">${it.role ? `<span class="role ${it.role}">${ROLE[it.role] || it.role}</span>` : ""}
       ${it.recommended ? '<span class="badge ok">önerilen</span>' : ""}
+      ${it.verified ? '<span class="badge ver" title="Soru analisti bu soruyu çözdü ve uygun buldu">✓ denetlendi</span>' : ""}
       <span class="ans ${claude ? "claude" : ""}" title="${claude ? "Cevabı Claude çözdü — kontrol edin" : "Kaynağın cevap anahtarı"}">Cevap: ${esc(ans || "?")}${claude ? "*" : ""}</span>
       <button class="chip zoom" title="Büyüt">⤢</button><span class="sel">☐</span></div>
       <div class="top-line">${diffHtml(d, it)}</div>
