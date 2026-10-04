@@ -1,0 +1,113 @@
+{
+ "student": "Alper",
+ "teacher_note": "",
+ "exams": [
+  {
+   "id": "Branş/Mat/BSBD2",
+   "folder": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD2",
+   "name": "BSBD2",
+   "date": "",
+   "type": "TYT",
+   "group": "Branş",
+   "result_pdf": "",
+   "booklet_pdfs": [],
+   "images": [
+    {
+     "file": "BSBD2_Mat_DikdortgenPrizma_Yapamadı_40_C.jpeg",
+     "code": "BSBD2",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "DikdortgenPrizma",
+     "status": "Yapamadı",
+     "no": 40,
+     "answer": "C",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD2\\BSBD2_Mat_DikdortgenPrizma_Yapamadı_40_C.jpeg"
+    },
+    {
+     "file": "BSBD2_Mat_Dikdörtgen_Yapamadı_35_D.jpeg",
+     "code": "BSBD2",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Dikdörtgen",
+     "status": "Yapamadı",
+     "no": 35,
+     "answer": "D",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD2\\BSBD2_Mat_Dikdörtgen_Yapamadı_35_D.jpeg"
+    },
+    {
+     "file": "BSBD2_Mat_Esitsizlik_Yapamadı_10_C.jpeg",
+     "code": "BSBD2",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Esitsizlik",
+     "status": "Yapamadı",
+     "no": 10,
+     "answer": "C",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD2\\BSBD2_Mat_Esitsizlik_Yapamadı_10_C.jpeg"
+    },
+    {
+     "file": "BSBD2_Mat_Mantık_Yanlış_13_B.jpeg",
+     "code": "BSBD2",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "Mantık",
+     "status": "Yanlış",
+     "no": 13,
+     "answer": "B",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD2\\BSBD2_Mat_Mantık_Yanlış_13_B.jpeg"
+    },
+    {
+     "file": "BSBD2_Mat_SayıProblemi_Yanlış_26_C.jpeg",
+     "code": "BSBD2",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "SayıProblemi",
+     "status": "Yanlış",
+     "no": 26,
+     "answer": "C",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD2\\BSBD2_Mat_SayıProblemi_Yanlış_26_C.jpeg"
+    },
+    {
+     "file": "BSBD2_Mat_ÖzelUcgen_Yanlış_32_C.jpeg",
+     "code": "BSBD2",
+     "subject": "mat",
+     "subject_name": "Matematik",
+     "topic": "ÖzelUcgen",
+     "status": "Yanlış",
+     "no": 32,
+     "answer": "C",
+     "path": "D:\\Alper_irfanhoca\\Denemeler\\Branş\\Mat\\BSBD2\\BSBD2_Mat_ÖzelUcgen_Yanlış_32_C.jpeg"
+    }
+   ],
+   "analysis": null,
+   "notes": ""
+  }
+ ],
+ "images": [],
+ "subjects": [
+  "mat"
+ ],
+ "counts": {
+  "hatirlatici": 3,
+  "pekistirme": 4,
+  "zorlayici": 2
+ },
+ "max_topics": 4,
+ "exclude_qids": [
+  "tyt_mat_3Adm|p117|q1",
+  "tyt_mat_3Adm|p117|q5",
+  "tyt_mat_3Adm|p117|q8",
+  "tyt_mat_3Adm|p121|q1",
+  "tyt_mat_3Adm|p126|q12",
+  "tyt_mat_3Adm|p126|q14",
+  "tyt_mat_3Adm|p15|q5",
+  "tyt_mat_3Adm|p17|q3",
+  "tyt_mat_3Adm|p21|q1",
+  "tyt_mat_3Adm|p23|q4",
+  "tyt_mat_4_4|p327|q9",
+  "tyt_mat_4_4|p341|q9",
+  "tyt_mat_4_4|p361|q10",
+  "tyt_mat_4_4|p372|q9",
+  "tyt_mat_4_4|p375|q5"
+ ]
+}

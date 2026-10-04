@@ -123,7 +123,7 @@ def _handle_event(rid: str, ev: dict) -> None:
 
 
 def start(kind: str, title: str, prompt: str, params: dict | None = None, on_finish=None,
-          files: dict | None = None) -> str:
+          files: dict | None = None, model: str = "") -> str:
     """prompt içindeki <RUN_DIR> çalışma klasörüyle değiştirilir; files = {ad: json-nesnesi} önceden yazılır."""
     claude = config.find_claude()
     rid = datetime.now().strftime("%Y%m%d-%H%M%S") + "-" + kind + "-" + uuid.uuid4().hex[:4]
@@ -145,8 +145,9 @@ def start(kind: str, title: str, prompt: str, params: dict | None = None, on_fin
     cfg = config.get()
     args = [claude, "-p", prompt, "--output-format", "stream-json", "--verbose",
             "--permission-mode", "acceptEdits", "--allowedTools", *ALLOWED_TOOLS]
-    if cfg.get("claude_model"):
-        args += ["--model", cfg["claude_model"]]
+    model = model or cfg.get("claude_model", "")
+    if model:
+        args += ["--model", model]
     env = os.environ.copy()
     pydir = str(Path(sys.executable).parent)
     env["PATH"] = pydir + os.pathsep + str(Path(pydir) / "Scripts") + os.pathsep + env.get("PATH", "")

@@ -20,8 +20,14 @@ const ROLE_ORDER = { hatirlatici: 0, pekistirme: 1, zorlayici: 2 };
 
 const S = { state: null, exams: [], resultPdfs: [], selExams: new Set(), selImgs: new Set(), subjects: new Set(),
   job: null, since: 0, poll: null, cand: null, runId: "", basket: new Map() };
-try { const b = JSON.parse(localStorage.getItem("basket") || "[]"); b.forEach((x) => S.basket.set(x.qid, x)); } catch {}
-const saveBasket = () => { try { localStorage.setItem("basket", JSON.stringify([...S.basket.values()])); } catch {} renderBasket(); };
+// sepet (seçilen sorular) her beyin çalışmasına ayrı saklanır: "basket:<çalışma>"; çalışma yoksa "basket"
+const basketKey = () => (S.runId ? "basket:" + S.runId : "basket");
+function loadBasket(key) {
+  S.basket = new Map();
+  try { const b = JSON.parse(localStorage.getItem(key) || "null"); if (!b) return false; b.forEach((x) => S.basket.set(x.qid, x)); return true; } catch { return false; }
+}
+loadBasket("basket");
+const saveBasket = () => { try { localStorage.setItem(basketKey(), JSON.stringify([...S.basket.values()])); } catch {} renderBasket(); };
 
 // ------------------------------------------------------------------ sekmeler
 $$("#tabs button").forEach((b) => b.addEventListener("click", () => showTab(b.dataset.tab)));
@@ -91,12 +97,17 @@ $$("#subjPick .chip").forEach((b) => b.addEventListener("click", () => {
 }));
 
 // ------------------------------------------------------------------ BEYİN: çalıştır + akış
+// model seçimi tarayıcıda hatırlansın
+try { $("#model").value = localStorage.getItem("model") || ""; } catch {}
+$("#model").addEventListener("change", () => { try { localStorage.setItem("model", $("#model").value); } catch {} });
+
 $("#runBrain").addEventListener("click", async () => {
   if (!S.state?.claude) return toast("Claude Code bulunamadı — Ayarlar'a bakın.");
   const body = {
     exam_ids: [...S.selExams], image_paths: [...S.selImgs], subjects: [...S.subjects],
     counts: { hatirlatici: +$("#cH").value, pekistirme: +$("#cP").value, zorlayici: +$("#cZ").value },
     max_topics: +$("#cT").value, note: $("#note").value, allow_repeat: $("#allowRepeat").checked,
+    model: $("#model").value,
   };
   try {
     const r = await api("/api/brain", { method: "POST", body });
@@ -145,8 +156,8 @@ async function loadCandidates(id, scroll = false) {
   $("#summary").innerHTML = `<p>${esc(c.summary || "")}</p>`;
   $("#diagnosis").innerHTML = (c.diagnosis || []).map((d) => `<div class="d"><b>${esc(d.topic)}</b> <span class="muted small">${esc(d.subject)} · öncelik ${esc(d.priority ?? "")}</span>
     <div>${esc(d.skill || "")}</div><div class="muted small">${esc((d.evidence || []).join(", "))}</div><div class="small">${esc(d.level_note || "")}</div></div>`).join("");
-  // önerilenleri sepete ekle (sepet boşsa)
-  const fresh = !S.basket.size;
+  // bu çalışmanın kayıtlı seçimi varsa onu yükle; yoksa önerilenlerle başla
+  const fresh = !loadBasket(basketKey());
   $("#groups").innerHTML = "";
   (c.groups || []).forEach((g, gi) => {
     const items = (g.items || []).filter((it) => it.found).sort((a, b) => (ROLE_ORDER[a.role] ?? 9) - (ROLE_ORDER[b.role] ?? 9));
@@ -244,6 +255,10 @@ function renderBasket() {
   });
 }
 $("#bToggle").addEventListener("click", () => $("#bList").classList.toggle("hidden"));
+$("#bClear").addEventListener("click", () => {
+  if (!confirm("Seçilen tüm sorular sepetten çıkarılsın mı?")) return;
+  S.basket.clear(); syncCards(); saveBasket();
+});
 $("#makePdf").addEventListener("click", async () => {
   let items = [...S.basket.values()];
   if ($("#optRole").checked) items = items.map((x, i) => ({ ...x, _i: i })).sort((a, b) => (a.group || "").localeCompare(b.group || "", "tr") || (ROLE_ORDER[a.role] ?? 9) - (ROLE_ORDER[b.role] ?? 9) || a._i - b._i);
@@ -282,15 +297,20 @@ function renderExamList() {
     </div>
     ${e.analysis ? analysisHtml(e.analysis) : ""}
     <div class="grid">${e.images.map((im) => `<div class="thumb" title="${esc(im.file)}"><img loading="lazy" src="${fileUrl(im.path)}" data-full="${fileUrl(im.path)}">
-      <div class="cap"><b>${esc(im.subject_name)}</b> ${esc(im.topic)} · ${esc(im.status)} #${im.no ?? ""} (${esc(im.answer)}) <a href="#" data-del="${esc(im.path)}" title="Sil">🗑</a></div></div>`).join("")}</div>
+      <div class="cap"><b>${esc(im.subject_name)}</b> ${esc(im.topic || "")} · <span class="st-${esc(im.status)}">${esc(im.status === "Tereddütlü" ? "Doğru-Tereddütlü" : im.status)}</span>${im.no ? ` #${im.no}` : ""}${im.answer ? ` (${esc(im.answer)})` : ""} <a href="#" data-del="${esc(im.path)}" title="Sil">🗑</a></div></div>`).join("")}</div>
     <div class="drop">
-      <b>Yapamadığı soru ekle:</b> fotoğrafları sürükleyin veya seçin.
+      <b>Soru fotoğrafı ekle:</b> durumu seçin, fotoğrafları buraya <b>sürükleyip bırakın</b>; yükleme kendiliğinden başlar.
+      Doğru yaptığı soruları yüklemenize gerek yok.
       <div class="fields">
-        <select data-u="subject">${[["Mat", "Matematik"], ["Geo", "Geometri"], ["Fiz", "Fizik"], ["Kim", "Kimya"], ["Bio", "Biyoloji"], ["Tur", "Türkçe"], ["Tar", "Tarih"], ["Cog", "Coğrafya"], ["Fel", "Felsefe"], ["Din", "Din"]].map(([k, n]) => `<option value="${k}">${n}</option>`).join("")}</select>
-        <input data-u="topic" placeholder="konu (örn. Fonksiyon)">
-        <select data-u="status"><option>Yapamadı</option><option>Yanlış</option><option>Boş</option><option>Zorlandı</option></select>
-        <input data-u="no" placeholder="soru no" style="width:80px">
-        <input data-u="answer" placeholder="doğru cvp" style="width:90px" maxlength="1">
+        <span class="seg-status">${[["Yapamadı", "Yapamadı"], ["Yanlış", "Yanlış"], ["Tereddütlü", "Doğru-Tereddütlü"]].map(([v, n], i) =>
+          `<label><input type="radio" name="st-${esc(e.id)}" data-u="status" value="${v}" ${i === 0 ? "checked" : ""}>${n}</label>`).join("")}</span>
+        <select data-u="subject" title="İsteğe bağlı: boş bırakılırsa beyin fotoğraftan bulur"><option value="">Ders (beyin bulsun)</option>${[["Mat", "Matematik"], ["Geo", "Geometri"], ["Fiz", "Fizik"], ["Kim", "Kimya"], ["Bio", "Biyoloji"], ["Tur", "Türkçe"], ["Tar", "Tarih"], ["Cog", "Coğrafya"], ["Fel", "Felsefe"], ["Din", "Din"]].map(([k, n]) => `<option value="${k}">${n}</option>`).join("")}</select>
+        <details class="more"><summary class="muted small">isteğe bağlı: konu / no / cevap</summary>
+          <input data-u="topic" placeholder="konu" style="width:130px">
+          <input data-u="no" placeholder="soru no" style="width:70px">
+          <input data-u="answer" placeholder="cevap" style="width:60px" maxlength="1">
+          <span class="muted small">(tek fotoğraf yüklerken kullanılır)</span>
+        </details>
         <input type="file" multiple accept="image/*,.pdf" data-u="files">
         <button class="small" data-up>Yükle</button>
       </div>
@@ -317,14 +337,20 @@ function renderExamList() {
     const drop = $(".drop", card); const fi = $('[data-u="files"]', card);
     drop.ondragover = (ev) => { ev.preventDefault(); drop.classList.add("over"); };
     drop.ondragleave = () => drop.classList.remove("over");
-    drop.ondrop = (ev) => { ev.preventDefault(); drop.classList.remove("over"); fi.files = ev.dataTransfer.files; };
-    $("[data-up]", card).onclick = async () => {
-      if (!fi.files.length) return toast("Dosya seçin");
+    const upload = async (files) => {
+      if (!files.length) return toast("Fotoğraf seçin veya sürükleyin");
       const fd = new FormData(); fd.append("id", e.id);
-      ["subject", "topic", "status", "no", "answer"].forEach((k) => fd.append(k, $(`[data-u="${k}"]`, card).value));
-      [...fi.files].forEach((f) => fd.append("files", f));
-      await api("/api/exams/upload", { method: "POST", body: fd }); toast("Yüklendi"); await loadExams(); renderExamList(); renderExamPick();
+      fd.append("status", $('[data-u="status"]:checked', card).value);
+      ["subject", "topic", "no", "answer"].forEach((k) => fd.append(k, $(`[data-u="${k}"]`, card).value));
+      [...files].forEach((f) => fd.append("files", f));
+      toast(`${files.length} dosya yükleniyor…`);
+      await api("/api/exams/upload", { method: "POST", body: fd });
+      toast(`${files.length} dosya yüklendi`); await loadExams(); renderExamList(); renderExamPick();
     };
+    // bırakınca hemen yükle
+    drop.ondrop = (ev) => { ev.preventDefault(); drop.classList.remove("over"); upload(ev.dataTransfer.files); };
+    fi.onchange = () => fi.files.length && upload(fi.files);
+    $("[data-up]", card).onclick = () => upload(fi.files);
   });
 }
 function analysisHtml(a) {
@@ -396,8 +422,39 @@ async function loadOutputs() {
   $("#outList").innerHTML = outs.map((o) => `<div class="out">📄<div class="t"><b>${esc(o.title)}</b><div class="muted small">${esc(o.file)} · ${o.count ?? "?"} soru · ${(o.size / 1024).toFixed(0)} KB
       ${o.results_entered ? ` · <b>sonuç: ${o.results_done}/${o.results_entered} yaptı</b>` : ""}</div></div>
     ${o.has_items ? `<button class="small ghost" data-res="${esc(o.file)}">📝 Sonuçları gir</button>` : ""}
-    <a href="${o.url}" target="_blank">Aç</a><a href="${o.url}?download=true">İndir</a></div>`).join("") || `<p class="muted">Henüz PDF yok.</p>`;
+    <a href="${o.url}" target="_blank">Aç</a><a href="${o.url}?download=true">İndir</a>
+    <button class="small ghost danger" data-delout="${esc(o.file)}" title="Sil">🗑</button></div>`).join("") || `<p class="muted">Henüz PDF yok.</p>`;
   $$("[data-res]").forEach((b) => (b.onclick = () => openResults(b.dataset.res)));
+  $$("[data-delout]").forEach((b) => (b.onclick = () => deleteOutputs([b.dataset.delout])));
+  $("#delAllOut").onclick = () => outs.length && deleteOutputs(outs.map((o) => o.file));
+  $("#delAllOut").disabled = !outs.length;
+
+  const runs = (await api("/api/jobs")).filter((j) => j.status !== "running");
+  const kindTr = { brain: "🧠 Beyin", keys: "Cevap anahtarı", rate: "⭐ Puanlama", exam: "Sınav analizi" };
+  $("#runList").innerHTML = runs.map((j) => `<div class="out"><div class="t"><b>${esc(j.title)}</b>
+      <div class="muted small">${kindTr[j.kind] || j.kind} · ${esc(j.created.replace("T", " ").slice(0, 16))} · ${statusTr(j.status)}
+      ${j.duration_s ? ` · ${Math.round(j.duration_s)} sn` : ""}${j.cost_usd ? ` · ~$${j.cost_usd.toFixed(2)}` : ""}</div></div>
+    ${j.kind === "brain" ? `<button class="small ghost" data-openrun="${esc(j.id)}">Aç</button>` : ""}
+    <button class="small ghost danger" data-delrun="${esc(j.id)}" title="Sil">🗑</button></div>`).join("") || `<p class="muted">Kayıtlı çalışma yok.</p>`;
+  $$("[data-openrun]").forEach((b) => (b.onclick = () => { showTab("brain"); watchJob(b.dataset.openrun); }));
+  $$("[data-delrun]").forEach((b) => (b.onclick = () => deleteRuns([b.dataset.delrun])));
+  $("#delAllRuns").onclick = () => runs.length && deleteRuns(runs.map((j) => j.id));
+  $("#delAllRuns").disabled = !runs.length;
+}
+
+async function deleteOutputs(files) {
+  const msg = files.length === 1 ? `"${files[0]}" silinsin mi?` : `${files.length} PDF silinsin mi?`;
+  if (!confirm(msg + "\n\nİçindeki sorular 'verilen sorular' listesinden çıkar ve tekrar önerilebilir. Girilmiş öğrenci sonuçları korunur.")) return;
+  const r = await api("/api/outputs/delete", { method: "POST", body: { files } });
+  toast(`${r.deleted} PDF silindi`); loadOutputs();
+}
+async function deleteRuns(ids) {
+  const msg = ids.length === 1 ? "Bu çalışma silinsin mi?" : `${ids.length} çalışma silinsin mi?`;
+  if (!confirm(msg + "\n\nAdaylar ve akış silinir; zorluk puanları, geri bildirimler ve sonuçlar korunur.")) return;
+  const r = await api("/api/jobs/delete", { method: "POST", body: { ids } });
+  ids.forEach((id) => { try { localStorage.removeItem("basket:" + id); } catch {} });
+  if (ids.includes(S.job)) { S.job = null; S.runId = ""; clearInterval(S.poll); $("#candidates").classList.add("hidden"); $("#feed").innerHTML = ""; $("#jobHead").textContent = "Henüz çalışma yok."; loadBasket("basket"); renderBasket(); }
+  toast(`${r.deleted} çalışma silindi`); loadOutputs(); loadHistory();
 }
 
 // öğrencinin çalışma kâğıdı sonuçları: her soru için yaptı / yapamadı / boş
@@ -435,7 +492,7 @@ async function openResults(file) {
 $("#saveSettings").onclick = async () => {
   await api("/api/config", { method: "POST", body: { student_name: $("#setStudent").value,
     sources: $("#setSources").value.split("\n").map((s) => s.trim()).filter(Boolean), exams_dir: $("#setExams").value,
-    claude_path: $("#setClaude").value.trim(), claude_model: $("#setModel").value.trim() } });
+    claude_path: $("#setClaude").value.trim(), claude_model: $("#setModel").value } });
   $("#setMsg").textContent = "Kaydedildi."; await loadState(); await loadExams(); renderExamPick();
 };
 $("#resetUsed").onclick = async () => { if (confirm("Daha önce verilen sorular listesi sıfırlansın mı?")) { await api("/api/used/reset", { method: "POST" }); toast("Sıfırlandı"); } };

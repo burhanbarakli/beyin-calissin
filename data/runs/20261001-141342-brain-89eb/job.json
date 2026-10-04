@@ -1,0 +1,30 @@
+{
+  "id": "20261001-141342-brain-89eb",
+  "kind": "brain",
+  "title": "Beyin: BSBD2",
+  "params": {
+    "exam_ids": [
+      "Branş/Mat/BSBD2"
+    ],
+    "image_paths": [],
+    "subjects": [
+      "mat"
+    ],
+    "counts": {
+      "hatirlatici": 3,
+      "pekistirme": 4,
+      "zorlayici": 2
+    },
+    "max_topics": 4,
+    "note": "",
+    "allow_repeat": false
+  },
+  "status": "done",
+  "created": "2026-10-01T14:13:42",
+  "run_dir": "C:\\Users\\burha\\OneDrive\\Belgeler\\WORKS\\irfan hoca\\data\\runs\\20261001-141342-brain-89eb",
+  "pid": 18484,
+  "result_text": "`data/runs/20261001-141342-brain-89eb/candidates.json` dosyasını yazdım. Aday soruların çoğunu kesim görseli veya metin özetiyle kontrol ettim, hepsini görsel olarak açmadım. Seçimlerin çoğunda kitaptaki cevap anahtarına güvendim, cevap anahtarını tek tek doğrulamadım.\n\n**Teşhis (Alper, BSBD2 Mat, en fazla 4 konu):**\n- **Dikdörtgenler prizması (Yapamadı):** yüzey alanı, ayrıt toplamı ve cisim köşegeni ilişkisini kuramıyor.\n- **Dikdörtgen (Yapamadı):** köşegen boyunca katlama sorularında takılıyor.\n- **Eşitsizlik (Yapamadı):** koordinat düzlemindeki bölgeden a, b, c, d işaretlerini çıkaramıyor.\n- **Mantık (Yanlış):** tek/çift sayı önermelerinde p⇒q yanlışsa p=1, q=0 çıkarımını yapamıyor.\n\nSayı problemi ve özel üçgen konularını 4 konu sınırı yüzünden dışarıda bıraktım.\n\n**Çalışma seti:** Her konuda hedefin 1,5-2 katı aday var, hedef sayı kadarı `recommended: true` işaretli. Yapamadı soruları için hatırlatıcı ağırlıklı gittim ve çözümlü örnekleri öne aldım. Bankada `exclude_qids` ile çakışan aday yok.\n\n**Dikkat edilecekler:**\n- `tyt_mat_3Adm|p49|q3`, öğrencinin kaçırdığı 10. sorunun (2021 TYT) aynısı. Önerilenlere almadım, öğretmen isterse çözüm sonrası tekrar için ekleyebilir.\n- Eşitsizlik grubunda banka az soru verdi, bu yüzden bu grup diğerlerinden küçük.\n- Yalnızca `tyt_mat_4_4|p86|q29` için çözümden cevabı çıkarıp (A) `answer_source: claude` ile yazdım. Diğer adaylarda cevap bankada vardı. `tyt_mat_4_4|p90|q43` için bankada cevap yoktu ve ben de yazmadım.",
+  "cost_usd": 0.7552836,
+  "duration_s": 129.106,
+  "finished": "2026-10-01T14:15:52"
+}

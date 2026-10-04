@@ -50,6 +50,14 @@
         <label>En çok konu<input type="number" id="cT" min="1" max="10" value="4"></label>
       </div>
       <p class="muted small">Sayılar konu başınadır; beyin seçebilmeniz için daha fazla aday getirir.</p>
+      <label class="field-inline">Model
+        <select id="model">
+          <option value="">Ayarlardaki (varsayılan)</option>
+          <option value="opus">Opus · en iyi teşhis (yavaş, ~1,5 $)</option>
+          <option value="sonnet">Sonnet · dengeli (hızlı, ~0,5 $)</option>
+          <option value="haiku">Haiku · en hızlı / ucuz (~0,1 $)</option>
+        </select>
+      </label>
       <textarea id="note" rows="2" placeholder="Öğretmen notu (isteğe bağlı): örn. geometriye ağırlık ver, ÖSYM tarzı sorular olsun…"></textarea>
       <label class="check"><input type="checkbox" id="allowRepeat"> Daha önce verilen soruları tekrar kullanabilir</label>
       <button id="runBrain" class="big">🧠 Beyin Çalışsın</button>
@@ -114,8 +122,11 @@
 
 <!-- ===================================================== ÇIKTILAR -->
 <section id="tab-outputs" class="tab">
-  <h2>Oluşturulan PDF'ler</h2>
+  <div class="row between"><h2>Oluşturulan PDF'ler</h2><button id="delAllOut" class="ghost small">🗑 Tüm PDF'leri sil</button></div>
   <div id="outList"></div>
+  <div class="row between" style="margin-top:24px"><h2>Beyin çalışmaları</h2><button id="delAllRuns" class="ghost small">🗑 Tüm çalışmaları sil</button></div>
+  <p class="muted small">Silinen çalışmanın adayları ve akışı kaybolur. Claude'un verdiği zorluk puanları, geri bildirimleriniz ve öğrenci sonuçları korunur.</p>
+  <div id="runList"></div>
 </section>
 
 <!-- ===================================================== AYARLAR -->
@@ -126,7 +137,13 @@
     <label class="field">Kaynak klasörleri <span class="muted small">(her satıra bir klasör)</span><textarea id="setSources" rows="3"></textarea></label>
     <label class="field">Denemeler klasörü<input id="setExams"></label>
     <label class="field">Claude Code yolu <span class="muted small">(boş = otomatik bul)</span><input id="setClaude"></label>
-    <label class="field">Model <span class="muted small">(boş = varsayılan; örn. claude-sonnet-5-5)</span><input id="setModel"></label>
+    <label class="field">Varsayılan model <span class="muted small">(Beyin panelinde her çalışmada ayrıca seçilebilir)</span>
+      <select id="setModel">
+        <option value="">Claude Code varsayılanı</option>
+        <option value="opus">Opus · en iyi</option>
+        <option value="sonnet">Sonnet · dengeli</option>
+        <option value="haiku">Haiku · en ucuz</option>
+      </select></label>
     <div class="row gap"><button id="saveSettings">Kaydet</button><button id="resetUsed" class="ghost">"Verilen sorular" listesini sıfırla</button></div>
     <p id="setMsg" class="muted small"></p>
   </div>
@@ -137,7 +154,7 @@
 <div id="basket" class="basket hidden">
   <div class="row between">
     <b>Seçilen: <span id="bCount">0</span> soru</b>
-    <button id="bToggle" class="ghost small">Sırala / düzenle</button>
+    <span class="row gap"><button id="bToggle" class="ghost small">Sırala / düzenle</button><button id="bClear" class="ghost small" title="Sepeti boşalt">🗑</button></span>
   </div>
   <div id="bList" class="blist hidden"></div>
   <input id="pdfTitle" value="Çalışma Kâğıdı">

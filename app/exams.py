@@ -27,7 +27,13 @@ SUBJECT_NAMES = {
     "tarih": "Tarih", "cografya": "Coğrafya", "felsefe": "Felsefe", "din": "Din Kültürü",
 }
 STATUS_NORM = {"yanlış": "Yanlış", "yanlis": "Yanlış", "boş": "Boş", "bos": "Boş", "yapamadı": "Yapamadı",
-               "yapamadi": "Yapamadı", "zorlandı": "Zorlandı", "zorlandi": "Zorlandı"}
+               "yapamadi": "Yapamadı", "zorlandı": "Tereddütlü", "zorlandi": "Tereddütlü",
+               "tereddütlü": "Tereddütlü", "tereddutlu": "Tereddütlü", "doğrutereddütlü": "Tereddütlü",
+               "doğru": "Doğru", "dogru": "Doğru"}
+# Beynin dikkate aldığı durumlar (doğru yapılan soruların yüklenmesi gerekmez)
+ACTIVE_STATUSES = {"Yapamadı", "Yanlış", "Boş", "Tereddütlü"}
+UNKNOWN_SUBJECT = "Gen"     # ders seçilmeden yüklenen fotoğraf: beyin görselden bulur
+UNKNOWN_TOPIC = "KonuYok"   # konu girilmeden yüklenen fotoğraf
 MONTHS = {"ocak": 1, "şubat": 2, "subat": 2, "mart": 3, "nisan": 4, "mayıs": 5, "mayis": 5, "haziran": 6,
           "temmuz": 7, "ağustos": 8, "agustos": 8, "eylül": 9, "eylul": 9, "ekim": 10, "kasım": 11,
           "kasim": 11, "aralık": 12, "aralik": 12}
@@ -48,9 +54,16 @@ def parse_image_name(name: str) -> dict:
         info.update(code=code, topic=" ".join(topic), status=STATUS_NORM.get(status.lower(), status),
                     answer=ans.upper()[:1])
         info["no"] = int(no) if no.isdigit() else None
-        s = SUBJECT_CODES.get(subj.lower()[:3], subj.lower())
-        info["subject"] = s
-        info["subject_name"] = "Geometri" if subj.lower().startswith("geo") else SUBJECT_NAMES.get(s, subj)
+        if subj == UNKNOWN_SUBJECT:
+            info["subject"], info["subject_name"] = "", "Ders ?"
+        else:
+            s = SUBJECT_CODES.get(subj.lower()[:3], subj.lower())
+            info["subject"] = s
+            info["subject_name"] = "Geometri" if subj.lower().startswith("geo") else SUBJECT_NAMES.get(s, subj)
+        if info["topic"] == UNKNOWN_TOPIC:
+            info["topic"] = ""
+        if info["answer"] == "X":
+            info["answer"] = ""
     return info
 
 
@@ -149,11 +162,16 @@ def create_exam(folder_name: str, meta: dict) -> dict:
 
 def add_image(eid: str, filename: str, data: bytes, subject_code: str, topic: str, status: str,
               no: str, answer: str) -> dict:
+    """Sadece durum zorunlu; ders/konu/no/cevap boşsa beyin fotoğraftan bulur."""
     folder = folder_of(eid)
     ext = Path(filename).suffix.lower() or ".jpeg"
     code = folder.name.split("_")[0]
-    topic = re.sub(r"[^\wçğıöşüÇĞİÖŞÜ]+", "", topic.title()) or "Konu"
-    name = f"{code}_{subject_code}_{topic}_{status}_{no}_{answer.upper()[:1] or 'X'}{ext}"
+    subject_code = subject_code or UNKNOWN_SUBJECT
+    topic = re.sub(r"[^\wçğıöşüÇĞİÖŞÜ]+", "", topic.title()) or UNKNOWN_TOPIC
+    if not str(no).strip().isdigit() or str(no).strip() == "0":
+        # soru no girilmediyse sıradaki numara (dosya adları benzersiz olsun)
+        no = sum(1 for f in folder.iterdir() if f.suffix.lower() in IMG_EXT) + 1
+    name = f"{code}_{subject_code}_{topic}_{status}_{no}_{(answer or 'X').upper()[:1]}{ext}"
     target = folder / name
     i = 2
     while target.exists():

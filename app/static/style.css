@@ -59,6 +59,16 @@ details summary { cursor: pointer; font-weight: 600; margin: 8px 0; }
 .role-dot.hatirlatici, .role.hatirlatici { background: var(--h); }
 .role-dot.pekistirme, .role.pekistirme { background: var(--p); }
 .role-dot.zorlayici, .role.zorlayici { background: var(--z); }
+.field-inline { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin: 8px 0; font-weight: 600; }
+.field-inline select { flex: 1; max-width: 300px; }
+.field select { display: block; width: 100%; margin-top: 4px; font-weight: normal; }
+.seg-status { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.seg-status label { padding: 5px 10px; cursor: pointer; font-size: 13px; border-right: 1px solid var(--line); }
+.seg-status label:last-child { border-right: 0; }
+.seg-status input { display: none; }
+.seg-status label:has(input:checked) { background: var(--accent); color: #fff; }
+.st-Yapamadı { color: var(--z); font-weight: 600; } .st-Yanlış { color: #b45309; font-weight: 600; }
+.st-Tereddütlü { color: var(--p); font-weight: 600; } .st-Boş { color: var(--muted); font-weight: 600; }
 .check { display: flex; gap: 6px; align-items: center; margin: 6px 0; font-size: 13px; }
 
 .live { display: flex; flex-direction: column; min-height: 420px; }
@@ -140,6 +150,8 @@ details summary { cursor: pointer; font-weight: 600; margin: 8px 0; }
 
 .out { display: flex; align-items: center; gap: 12px; background: #fff; border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; margin-bottom: 8px; }
 .out .t { flex: 1; }
+button.ghost.danger { color: var(--z); border-color: #f3c4bf; }
+button.ghost.danger:hover { background: #fbe9e7; }
 .field { display: block; margin-bottom: 10px; font-weight: 600; }
 .field input, .field textarea { display: block; width: 100%; margin-top: 4px; font-weight: normal; }
 

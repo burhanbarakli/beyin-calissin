@@ -1,0 +1,194 @@
+{
+ "file": "20261001-1417_Çalışma_Kâğıdı.pdf",
+ "title": "Çalışma Kâğıdı",
+ "run_id": "20261001-141342-brain-89eb",
+ "items": [
+  {
+   "qid": "tyt_mat_4_4|p521|q1",
+   "role": "hatirlatici",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p201|q3",
+   "role": "hatirlatici",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p522|q4",
+   "role": "hatirlatici",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p201|q1",
+   "role": "hatirlatici",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p201|q4",
+   "role": "hatirlatici",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p541|q5",
+   "role": "pekistirme",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p542|q9",
+   "role": "pekistirme",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p204|q8",
+   "role": "pekistirme",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p546|q5",
+   "role": "pekistirme",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p203|q3",
+   "role": "pekistirme",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p542|q11",
+   "role": "pekistirme",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p204|q9",
+   "role": "pekistirme",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p205|q3",
+   "role": "zorlayici",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p206|q6",
+   "role": "zorlayici",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p205|q1",
+   "role": "zorlayici",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p206|q7",
+   "role": "zorlayici",
+   "group": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p361|q10",
+   "role": "hatirlatici",
+   "group": "Fonksiyonlar — ters fonksiyon ve grafik",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p341|q9",
+   "role": "hatirlatici",
+   "group": "Fonksiyonlar — ters fonksiyon ve grafik",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p372|q9",
+   "role": "hatirlatici",
+   "group": "Fonksiyonlar — ters fonksiyon ve grafik",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p375|q5",
+   "role": "pekistirme",
+   "group": "Fonksiyonlar — ters fonksiyon ve grafik",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p126|q12",
+   "role": "pekistirme",
+   "group": "Fonksiyonlar — ters fonksiyon ve grafik",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p126|q14",
+   "role": "zorlayici",
+   "group": "Fonksiyonlar — ters fonksiyon ve grafik",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_4_4|p327|q9",
+   "role": "hatirlatici",
+   "group": "Olasılık — verilerden oran kurma",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p117|q1",
+   "role": "hatirlatici",
+   "group": "Olasılık — verilerden oran kurma",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p117|q5",
+   "role": "pekistirme",
+   "group": "Olasılık — verilerden oran kurma",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p117|q8",
+   "role": "pekistirme",
+   "group": "Olasılık — verilerden oran kurma",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p121|q1",
+   "role": "zorlayici",
+   "group": "Olasılık — verilerden oran kurma",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p21|q1",
+   "role": "hatirlatici",
+   "group": "Tek-Çift Sayılar",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p15|q5",
+   "role": "hatirlatici",
+   "group": "Tek-Çift Sayılar",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p17|q3",
+   "role": "pekistirme",
+   "group": "Tek-Çift Sayılar",
+   "answer": ""
+  },
+  {
+   "qid": "tyt_mat_3Adm|p23|q4",
+   "role": "pekistirme",
+   "group": "Tek-Çift Sayılar",
+   "answer": ""
+  }
+ ],
+ "count": 31
+}

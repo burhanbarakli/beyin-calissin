@@ -141,15 +141,19 @@ def exam_meta(body: dict):
 
 @app.post("/api/exams/upload")
 async def exam_upload(id: str = Form(...), subject: str = Form(""), topic: str = Form(""),
-                      status: str = Form("Yanlış"), no: str = Form(""), answer: str = Form(""),
+                      status: str = Form("Yapamadı"), no: str = Form(""), answer: str = Form(""),
                       files: list[UploadFile] = File(...)):
     out = []
+    imgs = [f for f in files if not f.filename.lower().endswith(".pdf")]
     for f in files:
         data = await f.read()
         if f.filename.lower().endswith(".pdf"):
             out.append({"pdf": exams.add_file(id, f.filename, data)})
         else:
-            out.append(exams.add_image(id, f.filename, data, subject or "Mat", topic, status, no or "0", answer))
+            # soru no / cevap tek fotoğraf yüklenirken anlamlı; topluda otomatik numara verilir
+            single = len(imgs) == 1
+            out.append(exams.add_image(id, f.filename, data, subject, topic, status,
+                                       no if single else "", answer if single else ""))
     return {"saved": out}
 
 
@@ -191,6 +195,7 @@ class BrainReq(BaseModel):
     max_topics: int = 4
     note: str = ""
     allow_repeat: bool = False
+    model: str = ""          # "" = ayarlardaki; opus / sonnet / haiku
 
 
 @app.post("/api/brain")
@@ -204,9 +209,12 @@ def brain(req: BrainReq):
                 images.append(im | {"exam": e["id"], "exam_name": e["name"]})
     if not sel and not images:
         raise HTTPException(400, "En az bir sınav veya soru görseli seçin.")
-    for e in sel:  # gereksiz alanları at
+    for e in sel:
+        # sadece eksik gösteren durumlar (doğru yapılanlar beyne gitmez); dersi belirsiz görseller filtrede kalır
+        e["images"] = [im for im in e["images"]
+                       if im["status"] in exams.ACTIVE_STATUSES or not im["status"]]
         if req.subjects:
-            e["images"] = [im for im in e["images"] if im["subject"] in req.subjects]
+            e["images"] = [im for im in e["images"] if not im["subject"] or im["subject"] in req.subjects]
     task = {
         "student": config.get()["student_name"],
         "teacher_note": req.note,
@@ -221,7 +229,7 @@ def brain(req: BrainReq):
     prompt = ("brain/BRAIN.md dosyasındaki talimatları uygula. Görev dosyası: <RUN_DIR>/task.json. "
               "RUN_DIR = <RUN_DIR>. Sonucu <RUN_DIR>/candidates.json dosyasına yaz. Türkçe çalış.")
     rid = runner.start("brain", "Beyin: " + ", ".join(title_bits), prompt, req.model_dump(),
-                       files={"task.json": task}, on_finish=_save_candidate_ratings)
+                       files={"task.json": task}, on_finish=_save_candidate_ratings, model=req.model)
     return {"job": rid}
 
 
@@ -406,6 +414,49 @@ def output_file(name: str, download: bool = False):
     return FileResponse(p, media_type="application/pdf",
                         filename=name if download else None,
                         content_disposition_type="attachment" if download else "inline")
+
+
+@app.post("/api/outputs/delete")
+def outputs_delete(body: dict):
+    """PDF'leri (ve bilgi dosyalarını) siler; içindeki soruları 'verilen sorular' listesinden çıkarır."""
+    out_dir = config.OUTPUT_DIR.resolve()
+    freed, n = set(), 0
+    for name in body.get("files", []):
+        p = (config.OUTPUT_DIR / name).resolve()
+        if p.parent != out_dir or p.suffix.lower() != ".pdf":
+            continue
+        meta = _json(p.with_suffix(".json"), {})
+        freed |= {it["qid"] for it in meta.get("items", [])}
+        for f in (p, p.with_suffix(".json")):
+            if f.exists():
+                f.unlink()
+        n += 1
+    # hâlâ duran PDF'lerdeki sorular "verilen" olarak kalsın
+    still = set()
+    for m in config.OUTPUT_DIR.glob("*.json"):
+        still |= {it["qid"] for it in _json(m, {}).get("items", [])}
+    used = [q for q in _json(USED_FILE, []) if q not in freed or q in still]
+    USED_FILE.write_text(json.dumps(used, ensure_ascii=False), encoding="utf-8")
+    return {"deleted": n, "freed": len(freed - still)}
+
+
+@app.post("/api/jobs/delete")
+def jobs_delete(body: dict):
+    import shutil
+    runs_dir = config.RUNS_DIR.resolve()
+    n = 0
+    for rid in body.get("ids", []):
+        d = (config.RUNS_DIR / rid).resolve()
+        if d.parent != runs_dir or not d.is_dir():
+            continue
+        try:
+            if runner.read_job(rid).get("status") == "running":
+                continue
+        except (FileNotFoundError, json.JSONDecodeError):
+            pass
+        shutil.rmtree(d, ignore_errors=True)
+        n += 1
+    return {"deleted": n}
 
 
 @app.post("/api/used/reset")

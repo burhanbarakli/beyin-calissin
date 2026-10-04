@@ -1,0 +1,489 @@
+{
+ "summary": "BSBD2 branş denemesinde Alper 3 soruda hiç başlayamamış (prizma yüzey alanı/cisim köşegeni, dikdörtgende köşegen boyunca katlama, koordinatta eşitsizlik sistemi); mantıkta tek/çift önerme, sayı problemi ve özel üçgende yanlış yapmış. En çok 4 konu seçildi: prizma, dikdörtgen/katlama, eşitsizlik-grafik, mantık (parite). Yapamadı sorularında hatırlatıcı (çözümlü örnek) ağırlık verildi.",
+ "diagnosis": [
+  {
+   "subject": "mat",
+   "topic": "Dikdörtgenler prizması",
+   "skill": "Ayrıt toplamı ve cisim köşegeninden (a+b+c)² ve a²+b²+c² ilişkisiyle yüzey alanı",
+   "evidence": [
+    "BSBD2 Mat 40 Yapamadı"
+   ],
+   "priority": 1,
+   "level_note": "Temel kavram eksik, hatırlatıcı ağırlıklı"
+  },
+  {
+   "subject": "mat",
+   "topic": "Dikdörtgen",
+   "skill": "Köşegen boyunca katlama: eşit parçalar, pisagor/benzerlik",
+   "evidence": [
+    "BSBD2 Mat 35 Yapamadı"
+   ],
+   "priority": 2,
+   "level_note": "Temel eksik, hatırlatıcı + pekiştirme"
+  },
+  {
+   "subject": "mat",
+   "topic": "Eşitsizlik",
+   "skill": "Koordinat düzleminde doğru ve bölgeden a,b,c,d işaretleri",
+   "evidence": [
+    "BSBD2 Mat 10 Yapamadı"
+   ],
+   "priority": 3,
+   "level_note": "Temel eksik, hatırlatıcı ağırlıklı"
+  },
+  {
+   "subject": "mat",
+   "topic": "Mantık",
+   "skill": "Tek/çift sayı önermelerinde p⇒q yanlış ise p=1,q=0 ve parite çıkarımı",
+   "evidence": [
+    "BSBD2 Mat 13 Yanlış"
+   ],
+   "priority": 4,
+   "level_note": "Uygulama hatası, pekiştirme ağırlıklı"
+  }
+ ],
+ "groups": [
+  {
+   "title": "Dikdörtgenler prizması — yüzey alanı ve cisim köşegeni",
+   "subject": "mat",
+   "why": "Soru 40: ayrıt toplamı ve köşegenden yüzey alanı",
+   "source_images": [
+    "D:/Alper_irfanhoca/Denemeler/Branş/Mat/BSBD2/BSBD2_Mat_DikdortgenPrizma_Yapamadı_40_C.jpeg"
+   ],
+   "items": [
+    {
+     "qid": "tyt_mat_4_4|p521|q1",
+     "role": "hatirlatici",
+     "why": "Ayrıt toplamı/hacim ilişkisi; çözümlü örnek",
+     "recommended": true,
+     "difficulty": 2,
+     "difficulty_note": "tek kavram, çözümlü"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p201|q3",
+     "role": "hatirlatici",
+     "why": "Dikdörtgenler prizmasında yüzey alanı hesabı",
+     "recommended": true,
+     "difficulty": 2,
+     "difficulty_note": "temel yüzey alanı"
+    },
+    {
+     "qid": "tyt_mat_4_4|p522|q4",
+     "role": "hatirlatici",
+     "why": "Prizma kutu yüzey/hacim; çözümlü örnek",
+     "recommended": true,
+     "difficulty": 2,
+     "difficulty_note": "temel uygulama, çözümlü"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p201|q1",
+     "role": "hatirlatici",
+     "why": "Ayrıt uzunluklarından prizma hesabı",
+     "recommended": false,
+     "difficulty": 2,
+     "difficulty_note": "temel uygulama"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p201|q4",
+     "role": "hatirlatici",
+     "why": "Hacim eşitliği",
+     "recommended": false,
+     "difficulty": 2,
+     "difficulty_note": "temel uygulama"
+    },
+    {
+     "qid": "tyt_mat_4_4|p541|q5",
+     "role": "pekistirme",
+     "why": "Cisim köşegeni ve açılar; sorudaki 'cisim köşegeni' kavramının uygulaması",
+     "recommended": true,
+     "difficulty": 3,
+     "difficulty_note": "iki dik üçgen"
+    },
+    {
+     "qid": "tyt_mat_4_4|p542|q9",
+     "role": "pekistirme",
+     "why": "Prizmada köşegen/uzunluk ilişkisi, hacim",
+     "recommended": true,
+     "difficulty": 3,
+     "difficulty_note": "çok adımlı"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p204|q8",
+     "role": "pekistirme",
+     "why": "Prizma parçalama-birleştirme, yüzey/hacim",
+     "recommended": true,
+     "difficulty": 3,
+     "difficulty_note": "iki adım"
+    },
+    {
+     "qid": "tyt_mat_4_4|p546|q5",
+     "role": "pekistirme",
+     "why": "Prizma hacmi - piramit çıkarma",
+     "recommended": true,
+     "difficulty": 3,
+     "difficulty_note": "iki adım"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p203|q3",
+     "role": "pekistirme",
+     "why": "Küplerle prizma oluşturma",
+     "recommended": false,
+     "difficulty": 3,
+     "difficulty_note": "mantık yürütme"
+    },
+    {
+     "qid": "tyt_mat_4_4|p542|q11",
+     "role": "pekistirme",
+     "why": "Kapta su seviyesi, prizma",
+     "recommended": false,
+     "difficulty": 3,
+     "difficulty_note": "hacim oranı"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p204|q9",
+     "role": "pekistirme",
+     "why": "Birim küpten kare prizma",
+     "recommended": false,
+     "difficulty": 3,
+     "difficulty_note": "sayma"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p205|q3",
+     "role": "zorlayici",
+     "why": "Öğrencinin kaçırdığı soru tipi: yüzey alanı formülü verilen ÖSYM sorusu (2019)",
+     "recommended": true,
+     "difficulty": 4,
+     "difficulty_note": "ÖSYM; formül yorumlama"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p206|q6",
+     "role": "zorlayici",
+     "why": "Yüzey alanı formülü, birleştirilen prizmalar (2021)",
+     "recommended": true,
+     "difficulty": 4,
+     "difficulty_note": "ÖSYM; çok adımlı"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p205|q1",
+     "role": "zorlayici",
+     "why": "Boyalı yüz alanları (2018)",
+     "recommended": false,
+     "difficulty": 4,
+     "difficulty_note": "ÖSYM"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p206|q7",
+     "role": "zorlayici",
+     "why": "Boyalı yüzeyler alan toplamı (2021)",
+     "recommended": false,
+     "difficulty": 4,
+     "difficulty_note": "ÖSYM"
+    }
+   ]
+  },
+  {
+   "title": "Dikdörtgen — köşegen ve katlama",
+   "subject": "mat",
+   "why": "Soru 35: köşegen boyunca katlama",
+   "source_images": [
+    "D:/Alper_irfanhoca/Denemeler/Branş/Mat/BSBD2/BSBD2_Mat_Dikdörtgen_Yapamadı_35_D.jpeg"
+   ],
+   "items": [
+    {
+     "qid": "tyt_mat_3Adm|p184|q5",
+     "role": "hatirlatici",
+     "why": "Dikdörtgende köşegenler ve açı",
+     "recommended": true,
+     "difficulty": 2,
+     "difficulty_note": "temel köşegen özelliği"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p184|q8",
+     "role": "hatirlatici",
+     "why": "Dikdörtgen köşegeni uzunluğu",
+     "recommended": true,
+     "difficulty": 2,
+     "difficulty_note": "pisagor/köşegen"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p184|q7",
+     "role": "hatirlatici",
+     "why": "Dikdörtgende köşegene dik inme",
+     "recommended": true,
+     "difficulty": 2,
+     "difficulty_note": "öklid/benzerlik"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p183|q3",
+     "role": "hatirlatici",
+     "why": "Dikdörtgen çevresi",
+     "recommended": false,
+     "difficulty": 1,
+     "difficulty_note": "tek adım"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p184|q9",
+     "role": "hatirlatici",
+     "why": "Eşit köşegenler ve açı",
+     "recommended": false,
+     "difficulty": 2,
+     "difficulty_note": "açı hesabı"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p185|q2",
+     "role": "pekistirme",
+     "why": "Öğrencinin sorusuyla aynı beceri: köşegen boyunca katlama (BC → AC)",
+     "recommended": true,
+     "difficulty": 3,
+     "difficulty_note": "katlama + pisagor"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p185|q3",
+     "role": "pekistirme",
+     "why": "Köşegen boyunca katlama, açı",
+     "recommended": true,
+     "difficulty": 3,
+     "difficulty_note": "açı katlama"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p186|q5",
+     "role": "pekistirme",
+     "why": "Katlama, A köşesi F'ye gelir",
+     "recommended": true,
+     "difficulty": 3,
+     "difficulty_note": "pisagor"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p186|q9",
+     "role": "pekistirme",
+     "why": "Katlama, B noktası T'ye gelir",
+     "recommended": true,
+     "difficulty": 3,
+     "difficulty_note": "benzerlik + pisagor"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p185|q1",
+     "role": "pekistirme",
+     "why": "Köşegen uzunluğundan kenar bulma",
+     "recommended": false,
+     "difficulty": 3,
+     "difficulty_note": "dizilim"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p186|q7",
+     "role": "pekistirme",
+     "why": "Alan oranı, kenar uzatma",
+     "recommended": false,
+     "difficulty": 3,
+     "difficulty_note": "alan"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p186|q8",
+     "role": "pekistirme",
+     "why": "Taralı alan",
+     "recommended": false,
+     "difficulty": 3,
+     "difficulty_note": "alan"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p187|q4",
+     "role": "zorlayici",
+     "why": "Katlama sorusu, orantılı kenarlar (2019 ÖSYM)",
+     "recommended": true,
+     "difficulty": 4,
+     "difficulty_note": "ÖSYM; benzerlik"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p187|q2",
+     "role": "zorlayici",
+     "why": "Çift katlama (2018 ÖSYM)",
+     "recommended": true,
+     "difficulty": 4,
+     "difficulty_note": "ÖSYM"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p187|q1",
+     "role": "zorlayici",
+     "why": "Dikdörtgen+kare dantel (2018 ÖSYM)",
+     "recommended": false,
+     "difficulty": 4,
+     "difficulty_note": "ÖSYM"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p188|q7",
+     "role": "zorlayici",
+     "why": "Arsa/dikdörtgen alan (2021 ÖSYM)",
+     "recommended": false,
+     "difficulty": 4,
+     "difficulty_note": "ÖSYM"
+    }
+   ]
+  },
+  {
+   "title": "Eşitsizlik — koordinat düzleminde bölge ve işaret",
+   "subject": "mat",
+   "why": "Soru 10: eşitsizlik sistemi grafiği",
+   "source_images": [
+    "D:/Alper_irfanhoca/Denemeler/Branş/Mat/BSBD2/BSBD2_Mat_Esitsizlik_Yapamadı_10_C.jpeg"
+   ],
+   "items": [
+    {
+     "qid": "tyt_mat_4_4|p86|q29",
+     "role": "hatirlatici",
+     "why": "Koordinat düzleminde bölgeden eşitsizlik sistemine geçiş; çözümlü",
+     "recommended": true,
+     "difficulty": 2,
+     "difficulty_note": "doğru denklemi + yön",
+     "answer": "A",
+     "answer_source": "claude"
+    },
+    {
+     "qid": "tyt_mat_4_4|p90|q43",
+     "role": "hatirlatici",
+     "why": "Çarpım işaretinden a,b,c işareti çıkarma; çözümlü",
+     "recommended": true,
+     "difficulty": 2,
+     "difficulty_note": "işaret analizi"
+    },
+    {
+     "qid": "tyt_mat_4_4|p80|q12",
+     "role": "hatirlatici",
+     "why": "Eşitsizlik çözüm kümesi; çözümlü",
+     "recommended": true,
+     "difficulty": 2,
+     "difficulty_note": "temel"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p41|q4",
+     "role": "pekistirme",
+     "why": "İşaret çıkarımı, çok koşullu",
+     "recommended": true,
+     "difficulty": 3,
+     "difficulty_note": "çok koşul"
+    },
+    {
+     "qid": "tyt_mat_4_4|p98|q9",
+     "role": "pekistirme",
+     "why": "Eşitsizlik sistemi çözümü",
+     "recommended": true,
+     "difficulty": 3,
+     "difficulty_note": "çok adım"
+    },
+    {
+     "qid": "tyt_mat_4_4|p102|q10",
+     "role": "pekistirme",
+     "why": "Aralık eşitsizliği modelleme",
+     "recommended": false,
+     "difficulty": 3,
+     "difficulty_note": "yorum"
+    },
+    {
+     "qid": "tyt_mat_4_4|p104|q8",
+     "role": "zorlayici",
+     "why": "İki doğru arası bölgeyi eşitsizlik sistemiyle yazma",
+     "recommended": true,
+     "difficulty": 4,
+     "difficulty_note": "grafik yorum"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p49|q3",
+     "role": "zorlayici",
+     "why": "Öğrencinin kaçırdığı sorunun aynısı (2021 ÖSYM); çözüm sonrası tekrar için",
+     "recommended": false,
+     "difficulty": 4,
+     "difficulty_note": "ÖSYM; grafik yorum"
+    }
+   ]
+  },
+  {
+   "title": "Mantık — tek/çift sayı önermeleri",
+   "subject": "mat",
+   "why": "Soru 13: p⇒q yanlış, parite",
+   "source_images": [
+    "D:/Alper_irfanhoca/Denemeler/Branş/Mat/BSBD2/BSBD2_Mat_Mantık_Yanlış_13_B.jpeg"
+   ],
+   "items": [
+    {
+     "qid": "tyt_mat_4_4|p10|q18",
+     "role": "hatirlatici",
+     "why": "Tek/çift sayı önermelerinde bileşik önermenin yanlışlığı; çözümlü",
+     "recommended": true,
+     "difficulty": 2,
+     "difficulty_note": "temel parite"
+    },
+    {
+     "qid": "tyt_mat_4_4|p14|q8",
+     "role": "hatirlatici",
+     "why": "Tek/çift önerme, ⇒ yanlışsa değerler",
+     "recommended": true,
+     "difficulty": 2,
+     "difficulty_note": "temel"
+    },
+    {
+     "qid": "tyt_mat_4_4|p9|q15",
+     "role": "hatirlatici",
+     "why": "Çift gerektirme/bileşik önerme temel; çözümlü",
+     "recommended": true,
+     "difficulty": 2,
+     "difficulty_note": "temel"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p4|q6",
+     "role": "hatirlatici",
+     "why": "Doğruluk değeri 1 olan bileşik önermeler",
+     "recommended": false,
+     "difficulty": 2,
+     "difficulty_note": "temel"
+    },
+    {
+     "qid": "tyt_mat_4_4|p18|q10",
+     "role": "pekistirme",
+     "why": "Önerme ⇒ yanlış, işaret çıkarımı",
+     "recommended": true,
+     "difficulty": 3,
+     "difficulty_note": "iki adım"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p6|q11",
+     "role": "pekistirme",
+     "why": "Bileşik önerme sıfırsa doğruluk değerleri",
+     "recommended": true,
+     "difficulty": 3,
+     "difficulty_note": "iki adım"
+    },
+    {
+     "qid": "tyt_mat_4_4|p17|q5",
+     "role": "pekistirme",
+     "why": "Bileşik önerme denkliği",
+     "recommended": true,
+     "difficulty": 3,
+     "difficulty_note": "çok adım"
+    },
+    {
+     "qid": "tyt_mat_4_4|p18|q8",
+     "role": "pekistirme",
+     "why": "Denk önerme",
+     "recommended": false,
+     "difficulty": 3,
+     "difficulty_note": "kural bilgisi"
+    },
+    {
+     "qid": "tyt_mat_4_4|p20|q6",
+     "role": "zorlayici",
+     "why": "Parite + önermeyi yanlış kılan durum",
+     "recommended": true,
+     "difficulty": 4,
+     "difficulty_note": "çok adımlı, parite"
+    },
+    {
+     "qid": "tyt_mat_3Adm|p7|q2",
+     "role": "zorlayici",
+     "why": "Önerme doğruluk analizi",
+     "recommended": true,
+     "difficulty": 4,
+     "difficulty_note": "ÖSYM tarzı"
+    }
+   ]
+  }
+ ]
+}

@@ -189,7 +189,7 @@
  },
  "tyt_mat_4_4|p98|q9": {
   "claude": 3,
-  "note": "sistem"
+  "note": "çok adım"
  },
  "tyt_mat_4_4|p98|q10": {
   "claude": 3,
@@ -197,7 +197,7 @@
  },
  "tyt_mat_3Adm|p41|q4": {
   "claude": 3,
-  "note": "üç koşul, işaret"
+  "note": "çok koşul"
  },
  "tyt_mat_3Adm|p47|q7": {
   "claude": 3,
@@ -213,11 +213,11 @@
  },
  "tyt_mat_3Adm|p49|q3": {
   "claude": 4,
-  "note": "ÖSYM, grafik yorumu"
+  "note": "ÖSYM; grafik yorum"
  },
  "tyt_mat_4_4|p104|q8": {
   "claude": 4,
-  "note": "ters yönlü düşünme"
+  "note": "grafik yorum"
  },
  "tyt_mat_3Adm|p50|q5": {
   "claude": 4,
@@ -278,5 +278,189 @@
  "tyt_mat_3Adm|p121|q3": {
   "claude": 4,
   "note": "ÖSYM, kısıtlı sayma"
+ },
+ "tyt_mat_4_4|p521|q1": {
+  "claude": 2,
+  "note": "tek kavram, çözümlü"
+ },
+ "tyt_mat_3Adm|p201|q3": {
+  "claude": 2,
+  "note": "temel yüzey alanı"
+ },
+ "tyt_mat_4_4|p522|q4": {
+  "claude": 2,
+  "note": "temel uygulama, çözümlü"
+ },
+ "tyt_mat_3Adm|p201|q1": {
+  "claude": 2,
+  "note": "temel uygulama"
+ },
+ "tyt_mat_3Adm|p201|q4": {
+  "claude": 2,
+  "note": "temel uygulama"
+ },
+ "tyt_mat_4_4|p541|q5": {
+  "claude": 3,
+  "note": "iki dik üçgen"
+ },
+ "tyt_mat_4_4|p542|q9": {
+  "claude": 3,
+  "note": "çok adımlı"
+ },
+ "tyt_mat_3Adm|p204|q8": {
+  "claude": 3,
+  "note": "iki adım"
+ },
+ "tyt_mat_4_4|p546|q5": {
+  "claude": 3,
+  "note": "iki adım"
+ },
+ "tyt_mat_3Adm|p203|q3": {
+  "claude": 3,
+  "note": "mantık yürütme"
+ },
+ "tyt_mat_4_4|p542|q11": {
+  "claude": 3,
+  "note": "hacim oranı"
+ },
+ "tyt_mat_3Adm|p204|q9": {
+  "claude": 3,
+  "note": "sayma"
+ },
+ "tyt_mat_3Adm|p205|q3": {
+  "claude": 4,
+  "note": "ÖSYM; formül yorumlama"
+ },
+ "tyt_mat_3Adm|p206|q6": {
+  "claude": 4,
+  "note": "ÖSYM; çok adımlı"
+ },
+ "tyt_mat_3Adm|p205|q1": {
+  "claude": 4,
+  "note": "ÖSYM"
+ },
+ "tyt_mat_3Adm|p206|q7": {
+  "claude": 4,
+  "note": "ÖSYM"
+ },
+ "tyt_mat_3Adm|p184|q5": {
+  "claude": 2,
+  "note": "temel köşegen özelliği"
+ },
+ "tyt_mat_3Adm|p184|q8": {
+  "claude": 2,
+  "note": "pisagor/köşegen"
+ },
+ "tyt_mat_3Adm|p184|q7": {
+  "claude": 2,
+  "note": "öklid/benzerlik"
+ },
+ "tyt_mat_3Adm|p183|q3": {
+  "claude": 1,
+  "note": "tek adım"
+ },
+ "tyt_mat_3Adm|p184|q9": {
+  "claude": 2,
+  "note": "açı hesabı"
+ },
+ "tyt_mat_3Adm|p185|q2": {
+  "claude": 3,
+  "note": "katlama + pisagor"
+ },
+ "tyt_mat_3Adm|p185|q3": {
+  "claude": 3,
+  "note": "açı katlama"
+ },
+ "tyt_mat_3Adm|p186|q5": {
+  "claude": 3,
+  "note": "pisagor"
+ },
+ "tyt_mat_3Adm|p186|q9": {
+  "claude": 3,
+  "note": "benzerlik + pisagor"
+ },
+ "tyt_mat_3Adm|p185|q1": {
+  "claude": 3,
+  "note": "dizilim"
+ },
+ "tyt_mat_3Adm|p186|q7": {
+  "claude": 3,
+  "note": "alan"
+ },
+ "tyt_mat_3Adm|p186|q8": {
+  "claude": 3,
+  "note": "alan"
+ },
+ "tyt_mat_3Adm|p187|q4": {
+  "claude": 4,
+  "note": "ÖSYM; benzerlik"
+ },
+ "tyt_mat_3Adm|p187|q2": {
+  "claude": 4,
+  "note": "ÖSYM"
+ },
+ "tyt_mat_3Adm|p187|q1": {
+  "claude": 4,
+  "note": "ÖSYM"
+ },
+ "tyt_mat_3Adm|p188|q7": {
+  "claude": 4,
+  "note": "ÖSYM"
+ },
+ "tyt_mat_4_4|p86|q29": {
+  "claude": 2,
+  "note": "doğru denklemi + yön"
+ },
+ "tyt_mat_4_4|p90|q43": {
+  "claude": 2,
+  "note": "işaret analizi"
+ },
+ "tyt_mat_4_4|p80|q12": {
+  "claude": 2,
+  "note": "temel"
+ },
+ "tyt_mat_4_4|p102|q10": {
+  "claude": 3,
+  "note": "yorum"
+ },
+ "tyt_mat_4_4|p10|q18": {
+  "claude": 2,
+  "note": "temel parite"
+ },
+ "tyt_mat_4_4|p14|q8": {
+  "claude": 2,
+  "note": "temel"
+ },
+ "tyt_mat_4_4|p9|q15": {
+  "claude": 2,
+  "note": "temel"
+ },
+ "tyt_mat_3Adm|p4|q6": {
+  "claude": 2,
+  "note": "temel"
+ },
+ "tyt_mat_4_4|p18|q10": {
+  "claude": 3,
+  "note": "iki adım"
+ },
+ "tyt_mat_3Adm|p6|q11": {
+  "claude": 3,
+  "note": "iki adım"
+ },
+ "tyt_mat_4_4|p17|q5": {
+  "claude": 3,
+  "note": "çok adım"
+ },
+ "tyt_mat_4_4|p18|q8": {
+  "claude": 3,
+  "note": "kural bilgisi"
+ },
+ "tyt_mat_4_4|p20|q6": {
+  "claude": 4,
+  "note": "çok adımlı, parite"
+ },
+ "tyt_mat_3Adm|p7|q2": {
+  "claude": 4,
+  "note": "ÖSYM tarzı"
  }
 }

@@ -11,8 +11,8 @@ Soru UYDURMA. Sadece soru bankasındaki (`python -m app.qbank ...`) sorulardan `
 Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
 
 - `student`, `teacher_note` (öğretmenin özel isteği — öncelikli uy)
-- `exams[]`: seçilen sınavlar. Her birinde `images[]` (yapamadığı soruların fotoğrafları; `subject`,
-  `topic`, `status` [Yanlış/Boş/Yapamadı/Zorlandı], `no`, `answer`, `path`), varsa `analysis`
+- `exams[]`: seçilen sınavlar. Her birinde `images[]` (eksik gösteren soruların fotoğrafları; `subject`,
+  `topic`, `status`, `no`, `answer`, `path`), varsa `analysis`
   (sonuç PDF'inin çözümlenmiş hali), `result_pdf` ve `booklet_pdfs` (deneme kitapçığı).
 - `images[]`: öğretmenin ayrıca işaretlediği tekil soru görselleri (varsa sadece bunlara odaklan).
 - `subjects[]`: sadece bu dersler (boşsa hepsi).
@@ -23,14 +23,20 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
 
 1. **Görevi oku.** `task.json`'ı Read ile aç. Kısa bir plan yap (TodoWrite).
 2. **Teşhis.**
-   - Her yapamadığı soru görselini **Read ile aç ve soruyu gerçekten incele.** Dosya adındaki konu
-     etiketi kabadır (örn. "Sayı"); asıl eksik beceriyi bul (örn. "ardışık sayı toplamı",
-     "ters fonksiyonda f⁻¹(a)=b ⇒ f(b)=a"). Doğru cevap dosya adının sonundadır.
+   - Her soru görselini **Read ile aç ve soruyu gerçekten incele.** Öğretmen hız için çoğu zaman sadece
+     **durumu** girer: `subject`, `topic`, `no`, `answer` boş olabilir. Dersi, konuyu ve asıl eksik
+     beceriyi görselden sen çıkar (örn. "ardışık sayı toplamı", "ters fonksiyonda f⁻¹(a)=b ⇒ f(b)=a").
+     Konu etiketi verilmişse de kabadır, görsele güven. Cevap gerekirse soruyu çöz.
+   - **Durumların anlamı ve ağırlığı:**
+     - `Yapamadı` (ve `Boş`): soruya başlayamamış → temel kavram eksik, **hatırlatıcı + çözümlü örnek ağırlıklı**, en yüksek öncelik.
+     - `Yanlış`: başlamış ama hata yapmış → işlem/yorum/dikkat → **pekiştirme ağırlıklı**.
+     - `Tereddütlü` (doğru yaptı ama emin değil): bilgi oturmamış → kısa **pekiştirme**, birkaç da zorlayıcı;
+       en düşük öncelik, konu sayısı sınırını doldururken en son bunlara yer ver.
    - `analysis` yoksa ama `result_pdf` varsa: `python -m app.qbank pdftext "<pdf>"` ile konu analizini
      oku (No / Konu / Doğru Cevap / Öğrenci Cevabı; boş = boş bırakmış, farklı = yanlış).
    - Kitapçık varsa ve görsel yoksa, yanlış sorunun sayfasını `python -m app.qbank pdfpng "<pdf>" <sayfa>`
      ile görebilirsin (gerekirse).
-   - Konuları önceliklendir: tekrar eden eksik > Yapamadı/Boş > Yanlış > Zorlandı; yakın tarihli sınav
+   - Konuları önceliklendir: tekrar eden eksik > Yapamadı/Boş > Yanlış > Tereddütlü; yakın tarihli sınav
      daha önemli. En fazla `max_topics` konu seç.
    - Öğrencinin seviyesini tahmin et: soruya hiç başlayamıyorsa (Boş/Yapamadı) temel kavram eksik →
      hatırlatıcı ağırlıklı; yanlış yaptıysa işlem/dikkat/uygulama → pekiştirme ağırlıklı.

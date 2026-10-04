@@ -87,15 +87,19 @@ def find_claude() -> str | None:
         p = shutil.which(name)
         if p:
             return p
-    candidates = []
+    # Claude masaüstü uygulamasının içindeki Claude Code. Klasör düzeni sürüme göre değişiyor:
+    #   claude-code/<sürüm>/claude.exe   veya   claude-code/<sürüm>/<kod>/claude.exe
+    roots = []
     for base in (os.environ.get("APPDATA", ""), os.environ.get("LOCALAPPDATA", "")):
         if base:
-            candidates += glob.glob(os.path.join(base, "Claude", "claude-code", "*", "claude.exe"))
+            roots.append(os.path.join(base, "Claude", "claude-code"))
     # Microsoft Store (MSIX) kurulumu: dosyalar paketin sanal klasöründedir, paket dışından sadece burada görünür
     local = os.environ.get("LOCALAPPDATA", "")
     if local:
-        candidates += glob.glob(os.path.join(local, "Packages", "Claude_*", "LocalCache", "Roaming", "Claude",
-                                             "claude-code", "*", "claude.exe"))
+        roots += glob.glob(os.path.join(local, "Packages", "Claude_*", "LocalCache", "Roaming", "Claude", "claude-code"))
+    candidates = []
+    for r in roots:
+        candidates += glob.glob(os.path.join(r, "*", "claude.exe")) + glob.glob(os.path.join(r, "*", "*", "claude.exe"))
     home = Path.home()
     candidates += [str(home / ".local" / "bin" / "claude.exe"), str(home / ".claude" / "local" / "claude.exe")]
     candidates = [c for c in candidates if Path(c).exists()]
@@ -103,9 +107,12 @@ def find_claude() -> str | None:
         return None
 
     def ver(p):
-        try:
-            return tuple(int(x) for x in Path(p).parent.name.split("."))
-        except ValueError:
-            return (0,)
+        parts = Path(p).parts
+        if "claude-code" in parts:
+            try:
+                return tuple(int(x) for x in parts[parts.index("claude-code") + 1].split("."))
+            except (ValueError, IndexError):
+                pass
+        return (0,)
 
     return sorted(candidates, key=ver)[-1]
